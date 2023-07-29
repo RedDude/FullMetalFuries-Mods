@@ -1,0 +1,542 @@
+<xml>
+  <bitmap spriteName="CharSelect_Titan_Portrait" index="1" ssX="0" ssY="0" ssWidth="198" ssHeight="349" anchorX="98" anchorY="0" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="GetItem_TitanPortrait" index="1" ssX="199" ssY="0" ssWidth="200" ssHeight="213" anchorX="97" anchorY="106" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="WrapUp_Titan_Portrait" index="1" ssX="0" ssY="350" ssWidth="136" ssHeight="142" anchorX="65" anchorY="70" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="CampIcon_Titan" index="1" ssX="400" ssY="0" ssWidth="41" ssHeight="77" anchorX="21.5" anchorY="21.5" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="SkillTree_Titan_Avatar" index="1" ssX="400" ssY="78" ssWidth="81" ssHeight="67" anchorX="47" anchorY="51" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="60" ssX="400" ssY="146" ssWidth="80" ssHeight="64" anchorX="0" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="Attack5Start"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="41" ssX="442" ssY="0" ssWidth="61" ssHeight="61" anchorX="-15" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="Attack3Start"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="114" ssX="199" ssY="214" ssWidth="66" ssHeight="60" anchorX="-13" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="Spell3AttackStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="115" ssX="266" ssY="214" ssWidth="55" ssHeight="58" anchorX="-24" anchorY="-1" editorAnchorX="0" editorAnchorY="0" label="Spell3AttackStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="42" ssX="322" ssY="214" ssWidth="65" ssHeight="56" anchorX="-11" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="Attack3Start"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="48" ssX="400" ssY="211" ssWidth="64" ssHeight="53" anchorX="-12" anchorY="-4" editorAnchorX="0" editorAnchorY="0" label="Attack4Start"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="43" ssX="481" ssY="146" ssWidth="30" ssHeight="53" anchorX="-10" anchorY="-3" editorAnchorX="0" editorAnchorY="0" label="Attack3End"/>
+  <bitmap spriteName="SkillTree_Titan_NamePlate" index="1" ssX="199" ssY="275" ssWidth="184" ssHeight="52" anchorX="84" anchorY="36" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="45" ssX="465" ssY="211" ssWidth="31" ssHeight="52" anchorX="-10" anchorY="-4" editorAnchorX="0" editorAnchorY="0" label="Attack4Start"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="44" ssX="465" ssY="211" ssWidth="31" ssHeight="52" anchorX="-10" anchorY="-4" editorAnchorX="0" editorAnchorY="0" label="Attack4Start"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="47" ssX="482" ssY="62" ssWidth="27" ssHeight="52" anchorX="-14" anchorY="-4" editorAnchorX="0" editorAnchorY="0" label="Attack4Start"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="46" ssX="388" ssY="265" ssWidth="28" ssHeight="51" anchorX="-13" anchorY="-5" editorAnchorX="0" editorAnchorY="0" label="Attack4Start"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="116" ssX="417" ssY="265" ssWidth="56" ssHeight="45" anchorX="-23" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="Spell3AttackStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="117" ssX="137" ssY="350" ssWidth="56" ssHeight="44" anchorX="-23" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="Spell3AttackStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="33" ssX="199" ssY="328" ssWidth="75" ssHeight="42" anchorX="-1" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="Attack1Start"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="113" ssX="275" ssY="328" ssWidth="39" ssHeight="42" anchorX="-7" anchorY="-14" editorAnchorX="0" editorAnchorY="0" label="Spell3AttackStart"/>
+  <bitmap spriteName="GameStats_Titan" index="1" ssX="315" ssY="328" ssWidth="128" ssHeight="41" anchorX="2" anchorY="1" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="36" ssX="137" ssY="395" ssWidth="69" ssHeight="41" anchorX="-7" anchorY="-16" editorAnchorX="0" editorAnchorY="0" label="Attack2Start"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="91" ssX="444" ssY="311" ssWidth="64" ssHeight="40" anchorX="0" anchorY="-16" editorAnchorX="0" editorAnchorY="0" label="Spell2AttackStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="84" ssX="474" ssY="264" ssWidth="33" ssHeight="40" anchorX="-24" anchorY="-21" editorAnchorX="0" editorAnchorY="0" label="Spell1ExitStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="93" ssX="207" ssY="371" ssWidth="64" ssHeight="39" anchorX="0" anchorY="-17" editorAnchorX="0" editorAnchorY="0" label="Spell2AttackStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="110" ssX="272" ssY="371" ssWidth="37" ssHeight="39" anchorX="-3" anchorY="-17" editorAnchorX="0" editorAnchorY="0" label="Spell3TellEnd"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="58" ssX="315" ssY="370" ssWidth="34" ssHeight="38" anchorX="-7" anchorY="-18" editorAnchorX="0" editorAnchorY="0" label="Attack5Start"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="83" ssX="350" ssY="370" ssWidth="33" ssHeight="38" anchorX="-19" anchorY="-23" editorAnchorX="0" editorAnchorY="0" label="Spell1AttackEnd"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="82" ssX="384" ssY="370" ssWidth="33" ssHeight="38" anchorX="-19" anchorY="-24" editorAnchorX="0" editorAnchorY="0" label="Spell1AttackStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="73" ssX="418" ssY="370" ssWidth="50" ssHeight="37" anchorX="-1" anchorY="-19" editorAnchorX="0" editorAnchorY="0" label="CounterStrikeStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="81" ssX="469" ssY="352" ssWidth="37" ssHeight="37" anchorX="-10" anchorY="-20" editorAnchorX="0" editorAnchorY="0" label="Spell1TellEnd"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="74" ssX="137" ssY="437" ssWidth="49" ssHeight="36" anchorX="0" anchorY="-20" editorAnchorX="0" editorAnchorY="0" label="CounterStrikeStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="112" ssX="187" ssY="437" ssWidth="39" ssHeight="36" anchorX="-5" anchorY="-20" editorAnchorX="0" editorAnchorY="0" label="Spell3AttackStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="111" ssX="227" ssY="411" ssWidth="37" ssHeight="36" anchorX="-4" anchorY="-20" editorAnchorX="0" editorAnchorY="0" label="Spell3AttackStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="61" ssX="265" ssY="411" ssWidth="78" ssHeight="35" anchorX="0" anchorY="-29" editorAnchorX="0" editorAnchorY="0" label="Attack5Start"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="57" ssX="344" ssY="409" ssWidth="35" ssHeight="35" anchorX="-5" anchorY="-21" editorAnchorX="0" editorAnchorY="0" label="Attack5Start"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="62" ssX="380" ssY="409" ssWidth="45" ssHeight="34" anchorX="0" anchorY="-29" editorAnchorX="0" editorAnchorY="0" label="Attack5Start"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="118" ssX="426" ssY="408" ssWidth="39" ssHeight="34" anchorX="-10" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="Spell3AttackEnd"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="85" ssX="469" ssY="390" ssWidth="39" ssHeight="34" anchorX="-10" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="Spell1ExitEnd"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="109" ssX="0" ssY="493" ssWidth="37" ssHeight="34" anchorX="-3" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="Spell3TellStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="72" ssX="38" ssY="493" ssWidth="39" ssHeight="33" anchorX="-10" anchorY="-23" editorAnchorX="0" editorAnchorY="0" label="CounterBlockEnd"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="107" ssX="78" ssY="493" ssWidth="39" ssHeight="33" anchorX="-5" anchorY="-23" editorAnchorX="0" editorAnchorY="0" label="Spell3TellStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="80" ssX="118" ssY="493" ssWidth="40" ssHeight="32" anchorX="-7" anchorY="-24" editorAnchorX="0" editorAnchorY="0" label="Spell1TellStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="88" ssX="159" ssY="474" ssWidth="39" ssHeight="32" anchorX="-6" anchorY="-24" editorAnchorX="0" editorAnchorY="0" label="Spell2TellEnd"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="90" ssX="159" ssY="474" ssWidth="39" ssHeight="32" anchorX="-6" anchorY="-24" editorAnchorX="0" editorAnchorY="0" label="Spell2TellEnd"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="79" ssX="199" ssY="474" ssWidth="39" ssHeight="32" anchorX="-7" anchorY="-24" editorAnchorX="0" editorAnchorY="0" label="Spell1TellStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="87" ssX="319" ssY="447" ssWidth="39" ssHeight="32" anchorX="-7" anchorY="-24" editorAnchorX="0" editorAnchorY="0" label="Spell2TellStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="32" ssX="239" ssY="448" ssWidth="39" ssHeight="32" anchorX="-7" anchorY="-24" editorAnchorX="0" editorAnchorY="0" label="Attack1Start"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="108" ssX="279" ssY="447" ssWidth="39" ssHeight="32" anchorX="-2" anchorY="-24" editorAnchorX="0" editorAnchorY="0" label="Spell3TellStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="89" ssX="159" ssY="474" ssWidth="39" ssHeight="32" anchorX="-6" anchorY="-24" editorAnchorX="0" editorAnchorY="0" label="Spell2TellEnd"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="86" ssX="319" ssY="447" ssWidth="39" ssHeight="32" anchorX="-7" anchorY="-24" editorAnchorX="0" editorAnchorY="0" label="Spell2TellStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="71" ssX="359" ssY="445" ssWidth="38" ssHeight="32" anchorX="-11" anchorY="-24" editorAnchorX="0" editorAnchorY="0" label="CounterBlockStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="94" ssX="398" ssY="444" ssWidth="41" ssHeight="31" anchorX="0" anchorY="-25" editorAnchorX="0" editorAnchorY="0" label="Spell2AttackEnd"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="59" ssX="440" ssY="443" ssWidth="40" ssHeight="31" anchorX="0" anchorY="-25" editorAnchorX="0" editorAnchorY="0" label="Attack5Start"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="106" ssX="0" ssY="528" ssWidth="39" ssHeight="31" anchorX="-8" anchorY="-25" editorAnchorX="0" editorAnchorY="0" label="Spell3TellStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="37" ssX="40" ssY="527" ssWidth="39" ssHeight="31" anchorX="-6" anchorY="-25" editorAnchorX="0" editorAnchorY="0" label="Attack2End"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="38" ssX="80" ssY="527" ssWidth="39" ssHeight="31" anchorX="-7" anchorY="-25" editorAnchorX="0" editorAnchorY="0" label="Attack3Start"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="77" ssX="159" ssY="507" ssWidth="38" ssHeight="31" anchorX="-8" anchorY="-25" editorAnchorX="0" editorAnchorY="0" label="CounterExitEnd"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="105" ssX="120" ssY="526" ssWidth="38" ssHeight="31" anchorX="-9" anchorY="-25" editorAnchorX="0" editorAnchorY="0" label="Spell3TellStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="76" ssX="159" ssY="507" ssWidth="38" ssHeight="31" anchorX="-8" anchorY="-25" editorAnchorX="0" editorAnchorY="0" label="CounterExitStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="78" ssX="198" ssY="507" ssWidth="38" ssHeight="31" anchorX="-9" anchorY="-25" editorAnchorX="0" editorAnchorY="0" label="Spell1TellStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="92" ssX="239" ssY="481" ssWidth="42" ssHeight="30" anchorX="-22" anchorY="-26" editorAnchorX="0" editorAnchorY="0" label="Spell2AttackStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="39" ssX="282" ssY="480" ssWidth="39" ssHeight="30" anchorX="-7" anchorY="-26" editorAnchorX="0" editorAnchorY="0" label="Attack3Start"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="40" ssX="322" ssY="480" ssWidth="39" ssHeight="30" anchorX="-9" anchorY="-26" editorAnchorX="0" editorAnchorY="0" label="Attack3Start"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="104" ssX="362" ssY="478" ssWidth="38" ssHeight="30" anchorX="-9" anchorY="-26" editorAnchorX="0" editorAnchorY="0" label="Spell2ExitEnd"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="70" ssX="362" ssY="478" ssWidth="38" ssHeight="30" anchorX="-9" anchorY="-26" editorAnchorX="0" editorAnchorY="0" label="Attack5End"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="96" ssX="401" ssY="476" ssWidth="58" ssHeight="29" anchorX="-1" anchorY="-30" editorAnchorX="0" editorAnchorY="0" label="Spell2ExitStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="95" ssX="401" ssY="476" ssWidth="58" ssHeight="29" anchorX="-1" anchorY="-30" editorAnchorX="0" editorAnchorY="0" label="Spell2ExitStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="56" ssX="460" ssY="475" ssWidth="37" ssHeight="29" anchorX="-5" anchorY="-27" editorAnchorX="0" editorAnchorY="0" label="Attack5Start"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="8" ssX="482" ssY="115" ssWidth="28" ssHeight="29" anchorX="-17" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="RunStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="13" ssX="481" ssY="425" ssWidth="27" ssHeight="29" anchorX="-18" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="RunStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="153" ssX="0" ssY="560" ssWidth="24" ssHeight="29" anchorX="-20" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="JumpRisingStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="156" ssX="0" ssY="560" ssWidth="24" ssHeight="29" anchorX="-20" anchorY="-22.7" editorAnchorX="0" editorAnchorY="0" label="JumpFallingStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="151" ssX="0" ssY="560" ssWidth="24" ssHeight="29" anchorX="-20" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="JumpRisingStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="157" ssX="0" ssY="560" ssWidth="24" ssHeight="29" anchorX="-20" anchorY="-24.1" editorAnchorX="0" editorAnchorY="0" label="JumpFallingStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="152" ssX="0" ssY="560" ssWidth="24" ssHeight="29" anchorX="-20" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="JumpRisingStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="158" ssX="0" ssY="560" ssWidth="24" ssHeight="29" anchorX="-20" anchorY="-24.8" editorAnchorX="0" editorAnchorY="0" label="JumpFallingStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="154" ssX="0" ssY="560" ssWidth="24" ssHeight="29" anchorX="-20" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="JumpRisingEnd"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="159" ssX="0" ssY="560" ssWidth="24" ssHeight="29" anchorX="-20" anchorY="-26.2" editorAnchorX="0" editorAnchorY="0" label="JumpFallingStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="155" ssX="0" ssY="560" ssWidth="24" ssHeight="29" anchorX="-20" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="JumpFallingStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="160" ssX="0" ssY="560" ssWidth="24" ssHeight="29" anchorX="-20" anchorY="-26.65" editorAnchorX="0" editorAnchorY="0" label="JumpFallingEnd"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="20" ssX="25" ssY="560" ssWidth="19" ssHeight="29" anchorX="-22" anchorY="-27" editorAnchorX="0" editorAnchorY="0" label="StunEnd"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="49" ssX="45" ssY="559" ssWidth="64" ssHeight="28" anchorX="-8" anchorY="-29" editorAnchorX="0" editorAnchorY="0" label="Attack4Start"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="75" ssX="120" ssY="558" ssWidth="43" ssHeight="28" anchorX="0" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="CounterStrikeEnd"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="103" ssX="164" ssY="539" ssWidth="39" ssHeight="28" anchorX="-3" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="Spell2ExitStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="64" ssX="164" ssY="539" ssWidth="39" ssHeight="28" anchorX="-3" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="Attack5Start"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="63" ssX="164" ssY="539" ssWidth="39" ssHeight="28" anchorX="-3" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="Attack5Start"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="68" ssX="164" ssY="539" ssWidth="39" ssHeight="28" anchorX="-3" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="OLSSTOPPERend"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="65" ssX="164" ssY="539" ssWidth="39" ssHeight="28" anchorX="-3" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="Attack5Start"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="66" ssX="164" ssY="539" ssWidth="39" ssHeight="28" anchorX="-3" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="Attack5Start"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="67" ssX="164" ssY="539" ssWidth="39" ssHeight="28" anchorX="-3" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="OLSSTOPPERend"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="69" ssX="164" ssY="539" ssWidth="39" ssHeight="28" anchorX="-3" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="OLSSTOPPERend"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="17" ssX="204" ssY="539" ssWidth="28" ssHeight="28" anchorX="-17" anchorY="-29" editorAnchorX="0" editorAnchorY="0" label="RunEnd"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="12" ssX="237" ssY="512" ssWidth="28" ssHeight="28" anchorX="-17" anchorY="-29" editorAnchorX="0" editorAnchorY="0" label="RunStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="9" ssX="266" ssY="512" ssWidth="28" ssHeight="28" anchorX="-17" anchorY="-29" editorAnchorX="0" editorAnchorY="0" label="RunStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="14" ssX="295" ssY="511" ssWidth="26" ssHeight="28" anchorX="-19" anchorY="-29" editorAnchorX="0" editorAnchorY="0" label="RunStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="22" ssX="322" ssY="511" ssWidth="22" ssHeight="28" anchorX="-20" anchorY="-26" editorAnchorX="0" editorAnchorY="0" label="KORisingEnd"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="21" ssX="322" ssY="511" ssWidth="22" ssHeight="28" anchorX="-20" anchorY="-26" editorAnchorX="0" editorAnchorY="0" label="KORisingStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="134" ssX="497" ssY="200" ssWidth="14" ssHeight="28" anchorX="-26" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="ReadyStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="141" ssX="497" ssY="200" ssWidth="14" ssHeight="28" anchorX="-26" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="ReadyStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="128" ssX="497" ssY="200" ssWidth="14" ssHeight="28" anchorX="-26" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="124" ssX="497" ssY="200" ssWidth="14" ssHeight="28" anchorX="-26" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="145" ssX="497" ssY="200" ssWidth="14" ssHeight="28" anchorX="-26" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="ReadyLoopStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="125" ssX="497" ssY="200" ssWidth="14" ssHeight="28" anchorX="-26" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="149" ssX="497" ssY="200" ssWidth="14" ssHeight="28" anchorX="-26" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="JumpTellStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="136" ssX="497" ssY="200" ssWidth="14" ssHeight="28" anchorX="-26" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="ReadyStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="148" ssX="497" ssY="200" ssWidth="14" ssHeight="28" anchorX="-26" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="JumpTellStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="143" ssX="497" ssY="200" ssWidth="14" ssHeight="28" anchorX="-26" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="ReadyEnd"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="147" ssX="497" ssY="200" ssWidth="14" ssHeight="28" anchorX="-26" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="ReadyLoopEnd"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="146" ssX="497" ssY="200" ssWidth="14" ssHeight="28" anchorX="-26" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="ReadyLoopStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="3" ssX="497" ssY="229" ssWidth="14" ssHeight="28" anchorX="-26" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="StandStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="135" ssX="497" ssY="200" ssWidth="14" ssHeight="28" anchorX="-26" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="ReadyStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="4" ssX="497" ssY="229" ssWidth="14" ssHeight="28" anchorX="-26" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="StandStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="5" ssX="497" ssY="229" ssWidth="14" ssHeight="28" anchorX="-26" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="StandStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="137" ssX="497" ssY="200" ssWidth="14" ssHeight="28" anchorX="-26" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="ReadyStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="138" ssX="497" ssY="200" ssWidth="14" ssHeight="28" anchorX="-26" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="ReadyStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="126" ssX="497" ssY="200" ssWidth="14" ssHeight="28" anchorX="-26" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="7" ssX="497" ssY="229" ssWidth="14" ssHeight="28" anchorX="-26" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="StandEnd"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="127" ssX="497" ssY="200" ssWidth="14" ssHeight="28" anchorX="-26" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="150" ssX="497" ssY="200" ssWidth="14" ssHeight="28" anchorX="-26" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="JumpTellEnd"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="2" ssX="497" ssY="229" ssWidth="14" ssHeight="28" anchorX="-26" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="StandStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="142" ssX="497" ssY="200" ssWidth="14" ssHeight="28" anchorX="-26" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="ReadyStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="129" ssX="497" ssY="200" ssWidth="14" ssHeight="28" anchorX="-26" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="139" ssX="497" ssY="200" ssWidth="14" ssHeight="28" anchorX="-26" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="ReadyStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="130" ssX="497" ssY="200" ssWidth="14" ssHeight="28" anchorX="-26" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="1" ssX="497" ssY="229" ssWidth="14" ssHeight="28" anchorX="-26" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="StandStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="131" ssX="497" ssY="200" ssWidth="14" ssHeight="28" anchorX="-26" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="140" ssX="497" ssY="200" ssWidth="14" ssHeight="28" anchorX="-26" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="ReadyStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="132" ssX="497" ssY="200" ssWidth="14" ssHeight="28" anchorX="-26" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="FlavourEnd"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="133" ssX="497" ssY="200" ssWidth="14" ssHeight="28" anchorX="-26" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="ReadyStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="144" ssX="497" ssY="200" ssWidth="14" ssHeight="28" anchorX="-26" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="ReadyLoopStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="6" ssX="497" ssY="229" ssWidth="14" ssHeight="28" anchorX="-26" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="StandStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="54" ssX="362" ssY="509" ssWidth="40" ssHeight="27" anchorX="-4" anchorY="-29" editorAnchorX="0" editorAnchorY="0" label="Attack5Start"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="55" ssX="362" ssY="509" ssWidth="40" ssHeight="27" anchorX="-4" anchorY="-29" editorAnchorX="0" editorAnchorY="0" label="Attack5Start"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="53" ssX="403" ssY="506" ssWidth="39" ssHeight="27" anchorX="-6" anchorY="-29" editorAnchorX="0" editorAnchorY="0" label="Attack5Start"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="52" ssX="403" ssY="506" ssWidth="39" ssHeight="27" anchorX="-6" anchorY="-29" editorAnchorX="0" editorAnchorY="0" label="Attack5Start"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="51" ssX="460" ssY="505" ssWidth="39" ssHeight="27" anchorX="-7" anchorY="-29" editorAnchorX="0" editorAnchorY="0" label="Attack4End"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="50" ssX="460" ssY="505" ssWidth="39" ssHeight="27" anchorX="-7" anchorY="-29" editorAnchorX="0" editorAnchorY="0" label="Attack4Start"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="11" ssX="233" ssY="541" ssWidth="28" ssHeight="27" anchorX="-17" anchorY="-30" editorAnchorX="0" editorAnchorY="0" label="RunStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="16" ssX="262" ssY="541" ssWidth="27" ssHeight="27" anchorX="-18" anchorY="-30" editorAnchorX="0" editorAnchorY="0" label="RunStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="15" ssX="295" ssY="540" ssWidth="27" ssHeight="27" anchorX="-18" anchorY="-30" editorAnchorX="0" editorAnchorY="0" label="RunStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="10" ssX="323" ssY="540" ssWidth="25" ssHeight="27" anchorX="-19" anchorY="-30" editorAnchorX="0" editorAnchorY="0" label="RunStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="19" ssX="349" ssY="537" ssWidth="25" ssHeight="27" anchorX="-20" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="StunStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="31" ssX="498" ssY="455" ssWidth="13" ssHeight="27" anchorX="-27" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="KOGetUpEnd"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="123" ssX="498" ssY="455" ssWidth="13" ssHeight="27" anchorX="-27" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="UseEnd"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="119" ssX="498" ssY="455" ssWidth="13" ssHeight="27" anchorX="-27" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="UseStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="35" ssX="375" ssY="537" ssWidth="39" ssHeight="26" anchorX="-2" anchorY="-30" editorAnchorX="0" editorAnchorY="0" label="Attack2Start"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="120" ssX="415" ssY="534" ssWidth="13" ssHeight="26" anchorX="-28" anchorY="-30" editorAnchorX="0" editorAnchorY="0" label="UseStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="30" ssX="415" ssY="534" ssWidth="13" ssHeight="26" anchorX="-28" anchorY="-30" editorAnchorX="0" editorAnchorY="0" label="KOGetUpStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="122" ssX="415" ssY="534" ssWidth="13" ssHeight="26" anchorX="-28" anchorY="-30" editorAnchorX="0" editorAnchorY="0" label="UseStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="161" ssX="443" ssY="533" ssWidth="45" ssHeight="25" anchorX="-14" anchorY="-35" editorAnchorX="0" editorAnchorY="0" label="CrawlStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="171" ssX="0" ssY="590" ssWidth="43" ssHeight="25" anchorX="-18" anchorY="-35" editorAnchorX="0" editorAnchorY="0" label="CrawlStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="101" ssX="45" ssY="588" ssWidth="41" ssHeight="25" anchorX="0" anchorY="-31" editorAnchorX="0" editorAnchorY="0" label="Spell2ExitStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="97" ssX="45" ssY="588" ssWidth="41" ssHeight="25" anchorX="0" anchorY="-31" editorAnchorX="0" editorAnchorY="0" label="Spell2ExitStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="102" ssX="45" ssY="588" ssWidth="41" ssHeight="25" anchorX="0" anchorY="-31" editorAnchorX="0" editorAnchorY="0" label="Spell2ExitStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="98" ssX="45" ssY="588" ssWidth="41" ssHeight="25" anchorX="0" anchorY="-31" editorAnchorX="0" editorAnchorY="0" label="Spell2ExitStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="99" ssX="45" ssY="588" ssWidth="41" ssHeight="25" anchorX="0" anchorY="-31" editorAnchorX="0" editorAnchorY="0" label="Spell2ExitStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="100" ssX="45" ssY="588" ssWidth="41" ssHeight="25" anchorX="0" anchorY="-31" editorAnchorX="0" editorAnchorY="0" label="Spell2ExitStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="34" ssX="87" ssY="588" ssWidth="41" ssHeight="25" anchorX="0" anchorY="-31" editorAnchorX="0" editorAnchorY="0" label="Attack1End"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="18" ssX="129" ssY="587" ssWidth="23" ssHeight="25" anchorX="-20" anchorY="-30" editorAnchorX="0" editorAnchorY="0" label="StunStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="170" ssX="164" ssY="569" ssWidth="46" ssHeight="24" anchorX="-19" anchorY="-36" editorAnchorX="0" editorAnchorY="0" label="CrawlStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="162" ssX="211" ssY="569" ssWidth="45" ssHeight="24" anchorX="-10" anchorY="-36" editorAnchorX="0" editorAnchorY="0" label="CrawlStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="163" ssX="257" ssY="569" ssWidth="41" ssHeight="24" anchorX="-14" anchorY="-36" editorAnchorX="0" editorAnchorY="0" label="CrawlStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="121" ssX="489" ssY="533" ssWidth="14" ssHeight="24" anchorX="-28" anchorY="-32" editorAnchorX="0" editorAnchorY="0" label="UseStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="29" ssX="489" ssY="533" ssWidth="14" ssHeight="24" anchorX="-28" anchorY="-32" editorAnchorX="0" editorAnchorY="0" label="KOGetUpStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="167" ssX="299" ssY="568" ssWidth="49" ssHeight="23" anchorX="-20" anchorY="-36" editorAnchorX="0" editorAnchorY="0" label="CrawlStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="169" ssX="349" ssY="565" ssWidth="46" ssHeight="23" anchorX="-19" anchorY="-37" editorAnchorX="0" editorAnchorY="0" label="CrawlStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="172" ssX="396" ssY="564" ssWidth="43" ssHeight="23" anchorX="-15" anchorY="-37" editorAnchorX="0" editorAnchorY="0" label="CrawlEnd"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="164" ssX="440" ssY="559" ssWidth="39" ssHeight="23" anchorX="-17" anchorY="-36" editorAnchorX="0" editorAnchorY="0" label="CrawlStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="168" ssX="0" ssY="616" ssWidth="52" ssHeight="22" anchorX="-19" anchorY="-37" editorAnchorX="0" editorAnchorY="0" label="CrawlStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="165" ssX="53" ssY="614" ssWidth="40" ssHeight="22" anchorX="-20" anchorY="-36" editorAnchorX="0" editorAnchorY="0" label="CrawlStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="166" ssX="94" ssY="614" ssWidth="44" ssHeight="21" anchorX="-21" anchorY="-37" editorAnchorX="0" editorAnchorY="0" label="CrawlStart"/>
+  <bitmap spriteName="PlayerTitan_SmallHud" index="1" ssX="489" ssY="558" ssWidth="21" ssHeight="21" anchorX="10.5" anchorY="10.5" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="28" ssX="153" ssY="594" ssWidth="22" ssHeight="18" anchorX="-22" anchorY="-37" editorAnchorX="0" editorAnchorY="0" label="KOGetUpStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="27" ssX="176" ssY="594" ssWidth="32" ssHeight="16" anchorX="-19" anchorY="-42" editorAnchorX="0" editorAnchorY="0" label="KOGetUpStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="23" ssX="209" ssY="594" ssWidth="18" ssHeight="14" anchorX="-23" anchorY="-35" editorAnchorX="0" editorAnchorY="0" label="KOFallingStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="24" ssX="209" ssY="594" ssWidth="18" ssHeight="14" anchorX="-23" anchorY="-35" editorAnchorX="0" editorAnchorY="0" label="KOFallingEnd"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="25" ssX="228" ssY="594" ssWidth="26" ssHeight="13" anchorX="-19" anchorY="-42" editorAnchorX="0" editorAnchorY="0" label="KODownStart"/>
+  <bitmap spriteName="PlayerTitan_Sprite" index="26" ssX="228" ssY="594" ssWidth="26" ssHeight="13" anchorX="-19" anchorY="-42" editorAnchorX="0" editorAnchorY="0" label="KODownEnd"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="1" x="24" y="36" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="1" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="2" x="24" y="36" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="2" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="3" x="24" y="36" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="3" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="4" x="24" y="36" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="4" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="5" x="24" y="36" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="5" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="6" x="24" y="36" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="6" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="7" x="24" y="36" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="7" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="8" x="24" y="36" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="8" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="9" x="24" y="36" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="9" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="10" x="24" y="36" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="10" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="11" x="24" y="36" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="11" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="12" x="24" y="36" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="12" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="13" x="24" y="36" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="13" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="14" x="24" y="36" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="14" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="15" x="24" y="36" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="15" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="16" x="24" y="36" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="16" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="17" x="24" y="36" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="17" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="18" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="18" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="19" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="19" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="20" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="20" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="21" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="22" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="23" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="24" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="25" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="26" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="27" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="28" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="29" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="30" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="31" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="32" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="32" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="33" x="34.25" y="30.8" width="36" height="31" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="33" x="49.1" y="36.8" width="27" height="12" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="33" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="33" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="34" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="34" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="35" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="35" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="36" x="34.25" y="26.05" width="36" height="31" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="36" x="49.1" y="31.6" width="27" height="16" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="36" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="36" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="37" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="37" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="38" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="38" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="39" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="39" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="40" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="40" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="41" x="34.25" y="23.65" width="42" height="15" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="41" x="34.25" y="23.65" width="37" height="25" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="41" x="34.25" y="23.65" width="25" height="34" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="41" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="41" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="42" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="42" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="43" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="43" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="44" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="44" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="45" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="45" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="46" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="46" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="47" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="47" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="48" x="34.25" y="23.65" width="42" height="15" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="48" x="34.25" y="23.65" width="37" height="25" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="48" x="34.25" y="23.65" width="25" height="34" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="48" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="48" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="49" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="49" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="50" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="50" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="51" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="51" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="52" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="52" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="53" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="53" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="54" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="54" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="55" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="55" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="56" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="56" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="57" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="57" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="58" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="58" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="59" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="59" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="60" x="28.1" y="22.25" width="51" height="19" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="60" x="28.1" y="22.25" width="45" height="31" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="60" x="28.1" y="22.25" width="35" height="36" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="60" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="60" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="61" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="61" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="62" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="62" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="63" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="63" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="64" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="64" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="65" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="65" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="66" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="66" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="67" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="67" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="68" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="68" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="69" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="69" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="70" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="70" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="71" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="71" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="72" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="72" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="73" x="14.6" y="22.4" width="36" height="30" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="73" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="74" x="14.6" y="22.4" width="36" height="30" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="74" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="75" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="75" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="76" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="76" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="77" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="77" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="78" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="78" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="79" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="79" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="80" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="80" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="81" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="82" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="82" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="83" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="83" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="84" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="84" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="85" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="85" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="86" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="86" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="87" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="87" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="88" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="88" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="89" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="89" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="90" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="90" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="91" x="-0.9" y="13.9" width="67" height="37" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="91" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="91" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="92" x="-0.9" y="13.9" width="67" height="37" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="92" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="92" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="93" x="-0.9" y="13.9" width="67" height="37" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="93" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="93" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="94" x="-0.9" y="13.9" width="67" height="37" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="94" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="94" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="95" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="95" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="96" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="96" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="97" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="97" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="98" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="98" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="99" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="99" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="100" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="100" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="101" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="101" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="102" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="102" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="103" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="103" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="104" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="104" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="105" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="105" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="106" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="106" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="107" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="107" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="108" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="108" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="109" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="109" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="110" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="110" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="111" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="111" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="112" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="112" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="113" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="113" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="114" x="34.25" y="23.65" width="42" height="39" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="114" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="114" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="115" x="34.25" y="23.65" width="42" height="39" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="115" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="115" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="116" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="116" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="117" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="117" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="118" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="118" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="119" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="119" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="120" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="120" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="121" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="121" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="122" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="122" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="123" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="123" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="124" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="124" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="125" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="125" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="126" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="126" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="127" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="127" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="128" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="128" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="129" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="129" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="130" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="130" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="131" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="131" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="132" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="132" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="133" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="133" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="134" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="134" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="135" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="135" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="136" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="136" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="137" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="137" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="138" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="138" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="139" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="139" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="140" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="140" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="141" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="141" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="142" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="142" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="143" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="143" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="144" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="144" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="145" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="145" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="146" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="146" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="147" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="147" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="148" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="148" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="149" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="149" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="150" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="150" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="151" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="151" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="152" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="152" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="153" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="153" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="154" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="154" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="155" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="155" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="156" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="156" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="157" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="157" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="158" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="158" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="159" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="159" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="160" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="160" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="161" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="161" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="162" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="162" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="163" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="163" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="164" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="164" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="165" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="165" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="166" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="166" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="167" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="167" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="168" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="168" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="169" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="169" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="170" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="170" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="171" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="171" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="172" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerTitan_Sprite" index="172" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <container containerName="PlayerTitan_Character" spriteName="PlayerTitan_Sprite" x="-33" y="-39" scaleX="1" scaleY="1" rotation="0" flipped="false" editorAnchorX="0" editorAnchorY="0"/>
+  <container containerName="PlayerTitan_Ui_Container" spriteName="PlayerTitan_SmallHud" x="-70.65" y="-104.5" scaleX="1" scaleY="1" rotation="0" flipped="false" editorAnchorX="0" editorAnchorY="0"/>
+  <container containerName="PlayerTitan_Ui_Container" spriteName="CharSelect_Titan_Portrait" x="-158.3" y="-80.4" scaleX="1" scaleY="1" rotation="0" flipped="false" editorAnchorX="0" editorAnchorY="0"/>
+  <container containerName="PlayerTitan_Ui_Container" spriteName="CampIcon_Titan" x="-102.65" y="-103.9" scaleX="1" scaleY="1" rotation="0" flipped="false" editorAnchorX="0" editorAnchorY="0"/>
+  <container containerName="PlayerTitan_Ui_Container" spriteName="GameStats_Titan" x="-256.3" y="-125.4" scaleX="1" scaleY="1" rotation="0" flipped="false" editorAnchorX="0" editorAnchorY="0"/>
+  <container containerName="PlayerTitan_Ui_Container" spriteName="SkillTree_Titan_NamePlate" x="276.15" y="-67" scaleX="1" scaleY="1" rotation="0" flipped="false" editorAnchorX="0" editorAnchorY="0"/>
+  <container containerName="PlayerTitan_Ui_Container" spriteName="SkillTree_Titan_Avatar" x="176.35" y="-69" scaleX="1" scaleY="1" rotation="0" flipped="false" editorAnchorX="0" editorAnchorY="0"/>
+  <container containerName="PlayerTitan_Ui_Container" spriteName="GetItem_TitanPortrait" x="-359.55" y="160.5" scaleX="1" scaleY="1" rotation="0" flipped="false" editorAnchorX="0" editorAnchorY="0"/>
+  <container containerName="PlayerTitan_Ui_Container" spriteName="WrapUp_Titan_Portrait" x="-327.55" y="-26" scaleX="1" scaleY="1" rotation="0" flipped="false" editorAnchorX="0" editorAnchorY="0"/>
+</xml>

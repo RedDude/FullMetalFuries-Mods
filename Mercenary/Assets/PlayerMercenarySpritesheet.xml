@@ -1,0 +1,937 @@
+<xml>
+  <bitmap spriteName="CharSelect_Mercenary_Portrait" index="1" ssX="0" ssY="0" ssWidth="196" ssHeight="349" anchorX="98" anchorY="0" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="GetItem_MercenaryPortrait" index="1" ssX="197" ssY="0" ssWidth="194" ssHeight="212" anchorX="97" anchorY="106" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="WrapUp_Mercenary_Portrait" index="1" ssX="0" ssY="350" ssWidth="130" ssHeight="140" anchorX="65" anchorY="70" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="294" ssX="197" ssY="213" ssWidth="182" ssHeight="128" anchorX="91.4" anchorY="112.55" editorAnchorX="0" editorAnchorY="0" label="ShipStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="55" ssX="392" ssY="0" ssWidth="80" ssHeight="64" anchorX="0" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="Attack5Start"/>
+  <bitmap spriteName="SkillTree_Mercenary_Avatar" index="1" ssX="392" ssY="65" ssWidth="67" ssHeight="64" anchorX="47" anchorY="51" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="36" ssX="392" ssY="130" ssWidth="61" ssHeight="61" anchorX="-15" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="Attack3Start"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="109" ssX="392" ssY="192" ssWidth="66" ssHeight="60" anchorX="-13" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="Spell3AttackStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="110" ssX="454" ssY="130" ssWidth="55" ssHeight="58" anchorX="-24" anchorY="-1" editorAnchorX="0" editorAnchorY="0" label="Spell3AttackStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="37" ssX="380" ssY="253" ssWidth="65" ssHeight="56" anchorX="-11" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="Attack3Start"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="43" ssX="446" ssY="253" ssWidth="64" ssHeight="53" anchorX="-12" anchorY="-4" editorAnchorX="0" editorAnchorY="0" label="Attack4Start"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="38" ssX="473" ssY="0" ssWidth="30" ssHeight="53" anchorX="-10" anchorY="-3" editorAnchorX="0" editorAnchorY="0" label="Attack3End"/>
+  <bitmap spriteName="SkillTree_Mercenary_NamePlate" index="1" ssX="197" ssY="342" ssWidth="184" ssHeight="52" anchorX="84" anchorY="36" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="40" ssX="473" ssY="54" ssWidth="31" ssHeight="52" anchorX="-10" anchorY="-4" editorAnchorX="0" editorAnchorY="0" label="Attack4Start"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="39" ssX="473" ssY="54" ssWidth="31" ssHeight="52" anchorX="-10" anchorY="-4" editorAnchorX="0" editorAnchorY="0" label="Attack4Start"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="166" ssX="459" ssY="189" ssWidth="27" ssHeight="52" anchorX="-24" anchorY="-3" editorAnchorX="0" editorAnchorY="0" label="ReadyStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="42" ssX="382" ssY="310" ssWidth="27" ssHeight="52" anchorX="-14" anchorY="-4" editorAnchorX="0" editorAnchorY="0" label="Attack4Start"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="41" ssX="410" ssY="310" ssWidth="28" ssHeight="51" anchorX="-13" anchorY="-5" editorAnchorX="0" editorAnchorY="0" label="Attack4Start"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="165" ssX="446" ssY="307" ssWidth="27" ssHeight="49" anchorX="-24" anchorY="-6" editorAnchorX="0" editorAnchorY="0" label="ReadyStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="167" ssX="474" ssY="307" ssWidth="28" ssHeight="48" anchorX="-24" anchorY="-7" editorAnchorX="0" editorAnchorY="0" label="ReadyStart"/>
+  <bitmap spriteName="GameStats_Mercenary" index="1" ssX="131" ssY="395" ssWidth="127" ssHeight="45" anchorX="2" anchorY="1" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="111" ssX="259" ssY="395" ssWidth="56" ssHeight="45" anchorX="-23" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="Spell3AttackStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="112" ssX="316" ssY="395" ssWidth="56" ssHeight="44" anchorX="-23" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="Spell3AttackStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="164" ssX="382" ssY="363" ssWidth="27" ssHeight="43" anchorX="-24" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="ReadyStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="28" ssX="410" ssY="362" ssWidth="75" ssHeight="42" anchorX="-1" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="Attack1Start"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="108" ssX="131" ssY="441" ssWidth="39" ssHeight="42" anchorX="-7" anchorY="-14" editorAnchorX="0" editorAnchorY="0" label="Spell3AttackStart"/>
+  <bitmap spriteName="CampIcon_Mercenary" index="1" ssX="171" ssY="441" ssWidth="37" ssHeight="42" anchorX="18.5" anchorY="21.5" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="31" ssX="209" ssY="441" ssWidth="69" ssHeight="41" anchorX="-7" anchorY="-16" editorAnchorX="0" editorAnchorY="0" label="Attack2Start"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="168" ssX="279" ssY="441" ssWidth="27" ssHeight="41" anchorX="-24" anchorY="-14" editorAnchorX="0" editorAnchorY="0" label="ReadyStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="86" ssX="316" ssY="440" ssWidth="64" ssHeight="40" anchorX="0" anchorY="-16" editorAnchorX="0" editorAnchorY="0" label="Spell2AttackStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="79" ssX="381" ssY="407" ssWidth="33" ssHeight="40" anchorX="-24" anchorY="-21" editorAnchorX="0" editorAnchorY="0" label="Spell1ExitStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="88" ssX="415" ssY="405" ssWidth="64" ssHeight="39" anchorX="0" anchorY="-17" editorAnchorX="0" editorAnchorY="0" label="Spell2AttackStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="105" ssX="0" ssY="491" ssWidth="37" ssHeight="39" anchorX="-3" anchorY="-17" editorAnchorX="0" editorAnchorY="0" label="Spell3TellEnd"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="53" ssX="38" ssY="491" ssWidth="34" ssHeight="38" anchorX="-7" anchorY="-18" editorAnchorX="0" editorAnchorY="0" label="Attack5Start"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="77" ssX="73" ssY="491" ssWidth="33" ssHeight="38" anchorX="-19" anchorY="-24" editorAnchorX="0" editorAnchorY="0" label="Spell1AttackStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="78" ssX="107" ssY="491" ssWidth="33" ssHeight="38" anchorX="-19" anchorY="-23" editorAnchorX="0" editorAnchorY="0" label="Spell1AttackEnd"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="68" ssX="141" ssY="484" ssWidth="50" ssHeight="37" anchorX="-1" anchorY="-19" editorAnchorX="0" editorAnchorY="0" label="CounterStrikeStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="76" ssX="209" ssY="483" ssWidth="37" ssHeight="37" anchorX="-10" anchorY="-20" editorAnchorX="0" editorAnchorY="0" label="Spell1TellEnd"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="69" ssX="247" ssY="483" ssWidth="49" ssHeight="36" anchorX="0" anchorY="-20" editorAnchorX="0" editorAnchorY="0" label="CounterStrikeStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="107" ssX="307" ssY="481" ssWidth="39" ssHeight="36" anchorX="-5" anchorY="-20" editorAnchorX="0" editorAnchorY="0" label="Spell3AttackStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="106" ssX="347" ssY="481" ssWidth="37" ssHeight="36" anchorX="-4" anchorY="-20" editorAnchorX="0" editorAnchorY="0" label="Spell3AttackStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="56" ssX="415" ssY="445" ssWidth="78" ssHeight="35" anchorX="0" anchorY="-29" editorAnchorX="0" editorAnchorY="0" label="Attack5Start"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="52" ssX="385" ssY="481" ssWidth="35" ssHeight="35" anchorX="-5" anchorY="-21" editorAnchorX="0" editorAnchorY="0" label="Attack5Start"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="244" ssX="421" ssY="481" ssWidth="32" ssHeight="35" anchorX="-18" anchorY="-21" editorAnchorX="0" editorAnchorY="0" label="RunMusicStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="240" ssX="480" ssY="405" ssWidth="31" ssHeight="35" anchorX="-18" anchorY="-21" editorAnchorX="0" editorAnchorY="0" label="RunMusicStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="228" ssX="454" ssY="481" ssWidth="30" ssHeight="35" anchorX="15" anchorY="33" editorAnchorX="0" editorAnchorY="0" label="DummyStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="247" ssX="0" ssY="531" ssWidth="28" ssHeight="35" anchorX="-24" anchorY="-21" editorAnchorX="0" editorAnchorY="0" label="RunMusicEnd"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="262" ssX="487" ssY="189" ssWidth="23" ssHeight="35" anchorX="-21" anchorY="-20" editorAnchorX="0" editorAnchorY="0" label="BackFlipStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="181" ssX="487" ssY="189" ssWidth="23" ssHeight="35" anchorX="-21" anchorY="-20" editorAnchorX="0" editorAnchorY="0" label="JumpRisingStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="296" ssX="487" ssY="189" ssWidth="23" ssHeight="35" anchorX="-21" anchorY="-20" editorAnchorX="0" editorAnchorY="0" label="BackFlipToSitStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="276" ssX="487" ssY="189" ssWidth="23" ssHeight="35" anchorX="-21" anchorY="-20" editorAnchorX="0" editorAnchorY="0" label="BackFlipFullStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="5" ssX="486" ssY="356" ssWidth="17" ssHeight="35" anchorX="-24" anchorY="-21" editorAnchorX="0" editorAnchorY="0" label="RunStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="57" ssX="38" ssY="530" ssWidth="45" ssHeight="34" anchorX="0" anchorY="-29" editorAnchorX="0" editorAnchorY="0" label="Attack5Start"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="113" ssX="84" ssY="530" ssWidth="39" ssHeight="34" anchorX="-10" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="Spell3AttackEnd"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="80" ssX="141" ssY="522" ssWidth="39" ssHeight="34" anchorX="-10" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="Spell1ExitEnd"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="104" ssX="192" ssY="521" ssWidth="37" ssHeight="34" anchorX="-3" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="Spell3TellStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="231" ssX="230" ssY="521" ssWidth="36" ssHeight="34" anchorX="-15" anchorY="-21" editorAnchorX="0" editorAnchorY="0" label="IdleMusicStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="232" ssX="267" ssY="520" ssWidth="33" ssHeight="34" anchorX="-19" anchorY="-21" editorAnchorX="0" editorAnchorY="0" label="IdleMusicStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="241" ssX="301" ssY="518" ssWidth="33" ssHeight="34" anchorX="-19" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="RunMusicStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="243" ssX="335" ssY="518" ssWidth="33" ssHeight="34" anchorX="-19" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="RunMusicStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="235" ssX="369" ssY="518" ssWidth="33" ssHeight="34" anchorX="-19" anchorY="-21" editorAnchorX="0" editorAnchorY="0" label="IdleMusicStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="230" ssX="403" ssY="517" ssWidth="32" ssHeight="34" anchorX="-18" anchorY="-21" editorAnchorX="0" editorAnchorY="0" label="IdleMusicStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="236" ssX="403" ssY="517" ssWidth="32" ssHeight="34" anchorX="-18" anchorY="-21" editorAnchorX="0" editorAnchorY="0" label="IdleMusicStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="229" ssX="436" ssY="517" ssWidth="31" ssHeight="34" anchorX="-18" anchorY="-21" editorAnchorX="0" editorAnchorY="0" label="IdleMusicStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="233" ssX="468" ssY="517" ssWidth="29" ssHeight="34" anchorX="-24" anchorY="-21" editorAnchorX="0" editorAnchorY="0" label="IdleMusicStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="238" ssX="0" ssY="567" ssWidth="29" ssHeight="34" anchorX="-24" anchorY="-21" editorAnchorX="0" editorAnchorY="0" label="IdleMusicStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="169" ssX="30" ssY="565" ssWidth="28" ssHeight="34" anchorX="-24" anchorY="-21" editorAnchorX="0" editorAnchorY="0" label="ReadyStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="239" ssX="59" ssY="565" ssWidth="28" ssHeight="34" anchorX="-24" anchorY="-21" editorAnchorX="0" editorAnchorY="0" label="IdleMusicEnd"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="133" ssX="152" ssY="557" ssWidth="27" ssHeight="34" anchorX="-23" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="256" ssX="88" ssY="565" ssWidth="27" ssHeight="34" anchorX="-21" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="IdleClapLoopStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="131" ssX="124" ssY="557" ssWidth="27" ssHeight="34" anchorX="-23" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="130" ssX="124" ssY="557" ssWidth="27" ssHeight="34" anchorX="-23" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="132" ssX="152" ssY="557" ssWidth="27" ssHeight="34" anchorX="-23" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="134" ssX="152" ssY="557" ssWidth="27" ssHeight="34" anchorX="-23" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="135" ssX="152" ssY="557" ssWidth="27" ssHeight="34" anchorX="-23" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="128" ssX="485" ssY="481" ssWidth="26" ssHeight="34" anchorX="-23" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="129" ssX="485" ssY="481" ssWidth="26" ssHeight="34" anchorX="-23" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="237" ssX="181" ssY="556" ssWidth="26" ssHeight="34" anchorX="-24" anchorY="-21" editorAnchorX="0" editorAnchorY="0" label="IdleMusicStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="245" ssX="208" ssY="556" ssWidth="26" ssHeight="34" anchorX="-24" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="RunMusicStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="255" ssX="235" ssY="556" ssWidth="26" ssHeight="34" anchorX="-22" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="IdleClapLoopStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="234" ssX="267" ssY="555" ssWidth="25" ssHeight="34" anchorX="-24" anchorY="-21" editorAnchorX="0" editorAnchorY="0" label="IdleMusicStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="151" ssX="301" ssY="553" ssWidth="25" ssHeight="34" anchorX="-18" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="152" ssX="301" ssY="553" ssWidth="25" ssHeight="34" anchorX="-18" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="148" ssX="327" ssY="553" ssWidth="25" ssHeight="34" anchorX="-18" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="153" ssX="301" ssY="553" ssWidth="25" ssHeight="34" anchorX="-18" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="150" ssX="327" ssY="553" ssWidth="25" ssHeight="34" anchorX="-18" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="149" ssX="327" ssY="553" ssWidth="25" ssHeight="34" anchorX="-18" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="254" ssX="353" ssY="553" ssWidth="24" ssHeight="34" anchorX="-23" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="IdleClapLoopStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="17" ssX="378" ssY="553" ssWidth="23" ssHeight="34" anchorX="-21" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="KORisingEnd"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="16" ssX="378" ssY="553" ssWidth="23" ssHeight="34" anchorX="-21" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="KORisingStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="126" ssX="403" ssY="552" ssWidth="22" ssHeight="34" anchorX="-23" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="155" ssX="426" ssY="552" ssWidth="22" ssHeight="34" anchorX="-20" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="154" ssX="426" ssY="552" ssWidth="22" ssHeight="34" anchorX="-20" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="127" ssX="403" ssY="552" ssWidth="22" ssHeight="34" anchorX="-23" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="301" ssX="471" ssY="552" ssWidth="21" ssHeight="34" anchorX="-17.5" anchorY="-21.8" editorAnchorX="0" editorAnchorY="0" label="BackFlipToSitEnd"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="275" ssX="0" ssY="602" ssWidth="21" ssHeight="34" anchorX="-18" anchorY="-21" editorAnchorX="0" editorAnchorY="0" label="BackFlipFullStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="295" ssX="0" ssY="602" ssWidth="21" ssHeight="34" anchorX="-18" anchorY="-21" editorAnchorX="0" editorAnchorY="0" label="BackFlipToSitStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="261" ssX="0" ssY="602" ssWidth="21" ssHeight="34" anchorX="-18" anchorY="-21" editorAnchorX="0" editorAnchorY="0" label="BackFlipStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="253" ssX="449" ssY="552" ssWidth="21" ssHeight="34" anchorX="-24" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="IdleClapLoopStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="289" ssX="471" ssY="552" ssWidth="21" ssHeight="34" anchorX="-28" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="SitBegin"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="182" ssX="0" ssY="602" ssWidth="21" ssHeight="34" anchorX="-18" anchorY="-21" editorAnchorX="0" editorAnchorY="0" label="JumpRisingEnd"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="252" ssX="50" ssY="600" ssWidth="19" ssHeight="34" anchorX="-24" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="IdleClapLoopStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="124" ssX="30" ssY="600" ssWidth="19" ssHeight="34" anchorX="-23" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="125" ssX="30" ssY="600" ssWidth="19" ssHeight="34" anchorX="-23" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="251" ssX="50" ssY="600" ssWidth="19" ssHeight="34" anchorX="-24" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="IdleClapLoopStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="123" ssX="89" ssY="600" ssWidth="18" ssHeight="34" anchorX="-23" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="249" ssX="493" ssY="552" ssWidth="18" ssHeight="34" anchorX="-24" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="IdleClapLoopStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="156" ssX="70" ssY="600" ssWidth="18" ssHeight="34" anchorX="-22" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="FlavourEnd"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="122" ssX="89" ssY="600" ssWidth="18" ssHeight="34" anchorX="-23" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="250" ssX="108" ssY="600" ssWidth="18" ssHeight="34" anchorX="-24" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="IdleClapLoopStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="120" ssX="494" ssY="441" ssWidth="17" ssHeight="34" anchorX="-23" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="257" ssX="127" ssY="592" ssWidth="17" ssHeight="34" anchorX="-24" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="IdleClapLoopEnd"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="2" ssX="163" ssY="592" ssWidth="17" ssHeight="34" anchorX="-24" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="StandStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="121" ssX="494" ssY="441" ssWidth="17" ssHeight="34" anchorX="-23" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="248" ssX="145" ssY="592" ssWidth="17" ssHeight="34" anchorX="-24" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="IdleClapLoopStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="4" ssX="163" ssY="592" ssWidth="17" ssHeight="34" anchorX="-24" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="StandEnd"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="119" ssX="163" ssY="592" ssWidth="17" ssHeight="34" anchorX="-23" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="1" ssX="163" ssY="592" ssWidth="17" ssHeight="34" anchorX="-24" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="StandStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="114" ssX="163" ssY="592" ssWidth="17" ssHeight="34" anchorX="-24" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="UseStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="3" ssX="163" ssY="592" ssWidth="17" ssHeight="34" anchorX="-24" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="StandStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="9" ssX="181" ssY="591" ssWidth="16" ssHeight="34" anchorX="-25" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="RunStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="12" ssX="198" ssY="591" ssWidth="16" ssHeight="34" anchorX="-25" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="RunEnd"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="102" ssX="215" ssY="591" ssWidth="39" ssHeight="33" anchorX="-5" anchorY="-23" editorAnchorX="0" editorAnchorY="0" label="Spell3TellStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="67" ssX="262" ssY="590" ssWidth="39" ssHeight="33" anchorX="-10" anchorY="-23" editorAnchorX="0" editorAnchorY="0" label="CounterBlockEnd"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="263" ssX="302" ssY="588" ssWidth="33" ssHeight="33" anchorX="-20" anchorY="-15" editorAnchorX="0" editorAnchorY="0" label="BackFlipStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="277" ssX="302" ssY="588" ssWidth="33" ssHeight="33" anchorX="-20" anchorY="-15" editorAnchorX="0" editorAnchorY="0" label="BackFlipFullStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="297" ssX="302" ssY="588" ssWidth="33" ssHeight="33" anchorX="-20" anchorY="-15" editorAnchorX="0" editorAnchorY="0" label="BackFlipToSitStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="138" ssX="336" ssY="588" ssWidth="31" ssHeight="33" anchorX="-18" anchorY="-21" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="137" ssX="368" ssY="588" ssWidth="31" ssHeight="33" anchorX="-19" anchorY="-20" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="139" ssX="336" ssY="588" ssWidth="31" ssHeight="33" anchorX="-18" anchorY="-21" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="136" ssX="368" ssY="588" ssWidth="31" ssHeight="33" anchorX="-19" anchorY="-20" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="246" ssX="402" ssY="587" ssWidth="29" ssHeight="33" anchorX="-24" anchorY="-23" editorAnchorX="0" editorAnchorY="0" label="RunMusicStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="242" ssX="432" ssY="587" ssWidth="29" ssHeight="33" anchorX="-24" anchorY="-23" editorAnchorX="0" editorAnchorY="0" label="RunMusicStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="170" ssX="462" ssY="587" ssWidth="28" ssHeight="33" anchorX="-24" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="ReadyStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="147" ssX="0" ssY="637" ssWidth="27" ssHeight="33" anchorX="-17" anchorY="-23" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="145" ssX="0" ssY="637" ssWidth="27" ssHeight="33" anchorX="-17" anchorY="-23" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="146" ssX="0" ssY="637" ssWidth="27" ssHeight="33" anchorX="-17" anchorY="-23" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="171" ssX="28" ssY="635" ssWidth="26" ssHeight="33" anchorX="-24" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="ReadyStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="15" ssX="55" ssY="635" ssWidth="25" ssHeight="33" anchorX="-19.15" anchorY="-22.75" editorAnchorX="0" editorAnchorY="0" label="StunEnd"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="163" ssX="81" ssY="635" ssWidth="25" ssHeight="33" anchorX="-24" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="ReadyStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="286" ssX="107" ssY="635" ssWidth="21" ssHeight="33" anchorX="-22" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="SitTellBegin"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="158" ssX="129" ssY="627" ssWidth="21" ssHeight="33" anchorX="-24" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="ReadyStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="159" ssX="491" ssY="587" ssWidth="20" ssHeight="33" anchorX="-24" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="ReadyStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="157" ssX="151" ssY="627" ssWidth="19" ssHeight="33" anchorX="-23" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="ReadyStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="162" ssX="171" ssY="627" ssWidth="19" ssHeight="33" anchorX="-24" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="ReadyStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="161" ssX="171" ssY="627" ssWidth="19" ssHeight="33" anchorX="-24" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="ReadyStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="160" ssX="191" ssY="626" ssWidth="19" ssHeight="33" anchorX="-24" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="ReadyStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="175" ssX="233" ssY="625" ssWidth="17" ssHeight="33" anchorX="-24" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="ReadyLoopStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="174" ssX="233" ssY="625" ssWidth="17" ssHeight="33" anchorX="-24" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="ReadyLoopStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="177" ssX="309" ssY="622" ssWidth="17" ssHeight="33" anchorX="-24" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="ReadyLoopEnd"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="6" ssX="215" ssY="625" ssWidth="17" ssHeight="33" anchorX="-23" anchorY="-23" editorAnchorX="0" editorAnchorY="0" label="RunStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="173" ssX="233" ssY="625" ssWidth="17" ssHeight="33" anchorX="-24" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="ReadyEnd"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="10" ssX="255" ssY="624" ssWidth="17" ssHeight="33" anchorX="-25" anchorY="-23" editorAnchorX="0" editorAnchorY="0" label="RunStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="172" ssX="273" ssY="624" ssWidth="17" ssHeight="33" anchorX="-24" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="ReadyStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="8" ssX="291" ssY="624" ssWidth="17" ssHeight="33" anchorX="-24" anchorY="-23" editorAnchorX="0" editorAnchorY="0" label="RunStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="176" ssX="309" ssY="622" ssWidth="17" ssHeight="33" anchorX="-24" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="ReadyLoopStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="115" ssX="327" ssY="622" ssWidth="17" ssHeight="33" anchorX="-23" anchorY="-23" editorAnchorX="0" editorAnchorY="0" label="UseStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="75" ssX="345" ssY="622" ssWidth="40" ssHeight="32" anchorX="-7" anchorY="-24" editorAnchorX="0" editorAnchorY="0" label="Spell1TellStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="82" ssX="400" ssY="621" ssWidth="39" ssHeight="32" anchorX="-7" anchorY="-24" editorAnchorX="0" editorAnchorY="0" label="Spell2TellStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="81" ssX="400" ssY="621" ssWidth="39" ssHeight="32" anchorX="-7" anchorY="-24" editorAnchorX="0" editorAnchorY="0" label="Spell2TellStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="83" ssX="440" ssY="621" ssWidth="39" ssHeight="32" anchorX="-6" anchorY="-24" editorAnchorX="0" editorAnchorY="0" label="Spell2TellEnd"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="27" ssX="0" ssY="671" ssWidth="39" ssHeight="32" anchorX="-7" anchorY="-24" editorAnchorX="0" editorAnchorY="0" label="Attack1Start"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="84" ssX="440" ssY="621" ssWidth="39" ssHeight="32" anchorX="-6" anchorY="-24" editorAnchorX="0" editorAnchorY="0" label="Spell2TellEnd"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="85" ssX="440" ssY="621" ssWidth="39" ssHeight="32" anchorX="-6" anchorY="-24" editorAnchorX="0" editorAnchorY="0" label="Spell2TellEnd"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="103" ssX="40" ssY="669" ssWidth="39" ssHeight="32" anchorX="-2" anchorY="-24" editorAnchorX="0" editorAnchorY="0" label="Spell3TellStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="74" ssX="80" ssY="669" ssWidth="39" ssHeight="32" anchorX="-7" anchorY="-24" editorAnchorX="0" editorAnchorY="0" label="Spell1TellStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="66" ssX="129" ssY="661" ssWidth="38" ssHeight="32" anchorX="-11" anchorY="-24" editorAnchorX="0" editorAnchorY="0" label="CounterBlockStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="14" ssX="480" ssY="621" ssWidth="27" ssHeight="32" anchorX="-17.15" anchorY="-23.8" editorAnchorX="0" editorAnchorY="0" label="StunStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="287" ssX="168" ssY="661" ssWidth="26" ssHeight="32" anchorX="-23" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="SitTellBegin"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="288" ssX="195" ssY="660" ssWidth="26" ssHeight="32" anchorX="-25" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="SitTellEnd"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="285" ssX="276" ssY="658" ssWidth="17" ssHeight="32" anchorX="-23" anchorY="-24" editorAnchorX="0" editorAnchorY="0" label="BackFlipFullEnd"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="26" ssX="222" ssY="659" ssWidth="17" ssHeight="32" anchorX="-24" anchorY="-24" editorAnchorX="0" editorAnchorY="0" label="KOGetUpEnd"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="291" ssX="240" ssY="659" ssWidth="17" ssHeight="32" anchorX="-29" anchorY="-17" editorAnchorX="0" editorAnchorY="0" label="SitBegin"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="7" ssX="258" ssY="658" ssWidth="17" ssHeight="32" anchorX="-23" anchorY="-24" editorAnchorX="0" editorAnchorY="0" label="RunStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="116" ssX="222" ssY="659" ssWidth="17" ssHeight="32" anchorX="-24" anchorY="-24" editorAnchorX="0" editorAnchorY="0" label="UseStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="271" ssX="276" ssY="658" ssWidth="17" ssHeight="32" anchorX="-23" anchorY="-24" editorAnchorX="0" editorAnchorY="0" label="BackFlipEnd"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="187" ssX="276" ssY="658" ssWidth="17" ssHeight="32" anchorX="-23" anchorY="-24" editorAnchorX="0" editorAnchorY="0" label="JumpFallingEnd"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="89" ssX="309" ssY="656" ssWidth="41" ssHeight="31" anchorX="0" anchorY="-25" editorAnchorX="0" editorAnchorY="0" label="Spell2AttackEnd"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="54" ssX="351" ssY="655" ssWidth="40" ssHeight="31" anchorX="0" anchorY="-25" editorAnchorX="0" editorAnchorY="0" label="Attack5Start"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="101" ssX="392" ssY="654" ssWidth="39" ssHeight="31" anchorX="-8" anchorY="-25" editorAnchorX="0" editorAnchorY="0" label="Spell3TellStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="33" ssX="432" ssY="654" ssWidth="39" ssHeight="31" anchorX="-7" anchorY="-25" editorAnchorX="0" editorAnchorY="0" label="Attack3Start"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="32" ssX="472" ssY="654" ssWidth="39" ssHeight="31" anchorX="-6" anchorY="-25" editorAnchorX="0" editorAnchorY="0" label="Attack2End"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="71" ssX="0" ssY="704" ssWidth="38" ssHeight="31" anchorX="-8" anchorY="-25" editorAnchorX="0" editorAnchorY="0" label="CounterExitStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="73" ssX="40" ssY="702" ssWidth="38" ssHeight="31" anchorX="-9" anchorY="-25" editorAnchorX="0" editorAnchorY="0" label="Spell1TellStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="72" ssX="0" ssY="704" ssWidth="38" ssHeight="31" anchorX="-8" anchorY="-25" editorAnchorX="0" editorAnchorY="0" label="CounterExitEnd"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="100" ssX="79" ssY="702" ssWidth="38" ssHeight="31" anchorX="-9" anchorY="-25" editorAnchorX="0" editorAnchorY="0" label="Spell3TellStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="140" ssX="120" ssY="694" ssWidth="30" ssHeight="31" anchorX="-18" anchorY="-23" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="141" ssX="120" ssY="694" ssWidth="30" ssHeight="31" anchorX="-18" anchorY="-23" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="280" ssX="151" ssY="694" ssWidth="27" ssHeight="31" anchorX="-13" anchorY="-18" editorAnchorX="0" editorAnchorY="0" label="BackFlipFullStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="300" ssX="151" ssY="694" ssWidth="27" ssHeight="31" anchorX="-13" anchorY="-18" editorAnchorX="0" editorAnchorY="0" label="BackFlipToSitStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="266" ssX="151" ssY="694" ssWidth="27" ssHeight="31" anchorX="-13" anchorY="-18" editorAnchorX="0" editorAnchorY="0" label="BackFlipStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="143" ssX="179" ssY="694" ssWidth="26" ssHeight="31" anchorX="-18" anchorY="-25" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="144" ssX="179" ssY="694" ssWidth="26" ssHeight="31" anchorX="-18" anchorY="-25" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="142" ssX="179" ssY="694" ssWidth="26" ssHeight="31" anchorX="-18" anchorY="-25" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="13" ssX="206" ssY="693" ssWidth="26" ssHeight="31" anchorX="-18.35" anchorY="-24.65" editorAnchorX="0" editorAnchorY="0" label="StunStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="11" ssX="233" ssY="692" ssWidth="15" ssHeight="31" anchorX="-25" anchorY="-25" editorAnchorX="0" editorAnchorY="0" label="RunStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="87" ssX="258" ssY="691" ssWidth="42" ssHeight="30" anchorX="-22" anchorY="-26" editorAnchorX="0" editorAnchorY="0" label="Spell2AttackStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="35" ssX="301" ssY="688" ssWidth="39" ssHeight="30" anchorX="-9" anchorY="-26" editorAnchorX="0" editorAnchorY="0" label="Attack3Start"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="34" ssX="351" ssY="687" ssWidth="39" ssHeight="30" anchorX="-7" anchorY="-26" editorAnchorX="0" editorAnchorY="0" label="Attack3Start"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="65" ssX="392" ssY="686" ssWidth="38" ssHeight="30" anchorX="-9" anchorY="-26" editorAnchorX="0" editorAnchorY="0" label="Attack5End"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="99" ssX="392" ssY="686" ssWidth="38" ssHeight="30" anchorX="-9" anchorY="-26" editorAnchorX="0" editorAnchorY="0" label="Spell2ExitEnd"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="292" ssX="431" ssY="686" ssWidth="22" ssHeight="30" anchorX="-26" anchorY="-19" editorAnchorX="0" editorAnchorY="0" label="SitBegin"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="293" ssX="454" ssY="686" ssWidth="22" ssHeight="30" anchorX="-25" anchorY="-20" editorAnchorX="0" editorAnchorY="0" label="SitEnd"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="90" ssX="0" ssY="736" ssWidth="58" ssHeight="29" anchorX="-1" anchorY="-30" editorAnchorX="0" editorAnchorY="0" label="Spell2ExitStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="91" ssX="0" ssY="736" ssWidth="58" ssHeight="29" anchorX="-1" anchorY="-30" editorAnchorX="0" editorAnchorY="0" label="Spell2ExitStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="51" ssX="59" ssY="734" ssWidth="37" ssHeight="29" anchorX="-5" anchorY="-27" editorAnchorX="0" editorAnchorY="0" label="Attack5Start"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="44" ssX="118" ssY="726" ssWidth="64" ssHeight="28" anchorX="-8" anchorY="-29" editorAnchorX="0" editorAnchorY="0" label="Attack4Start"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="70" ssX="183" ssY="726" ssWidth="43" ssHeight="28" anchorX="0" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="CounterStrikeEnd"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="62" ssX="227" ssY="725" ssWidth="39" ssHeight="28" anchorX="-3" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="OLSSTOPPERend"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="98" ssX="227" ssY="725" ssWidth="39" ssHeight="28" anchorX="-3" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="Spell2ExitStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="60" ssX="227" ssY="725" ssWidth="39" ssHeight="28" anchorX="-3" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="Attack5Start"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="59" ssX="227" ssY="725" ssWidth="39" ssHeight="28" anchorX="-3" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="Attack5Start"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="63" ssX="227" ssY="725" ssWidth="39" ssHeight="28" anchorX="-3" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="OLSSTOPPERend"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="58" ssX="227" ssY="725" ssWidth="39" ssHeight="28" anchorX="-3" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="Attack5Start"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="61" ssX="227" ssY="725" ssWidth="39" ssHeight="28" anchorX="-3" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="Attack5Start"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="64" ssX="227" ssY="725" ssWidth="39" ssHeight="28" anchorX="-3" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="OLSSTOPPERend"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="272" ssX="477" ssY="686" ssWidth="19" ssHeight="28" anchorX="-23.9" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="BackFlipFullStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="258" ssX="477" ssY="686" ssWidth="19" ssHeight="28" anchorX="-23.9" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="BackFlipTellStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="178" ssX="477" ssY="686" ssWidth="19" ssHeight="28" anchorX="-23.9" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="JumpTellStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="186" ssX="477" ssY="686" ssWidth="19" ssHeight="28" anchorX="-23" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="JumpFallingStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="270" ssX="477" ssY="686" ssWidth="19" ssHeight="28" anchorX="-23" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="BackFlipStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="284" ssX="477" ssY="686" ssWidth="19" ssHeight="28" anchorX="-23" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="BackFlipFullStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="49" ssX="267" ssY="722" ssWidth="40" ssHeight="27" anchorX="-4" anchorY="-29" editorAnchorX="0" editorAnchorY="0" label="Attack5Start"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="50" ssX="267" ssY="722" ssWidth="40" ssHeight="27" anchorX="-4" anchorY="-29" editorAnchorX="0" editorAnchorY="0" label="Attack5Start"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="45" ssX="308" ssY="719" ssWidth="39" ssHeight="27" anchorX="-7" anchorY="-29" editorAnchorX="0" editorAnchorY="0" label="Attack4Start"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="46" ssX="308" ssY="719" ssWidth="39" ssHeight="27" anchorX="-7" anchorY="-29" editorAnchorX="0" editorAnchorY="0" label="Attack4End"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="48" ssX="348" ssY="718" ssWidth="39" ssHeight="27" anchorX="-6" anchorY="-29" editorAnchorX="0" editorAnchorY="0" label="Attack5Start"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="47" ssX="348" ssY="718" ssWidth="39" ssHeight="27" anchorX="-6" anchorY="-29" editorAnchorX="0" editorAnchorY="0" label="Attack5Start"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="265" ssX="391" ssY="717" ssWidth="28" ssHeight="27" anchorX="-15" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="BackFlipStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="279" ssX="391" ssY="717" ssWidth="28" ssHeight="27" anchorX="-15" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="BackFlipFullStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="299" ssX="391" ssY="717" ssWidth="28" ssHeight="27" anchorX="-15" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="BackFlipToSitStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="290" ssX="487" ssY="225" ssWidth="21" ssHeight="27" anchorX="-28" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="SitBegin"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="117" ssX="420" ssY="717" ssWidth="19" ssHeight="27" anchorX="-23.6" anchorY="-29.15" editorAnchorX="0" editorAnchorY="0" label="UseStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="25" ssX="440" ssY="717" ssWidth="19" ssHeight="27" anchorX="-24" anchorY="-29" editorAnchorX="0" editorAnchorY="0" label="KOGetUpStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="30" ssX="460" ssY="717" ssWidth="39" ssHeight="26" anchorX="-2" anchorY="-30" editorAnchorX="0" editorAnchorY="0" label="Attack2Start"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="94" ssX="0" ssY="766" ssWidth="41" ssHeight="25" anchorX="0" anchorY="-31" editorAnchorX="0" editorAnchorY="0" label="Spell2ExitStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="95" ssX="0" ssY="766" ssWidth="41" ssHeight="25" anchorX="0" anchorY="-31" editorAnchorX="0" editorAnchorY="0" label="Spell2ExitStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="97" ssX="0" ssY="766" ssWidth="41" ssHeight="25" anchorX="0" anchorY="-31" editorAnchorX="0" editorAnchorY="0" label="Spell2ExitStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="93" ssX="0" ssY="766" ssWidth="41" ssHeight="25" anchorX="0" anchorY="-31" editorAnchorX="0" editorAnchorY="0" label="Spell2ExitStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="92" ssX="0" ssY="766" ssWidth="41" ssHeight="25" anchorX="0" anchorY="-31" editorAnchorX="0" editorAnchorY="0" label="Spell2ExitStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="96" ssX="0" ssY="766" ssWidth="41" ssHeight="25" anchorX="0" anchorY="-31" editorAnchorX="0" editorAnchorY="0" label="Spell2ExitStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="29" ssX="59" ssY="764" ssWidth="41" ssHeight="25" anchorX="0" anchorY="-31" editorAnchorX="0" editorAnchorY="0" label="Attack1End"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="298" ssX="101" ssY="755" ssWidth="28" ssHeight="25" anchorX="-21" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="BackFlipToSitStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="278" ssX="101" ssY="755" ssWidth="28" ssHeight="25" anchorX="-21" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="BackFlipFullStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="264" ssX="101" ssY="755" ssWidth="28" ssHeight="25" anchorX="-21" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="BackFlipStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="185" ssX="130" ssY="755" ssWidth="21" ssHeight="23" anchorX="-22" anchorY="-33" editorAnchorX="0" editorAnchorY="0" label="JumpFallingStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="259" ssX="130" ssY="755" ssWidth="21" ssHeight="23" anchorX="-22.55" anchorY="-33" editorAnchorX="0" editorAnchorY="0" label="BackFlipTellStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="179" ssX="130" ssY="755" ssWidth="21" ssHeight="23" anchorX="-22.55" anchorY="-33" editorAnchorX="0" editorAnchorY="0" label="JumpTellStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="269" ssX="130" ssY="755" ssWidth="21" ssHeight="23" anchorX="-22" anchorY="-33" editorAnchorX="0" editorAnchorY="0" label="BackFlipStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="273" ssX="130" ssY="755" ssWidth="21" ssHeight="23" anchorX="-22.55" anchorY="-33" editorAnchorX="0" editorAnchorY="0" label="BackFlipFullStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="283" ssX="130" ssY="755" ssWidth="21" ssHeight="23" anchorX="-22" anchorY="-33" editorAnchorX="0" editorAnchorY="0" label="BackFlipFullStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="118" ssX="152" ssY="755" ssWidth="21" ssHeight="23" anchorX="-23.9" anchorY="-33" editorAnchorX="0" editorAnchorY="0" label="UseEnd"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="281" ssX="460" ssY="107" ssWidth="28" ssHeight="22" anchorX="-15" anchorY="-34" editorAnchorX="0" editorAnchorY="0" label="BackFlipFullStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="267" ssX="460" ssY="107" ssWidth="28" ssHeight="22" anchorX="-15" anchorY="-34" editorAnchorX="0" editorAnchorY="0" label="BackFlipStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="183" ssX="460" ssY="107" ssWidth="28" ssHeight="22" anchorX="-24" anchorY="-32.75" editorAnchorX="0" editorAnchorY="0" label="JumpFallingStart"/>
+  <bitmap spriteName="PlayerMercenary_SmallHud" index="1" ssX="489" ssY="107" ssWidth="21" ssHeight="21" anchorX="10.5" anchorY="10.5" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="24" ssX="174" ssY="755" ssWidth="32" ssHeight="18" anchorX="-17" anchorY="-40" editorAnchorX="0" editorAnchorY="0" label="KOGetUpStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="224" ssX="207" ssY="755" ssWidth="31" ssHeight="18" anchorX="-15" anchorY="-40" editorAnchorX="0" editorAnchorY="0" label="CrawlStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="225" ssX="239" ssY="754" ssWidth="30" ssHeight="18" anchorX="-15" anchorY="-40" editorAnchorX="0" editorAnchorY="0" label="CrawlStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="226" ssX="270" ssY="750" ssWidth="30" ssHeight="18" anchorX="-16" anchorY="-40" editorAnchorX="0" editorAnchorY="0" label="CrawlStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="19" ssX="308" ssY="747" ssWidth="18" ssHeight="18" anchorX="-24" anchorY="-30.8" editorAnchorX="0" editorAnchorY="0" label="KOFallingEnd"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="18" ssX="308" ssY="747" ssWidth="18" ssHeight="18" anchorX="-24" anchorY="-30.8" editorAnchorX="0" editorAnchorY="0" label="KOFallingStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="22" ssX="327" ssY="747" ssWidth="38" ssHeight="17" anchorX="-14" anchorY="-41" editorAnchorX="0" editorAnchorY="0" label="KOGetUpStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="23" ssX="366" ssY="746" ssWidth="36" ssHeight="17" anchorX="-16" anchorY="-41" editorAnchorX="0" editorAnchorY="0" label="KOGetUpStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="227" ssX="403" ssY="745" ssWidth="33" ssHeight="17" anchorX="-13" anchorY="-41" editorAnchorX="0" editorAnchorY="0" label="CrawlEnd"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="223" ssX="437" ssY="745" ssWidth="31" ssHeight="17" anchorX="-16" anchorY="-41" editorAnchorX="0" editorAnchorY="0" label="CrawlStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="260" ssX="469" ssY="744" ssWidth="26" ssHeight="17" anchorX="-20.5" anchorY="-39" editorAnchorX="0" editorAnchorY="0" label="BackFlipTellEnd"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="180" ssX="469" ssY="744" ssWidth="26" ssHeight="17" anchorX="-20.5" anchorY="-39" editorAnchorX="0" editorAnchorY="0" label="JumpTellEnd"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="282" ssX="469" ssY="744" ssWidth="26" ssHeight="17" anchorX="-18" anchorY="-39" editorAnchorX="0" editorAnchorY="0" label="BackFlipFullStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="268" ssX="469" ssY="744" ssWidth="26" ssHeight="17" anchorX="-18" anchorY="-39" editorAnchorX="0" editorAnchorY="0" label="BackFlipStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="184" ssX="469" ssY="744" ssWidth="26" ssHeight="17" anchorX="-18" anchorY="-39" editorAnchorX="0" editorAnchorY="0" label="JumpFallingStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="274" ssX="469" ssY="744" ssWidth="26" ssHeight="17" anchorX="-20.5" anchorY="-39" editorAnchorX="0" editorAnchorY="0" label="BackFlipFullStart"/>
+  <bitmap spriteName="Equipment_Mercenary_Erin_Dummy" index="1" ssX="0" ssY="792" ssWidth="17" ssHeight="17" anchorX="8.5" anchorY="8.5" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="Equipment_Mercenary_Meg_Dummy" index="1" ssX="18" ssY="792" ssWidth="17" ssHeight="17" anchorX="8.5" anchorY="8.5" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="Equipment_Mercenary_Alex_Dummy" index="1" ssX="42" ssY="790" ssWidth="17" ssHeight="17" anchorX="8.5" anchorY="8.5" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="Equipment_Mercenary_Tris_Dummy" index="1" ssX="60" ssY="790" ssWidth="17" ssHeight="17" anchorX="8.5" anchorY="8.5" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="219" ssX="176" ssY="774" ssWidth="45" ssHeight="16" anchorX="-5" anchorY="-41" editorAnchorX="0" editorAnchorY="0" label="SleepCloseStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="202" ssX="130" ssY="779" ssWidth="45" ssHeight="16" anchorX="-5" anchorY="-41" editorAnchorX="0" editorAnchorY="0" label="SleepOpenStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="204" ssX="130" ssY="779" ssWidth="45" ssHeight="16" anchorX="-5" anchorY="-41" editorAnchorX="0" editorAnchorY="0" label="SleepOpenEnd"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="218" ssX="176" ssY="774" ssWidth="45" ssHeight="16" anchorX="-5" anchorY="-41" editorAnchorX="0" editorAnchorY="0" label="SleepCloseStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="190" ssX="78" ssY="790" ssWidth="45" ssHeight="16" anchorX="-5" anchorY="-41" editorAnchorX="0" editorAnchorY="0" label="SleepOpenStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="195" ssX="130" ssY="779" ssWidth="45" ssHeight="16" anchorX="-5" anchorY="-41" editorAnchorX="0" editorAnchorY="0" label="SleepOpenStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="203" ssX="130" ssY="779" ssWidth="45" ssHeight="16" anchorX="-5" anchorY="-41" editorAnchorX="0" editorAnchorY="0" label="SleepOpenStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="196" ssX="130" ssY="779" ssWidth="45" ssHeight="16" anchorX="-5" anchorY="-41" editorAnchorX="0" editorAnchorY="0" label="SleepOpenStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="216" ssX="176" ssY="774" ssWidth="45" ssHeight="16" anchorX="-5" anchorY="-41" editorAnchorX="0" editorAnchorY="0" label="SleepCloseStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="213" ssX="176" ssY="774" ssWidth="45" ssHeight="16" anchorX="-5" anchorY="-41" editorAnchorX="0" editorAnchorY="0" label="SleepCloseStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="192" ssX="130" ssY="779" ssWidth="45" ssHeight="16" anchorX="-5" anchorY="-41" editorAnchorX="0" editorAnchorY="0" label="SleepOpenStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="197" ssX="130" ssY="779" ssWidth="45" ssHeight="16" anchorX="-5" anchorY="-41" editorAnchorX="0" editorAnchorY="0" label="SleepOpenStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="215" ssX="176" ssY="774" ssWidth="45" ssHeight="16" anchorX="-5" anchorY="-41" editorAnchorX="0" editorAnchorY="0" label="SleepCloseStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="198" ssX="130" ssY="779" ssWidth="45" ssHeight="16" anchorX="-5" anchorY="-41" editorAnchorX="0" editorAnchorY="0" label="SleepOpenStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="214" ssX="176" ssY="774" ssWidth="45" ssHeight="16" anchorX="-5" anchorY="-41" editorAnchorX="0" editorAnchorY="0" label="SleepCloseStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="209" ssX="176" ssY="774" ssWidth="45" ssHeight="16" anchorX="-5" anchorY="-41" editorAnchorX="0" editorAnchorY="0" label="SleepCloseStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="222" ssX="176" ssY="774" ssWidth="45" ssHeight="16" anchorX="-5" anchorY="-41" editorAnchorX="0" editorAnchorY="0" label="SleepCloseEnd"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="199" ssX="130" ssY="779" ssWidth="45" ssHeight="16" anchorX="-5" anchorY="-41" editorAnchorX="0" editorAnchorY="0" label="SleepOpenStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="194" ssX="130" ssY="779" ssWidth="45" ssHeight="16" anchorX="-5" anchorY="-41" editorAnchorX="0" editorAnchorY="0" label="SleepOpenStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="200" ssX="130" ssY="779" ssWidth="45" ssHeight="16" anchorX="-5" anchorY="-41" editorAnchorX="0" editorAnchorY="0" label="SleepOpenStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="191" ssX="130" ssY="779" ssWidth="45" ssHeight="16" anchorX="-5" anchorY="-41" editorAnchorX="0" editorAnchorY="0" label="SleepOpenStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="208" ssX="176" ssY="774" ssWidth="45" ssHeight="16" anchorX="-5" anchorY="-41" editorAnchorX="0" editorAnchorY="0" label="SleepCloseStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="189" ssX="239" ssY="773" ssWidth="45" ssHeight="16" anchorX="-5" anchorY="-41" editorAnchorX="0" editorAnchorY="0" label="SleepOpenStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="212" ssX="176" ssY="774" ssWidth="45" ssHeight="16" anchorX="-5" anchorY="-41" editorAnchorX="0" editorAnchorY="0" label="SleepCloseStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="221" ssX="176" ssY="774" ssWidth="45" ssHeight="16" anchorX="-5" anchorY="-41" editorAnchorX="0" editorAnchorY="0" label="SleepCloseStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="207" ssX="301" ssY="766" ssWidth="45" ssHeight="16" anchorX="-5" anchorY="-41" editorAnchorX="0" editorAnchorY="0" label="SleepCloseStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="210" ssX="176" ssY="774" ssWidth="45" ssHeight="16" anchorX="-5" anchorY="-41" editorAnchorX="0" editorAnchorY="0" label="SleepCloseStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="211" ssX="176" ssY="774" ssWidth="45" ssHeight="16" anchorX="-5" anchorY="-41" editorAnchorX="0" editorAnchorY="0" label="SleepCloseStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="220" ssX="176" ssY="774" ssWidth="45" ssHeight="16" anchorX="-5" anchorY="-41" editorAnchorX="0" editorAnchorY="0" label="SleepCloseStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="206" ssX="239" ssY="773" ssWidth="45" ssHeight="16" anchorX="-5" anchorY="-41" editorAnchorX="0" editorAnchorY="0" label="SleepCloseStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="193" ssX="130" ssY="779" ssWidth="45" ssHeight="16" anchorX="-5" anchorY="-41" editorAnchorX="0" editorAnchorY="0" label="SleepOpenStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="201" ssX="130" ssY="779" ssWidth="45" ssHeight="16" anchorX="-5" anchorY="-41" editorAnchorX="0" editorAnchorY="0" label="SleepOpenStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="205" ssX="78" ssY="790" ssWidth="45" ssHeight="16" anchorX="-5" anchorY="-41" editorAnchorX="0" editorAnchorY="0" label="SleepCloseStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="188" ssX="301" ssY="766" ssWidth="45" ssHeight="16" anchorX="-5" anchorY="-41" editorAnchorX="0" editorAnchorY="0" label="SleepOpenStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="217" ssX="176" ssY="774" ssWidth="45" ssHeight="16" anchorX="-5" anchorY="-41" editorAnchorX="0" editorAnchorY="0" label="SleepCloseStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="20" ssX="347" ssY="765" ssWidth="37" ssHeight="14" anchorX="-14" anchorY="-42" editorAnchorX="0" editorAnchorY="0" label="KODownStart"/>
+  <bitmap spriteName="PlayerMercenary_Sprite" index="21" ssX="347" ssY="765" ssWidth="37" ssHeight="14" anchorX="-14" anchorY="-42" editorAnchorX="0" editorAnchorY="0" label="KODownEnd"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="1" x="24" y="36" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="1" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="2" x="24" y="36" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="2" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="3" x="24" y="36" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="3" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="4" x="24" y="36" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="4" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="5" x="24" y="36" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="5" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="6" x="24" y="36" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="6" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="7" x="24" y="36" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="7" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="8" x="24" y="36" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="8" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="9" x="24" y="36" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="9" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="10" x="24" y="36" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="10" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="11" x="24" y="36" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="11" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="12" x="24" y="36" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="12" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="13" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="13" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="14" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="14" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="15" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="15" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="16" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="17" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="18" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="19" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="20" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="21" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="22" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="23" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="24" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="25" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="26" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="27" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="27" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="28" x="34.25" y="30.8" width="36" height="31" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="28" x="49.1" y="36.8" width="27" height="12" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="28" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="28" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="29" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="29" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="30" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="30" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="31" x="34.25" y="26.05" width="36" height="31" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="31" x="49.1" y="31.6" width="27" height="16" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="31" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="31" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="32" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="32" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="33" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="33" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="34" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="34" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="35" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="35" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="36" x="34.25" y="23.65" width="42" height="15" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="36" x="34.25" y="23.65" width="37" height="25" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="36" x="34.25" y="23.65" width="25" height="34" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="36" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="36" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="37" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="37" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="38" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="38" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="39" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="39" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="40" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="40" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="41" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="41" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="42" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="42" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="43" x="34.25" y="23.65" width="42" height="15" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="43" x="34.25" y="23.65" width="37" height="25" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="43" x="34.25" y="23.65" width="25" height="34" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="43" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="43" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="44" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="44" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="45" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="45" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="46" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="46" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="47" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="47" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="48" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="48" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="49" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="49" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="50" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="50" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="51" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="51" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="52" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="52" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="53" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="53" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="54" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="54" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="55" x="28.1" y="22.25" width="51" height="19" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="55" x="28.1" y="22.25" width="45" height="31" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="55" x="28.1" y="22.25" width="35" height="36" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="55" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="55" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="56" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="56" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="57" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="57" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="58" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="58" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="59" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="59" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="60" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="60" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="61" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="61" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="62" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="62" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="63" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="63" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="64" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="64" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="65" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="65" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="66" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="66" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="67" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="67" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="68" x="14.6" y="22.4" width="36" height="30" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="68" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="69" x="14.6" y="22.4" width="36" height="30" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="69" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="70" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="70" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="71" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="71" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="72" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="72" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="73" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="73" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="74" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="74" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="75" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="75" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="76" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="77" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="77" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="78" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="78" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="79" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="79" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="80" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="80" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="81" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="81" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="82" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="82" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="83" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="83" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="84" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="84" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="85" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="85" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="86" x="-0.9" y="13.9" width="67" height="37" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="86" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="86" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="87" x="-0.9" y="13.9" width="67" height="37" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="87" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="87" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="88" x="-0.9" y="13.9" width="67" height="37" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="88" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="88" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="89" x="-0.9" y="13.9" width="67" height="37" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="89" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="89" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="90" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="90" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="91" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="91" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="92" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="92" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="93" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="93" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="94" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="94" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="95" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="95" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="96" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="96" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="97" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="97" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="98" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="98" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="99" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="99" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="100" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="100" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="101" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="101" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="102" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="102" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="103" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="103" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="104" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="104" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="105" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="105" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="106" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="106" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="107" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="107" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="108" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="108" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="109" x="34.25" y="23.65" width="42" height="39" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="109" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="109" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="110" x="34.25" y="23.65" width="42" height="39" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="110" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="110" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="111" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="111" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="112" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="112" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="113" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="113" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="114" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="114" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="115" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="115" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="116" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="116" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="117" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="117" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="118" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="118" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="119" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="119" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="120" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="120" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="121" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="121" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="122" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="122" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="123" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="123" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="124" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="124" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="125" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="125" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="126" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="126" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="127" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="127" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="128" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="128" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="129" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="129" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="130" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="130" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="131" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="131" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="132" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="132" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="133" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="133" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="134" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="134" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="135" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="135" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="136" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="136" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="137" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="137" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="138" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="138" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="139" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="139" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="140" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="140" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="141" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="141" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="142" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="142" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="143" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="143" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="144" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="144" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="145" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="145" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="146" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="146" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="147" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="147" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="148" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="148" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="149" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="149" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="150" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="150" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="151" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="151" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="152" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="152" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="153" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="153" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="154" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="154" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="155" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="155" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="156" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="156" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="157" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="157" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="158" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="158" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="159" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="159" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="160" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="160" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="161" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="161" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="162" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="162" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="163" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="163" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="164" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="164" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="165" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="165" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="166" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="166" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="167" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="167" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="168" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="168" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="169" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="169" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="170" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="170" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="171" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="171" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="172" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="172" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="173" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="173" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="174" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="174" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="175" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="175" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="176" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="176" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="177" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="177" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="178" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="178" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="179" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="179" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="180" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="180" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="181" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="181" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="182" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="182" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="183" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="183" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="184" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="184" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="185" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="185" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="186" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="186" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="187" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="187" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="188" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="188" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="189" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="189" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="190" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="190" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="191" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="191" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="192" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="192" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="193" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="193" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="194" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="194" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="195" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="195" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="196" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="196" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="197" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="197" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="198" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="198" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="199" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="199" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="200" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="200" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="201" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="201" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="202" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="202" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="203" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="203" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="204" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="204" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="205" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="205" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="206" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="206" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="207" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="207" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="208" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="208" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="209" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="209" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="210" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="210" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="211" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="211" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="212" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="212" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="213" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="213" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="214" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="214" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="215" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="215" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="216" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="216" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="217" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="217" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="218" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="218" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="219" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="219" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="220" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="220" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="221" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="221" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="222" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="222" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="223" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="223" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="224" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="224" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="225" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="225" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="226" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="226" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="227" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="227" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="228" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="228" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="229" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="229" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="230" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="230" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="231" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="231" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="232" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="232" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="233" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="233" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="234" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="234" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="235" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="235" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="236" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="236" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="237" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="237" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="238" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="238" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="239" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="239" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="240" x="24" y="36" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="240" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="241" x="24" y="36" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="241" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="242" x="24" y="36" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="242" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="243" x="24" y="36" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="243" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="244" x="24" y="36" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="244" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="245" x="24" y="36" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="245" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="246" x="24" y="36" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="246" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="247" x="24" y="36" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="247" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="248" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="248" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="249" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="249" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="250" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="250" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="251" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="251" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="252" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="252" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="253" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="253" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="254" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="254" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="255" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="255" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="256" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="256" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="257" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="257" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="258" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="258" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="259" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="259" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="260" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="260" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="261" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="261" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="262" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="262" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="263" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="263" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="264" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="264" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="265" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="265" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="266" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="266" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="267" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="267" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="268" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="268" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="269" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="269" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="270" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="270" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="271" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="271" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="272" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="272" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="273" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="273" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="274" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="274" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="275" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="275" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="276" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="276" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="277" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="277" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="278" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="278" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="279" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="279" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="280" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="280" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="281" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="281" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="282" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="282" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="283" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="283" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="284" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="284" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="285" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="285" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="286" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="286" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="287" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="287" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="288" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="288" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="289" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="289" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="290" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="290" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="291" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="291" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="292" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="292" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="293" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="293" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="294" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="294" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="295" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="295" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="296" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="296" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="297" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="297" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="298" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="298" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="299" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="299" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="300" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="300" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="301" x="24" y="33" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerMercenary_Sprite" index="301" x="24" y="51" width="16" height="5" rotation="0" type="1"/>
+  <container containerName="PlayerMercenary_Character" spriteName="PlayerMercenary_Sprite" x="-33" y="-39" scaleX="1" scaleY="1" rotation="0" flipped="false" editorAnchorX="0" editorAnchorY="0"/>
+  <container containerName="PlayerMercenary_Ui_Container" spriteName="PlayerMercenary_SmallHud" x="-70.65" y="-104.5" scaleX="1" scaleY="1" rotation="0" flipped="false" editorAnchorX="0" editorAnchorY="0"/>
+  <container containerName="PlayerMercenary_Ui_Container" spriteName="CharSelect_Mercenary_Portrait" x="-158.3" y="-80.4" scaleX="1" scaleY="1" rotation="0" flipped="false" editorAnchorX="0" editorAnchorY="0"/>
+  <container containerName="PlayerMercenary_Ui_Container" spriteName="CampIcon_Mercenary" x="-102.65" y="-103.9" scaleX="1" scaleY="1" rotation="0" flipped="false" editorAnchorX="0" editorAnchorY="0"/>
+  <container containerName="PlayerMercenary_Ui_Container" spriteName="GameStats_Mercenary" x="-256.3" y="-125.4" scaleX="1" scaleY="1" rotation="0" flipped="false" editorAnchorX="0" editorAnchorY="0"/>
+  <container containerName="PlayerMercenary_Ui_Container" spriteName="SkillTree_Mercenary_NamePlate" x="276.15" y="-67" scaleX="1" scaleY="1" rotation="0" flipped="false" editorAnchorX="0" editorAnchorY="0"/>
+  <container containerName="PlayerMercenary_Ui_Container" spriteName="SkillTree_Mercenary_Avatar" x="176.35" y="-69" scaleX="1" scaleY="1" rotation="0" flipped="false" editorAnchorX="0" editorAnchorY="0"/>
+  <container containerName="PlayerMercenary_Ui_Container" spriteName="GetItem_MercenaryPortrait" x="-359.55" y="160.5" scaleX="1" scaleY="1" rotation="0" flipped="false" editorAnchorX="0" editorAnchorY="0"/>
+  <container containerName="PlayerMercenary_Ui_Container" spriteName="WrapUp_Mercenary_Portrait" x="-327.55" y="-26" scaleX="1" scaleY="1" rotation="0" flipped="false" editorAnchorX="0" editorAnchorY="0"/>
+  <container containerName="PlayerMercenary_Ui_Container" spriteName="Equipment_Mercenary_Tris_Dummy" x="247.3" y="83.4" scaleX="1" scaleY="1" rotation="0" flipped="false" editorAnchorX="0" editorAnchorY="0"/>
+  <container containerName="PlayerMercenary_Ui_Container" spriteName="Equipment_Mercenary_Erin_Dummy" x="268.3" y="83.4" scaleX="1" scaleY="1" rotation="0" flipped="false" editorAnchorX="0" editorAnchorY="0"/>
+  <container containerName="PlayerMercenary_Ui_Container" spriteName="Equipment_Mercenary_Alex_Dummy" x="288.3" y="83.4" scaleX="1" scaleY="1" rotation="0" flipped="false" editorAnchorX="0" editorAnchorY="0"/>
+  <container containerName="PlayerMercenary_Ui_Container" spriteName="Equipment_Mercenary_Meg_Dummy" x="310.3" y="83.4" scaleX="1" scaleY="1" rotation="0" flipped="false" editorAnchorX="0" editorAnchorY="0"/>
+</xml>

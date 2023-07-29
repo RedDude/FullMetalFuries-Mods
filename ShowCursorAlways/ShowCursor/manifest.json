@@ -1,0 +1,9 @@
+{
+    "Name": "Show Cursor",
+    "Author": "FMODF",
+    "Version": "1.0",
+    "Description": "Always show the Cursor. Helps aiming with the sniper (Requested by '(Jacob)Charon The Ferryman')",
+    "UniqueID": "FMFAPI.ShowCursor",
+    "EntryDll": "ShowCursor.dll",
+    "MinimumApiVersion": "3.12.6"
+}

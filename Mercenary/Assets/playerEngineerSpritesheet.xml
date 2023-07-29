@@ -1,0 +1,1090 @@
+<xml>
+  <bitmap spriteName="LargeUI_EngineerAvatar_Sprite" index="1" ssX="0" ssY="0" ssWidth="72" ssHeight="77" anchorX="0" anchorY="0" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="121" ssX="73" ssY="0" ssWidth="30" ssHeight="38" anchorX="-6" anchorY="-6" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="106" ssX="104" ssY="0" ssWidth="28" ssHeight="34" anchorX="-6" anchorY="-10" editorAnchorX="0" editorAnchorY="0" label="Spell2AttackStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="120" ssX="133" ssY="0" ssWidth="28" ssHeight="33" anchorX="-7" anchorY="-11" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="105" ssX="162" ssY="0" ssWidth="28" ssHeight="33" anchorX="-7" anchorY="-11" editorAnchorX="0" editorAnchorY="0" label="Spell2AttackStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="156" ssX="191" ssY="0" ssWidth="27" ssHeight="33" anchorX="-6" anchorY="-11" editorAnchorX="0" editorAnchorY="0" label="ReadyStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="151" ssX="219" ssY="0" ssWidth="27" ssHeight="33" anchorX="-5" anchorY="-11" editorAnchorX="0" editorAnchorY="0" label="ReadyStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="167" ssX="247" ssY="0" ssWidth="27" ssHeight="33" anchorX="-6" anchorY="-10" editorAnchorX="0" editorAnchorY="0" label="JumpFallingStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="157" ssX="275" ssY="0" ssWidth="27" ssHeight="33" anchorX="-6" anchorY="-11" editorAnchorX="0" editorAnchorY="0" label="ReadyEnd"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="168" ssX="247" ssY="0" ssWidth="27" ssHeight="33" anchorX="-6" anchorY="-10" editorAnchorX="0" editorAnchorY="0" label="JumpFallingEnd"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="107" ssX="303" ssY="0" ssWidth="26" ssHeight="33" anchorX="-6" anchorY="-11" editorAnchorX="0" editorAnchorY="0" label="Spell2AttackEnd"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="9" ssX="330" ssY="0" ssWidth="25" ssHeight="33" anchorX="-8" anchorY="-11" editorAnchorX="0" editorAnchorY="0" label="StandStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="7" ssX="356" ssY="0" ssWidth="25" ssHeight="33" anchorX="-8" anchorY="-11" editorAnchorX="0" editorAnchorY="0" label="StandStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="155" ssX="382" ssY="0" ssWidth="25" ssHeight="33" anchorX="-8" anchorY="-11" editorAnchorX="0" editorAnchorY="0" label="ReadyStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="10" ssX="408" ssY="0" ssWidth="25" ssHeight="33" anchorX="-8" anchorY="-11" editorAnchorX="0" editorAnchorY="0" label="StandStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="6" ssX="434" ssY="0" ssWidth="25" ssHeight="33" anchorX="-8" anchorY="-11" editorAnchorX="0" editorAnchorY="0" label="StandStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="8" ssX="460" ssY="0" ssWidth="25" ssHeight="33" anchorX="-8" anchorY="-11" editorAnchorX="0" editorAnchorY="0" label="StandStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="64" ssX="486" ssY="0" ssWidth="24" ssHeight="33" anchorX="-14" anchorY="-11" editorAnchorX="0" editorAnchorY="0" label="Attack2Start"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="150" ssX="73" ssY="39" ssWidth="24" ssHeight="33" anchorX="-8" anchorY="-11" editorAnchorX="0" editorAnchorY="0" label="ReadyStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="65" ssX="486" ssY="0" ssWidth="24" ssHeight="33" anchorX="-14" anchorY="-11" editorAnchorX="0" editorAnchorY="0" label="Attack2Start"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="149" ssX="104" ssY="35" ssWidth="23" ssHeight="33" anchorX="-9" anchorY="-11" editorAnchorX="0" editorAnchorY="0" label="ReadyStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="158" ssX="133" ssY="34" ssWidth="23" ssHeight="33" anchorX="-10" anchorY="-11" editorAnchorX="0" editorAnchorY="0" label="ReadyLoopStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="159" ssX="157" ssY="34" ssWidth="23" ssHeight="33" anchorX="-10" anchorY="-11" editorAnchorX="0" editorAnchorY="0" label="ReadyLoopStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="160" ssX="181" ssY="34" ssWidth="23" ssHeight="33" anchorX="-10" anchorY="-11" editorAnchorX="0" editorAnchorY="0" label="ReadyLoopStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="161" ssX="205" ssY="34" ssWidth="23" ssHeight="33" anchorX="-10" anchorY="-11" editorAnchorX="0" editorAnchorY="0" label="ReadyLoopEnd"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="154" ssX="229" ssY="34" ssWidth="23" ssHeight="33" anchorX="-10" anchorY="-11" editorAnchorX="0" editorAnchorY="0" label="ReadyStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="153" ssX="253" ssY="34" ssWidth="22" ssHeight="33" anchorX="-10" anchorY="-11" editorAnchorX="0" editorAnchorY="0" label="ReadyStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="69" ssX="322" ssY="34" ssWidth="22" ssHeight="33" anchorX="-14" anchorY="-11" editorAnchorX="0" editorAnchorY="0" label="Attack2Start"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="152" ssX="276" ssY="34" ssWidth="22" ssHeight="33" anchorX="-10" anchorY="-11" editorAnchorX="0" editorAnchorY="0" label="ReadyStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="67" ssX="299" ssY="34" ssWidth="22" ssHeight="33" anchorX="-14" anchorY="-11" editorAnchorX="0" editorAnchorY="0" label="Attack2Start"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="66" ssX="299" ssY="34" ssWidth="22" ssHeight="33" anchorX="-14" anchorY="-11" editorAnchorX="0" editorAnchorY="0" label="Attack2Start"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="68" ssX="322" ssY="34" ssWidth="22" ssHeight="33" anchorX="-14" anchorY="-11" editorAnchorX="0" editorAnchorY="0" label="Attack2Start"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="165" ssX="345" ssY="34" ssWidth="21" ssHeight="33" anchorX="-12" anchorY="-10" editorAnchorX="0" editorAnchorY="0" label="JumpRisingStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="166" ssX="345" ssY="34" ssWidth="21" ssHeight="33" anchorX="-12" anchorY="-10" editorAnchorX="0" editorAnchorY="0" label="JumpRisingEnd"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="138" ssX="367" ssY="34" ssWidth="33" ssHeight="32" anchorX="-6" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="135" ssX="367" ssY="34" ssWidth="33" ssHeight="32" anchorX="-6" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="136" ssX="367" ssY="34" ssWidth="33" ssHeight="32" anchorX="-6" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="125" ssX="367" ssY="34" ssWidth="33" ssHeight="32" anchorX="-6" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="124" ssX="367" ssY="34" ssWidth="33" ssHeight="32" anchorX="-6" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="142" ssX="367" ssY="34" ssWidth="33" ssHeight="32" anchorX="-6" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="126" ssX="367" ssY="34" ssWidth="33" ssHeight="32" anchorX="-6" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="129" ssX="367" ssY="34" ssWidth="33" ssHeight="32" anchorX="-6" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="127" ssX="367" ssY="34" ssWidth="33" ssHeight="32" anchorX="-6" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="131" ssX="367" ssY="34" ssWidth="33" ssHeight="32" anchorX="-6" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="123" ssX="401" ssY="34" ssWidth="33" ssHeight="32" anchorX="-6" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="133" ssX="367" ssY="34" ssWidth="33" ssHeight="32" anchorX="-6" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="134" ssX="367" ssY="34" ssWidth="33" ssHeight="32" anchorX="-6" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="122" ssX="435" ssY="34" ssWidth="33" ssHeight="32" anchorX="-6" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="128" ssX="367" ssY="34" ssWidth="33" ssHeight="32" anchorX="-6" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="137" ssX="367" ssY="34" ssWidth="33" ssHeight="32" anchorX="-6" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="132" ssX="367" ssY="34" ssWidth="33" ssHeight="32" anchorX="-6" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="139" ssX="367" ssY="34" ssWidth="33" ssHeight="32" anchorX="-6" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="140" ssX="367" ssY="34" ssWidth="33" ssHeight="32" anchorX="-6" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="130" ssX="367" ssY="34" ssWidth="33" ssHeight="32" anchorX="-6" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="141" ssX="367" ssY="34" ssWidth="33" ssHeight="32" anchorX="-6" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="143" ssX="469" ssY="34" ssWidth="28" ssHeight="32" anchorX="-7" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="FlavourEnd"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="76" ssX="0" ssY="78" ssWidth="27" ssHeight="32" anchorX="-6" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="ReloadStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="211" ssX="28" ssY="78" ssWidth="27" ssHeight="32" anchorX="-7" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="ReloadRunStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="77" ssX="56" ssY="78" ssWidth="27" ssHeight="32" anchorX="-6" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="ReloadStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="78" ssX="84" ssY="73" ssWidth="27" ssHeight="32" anchorX="-6" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="ReloadStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="108" ssX="112" ssY="69" ssWidth="26" ssHeight="32" anchorX="-6" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="Spell2ExitStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="109" ssX="139" ssY="68" ssWidth="26" ssHeight="32" anchorX="-7" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="Spell2ExitEnd"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="1" ssX="166" ssY="68" ssWidth="25" ssHeight="32" anchorX="-8" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="StandStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="162" ssX="192" ssY="68" ssWidth="25" ssHeight="32" anchorX="-7" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="JumpTellStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="97" ssX="218" ssY="68" ssWidth="25" ssHeight="32" anchorX="-8" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="Spell2TellStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="115" ssX="218" ssY="68" ssWidth="25" ssHeight="32" anchorX="-8" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="80" ssX="244" ssY="68" ssWidth="25" ssHeight="32" anchorX="-6" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="ReloadStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="11" ssX="270" ssY="68" ssWidth="25" ssHeight="32" anchorX="-8" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="StandStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="79" ssX="296" ssY="68" ssWidth="25" ssHeight="32" anchorX="-6" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="ReloadStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="144" ssX="166" ssY="68" ssWidth="25" ssHeight="32" anchorX="-8" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="ReadyStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="4" ssX="322" ssY="68" ssWidth="25" ssHeight="32" anchorX="-8" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="StandStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="84" ssX="348" ssY="68" ssWidth="25" ssHeight="32" anchorX="-6" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="ReloadStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="5" ssX="374" ssY="67" ssWidth="25" ssHeight="32" anchorX="-8" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="StandStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="145" ssX="400" ssY="67" ssWidth="25" ssHeight="32" anchorX="-9" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="ReadyStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="91" ssX="426" ssY="67" ssWidth="25" ssHeight="32" anchorX="-8" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="Spell1TellStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="2" ssX="452" ssY="67" ssWidth="25" ssHeight="32" anchorX="-8" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="StandStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="81" ssX="478" ssY="67" ssWidth="25" ssHeight="32" anchorX="-6" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="ReloadStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="3" ssX="0" ssY="111" ssWidth="25" ssHeight="32" anchorX="-8" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="StandStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="89" ssX="26" ssY="111" ssWidth="24" ssHeight="32" anchorX="-7" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="ReloadStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="31" ssX="51" ssY="111" ssWidth="24" ssHeight="32" anchorX="-10" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="StunStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="224" ssX="84" ssY="106" ssWidth="24" ssHeight="32" anchorX="-8" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="ReloadRunStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="148" ssX="112" ssY="102" ssWidth="23" ssHeight="32" anchorX="-10" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="ReadyStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="88" ssX="139" ssY="101" ssWidth="23" ssHeight="32" anchorX="-8" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="ReloadStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="48" ssX="163" ssY="101" ssWidth="23" ssHeight="32" anchorX="-15" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="Attack1Start"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="47" ssX="187" ssY="101" ssWidth="23" ssHeight="32" anchorX="-15" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="Attack1Start"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="71" ssX="211" ssY="101" ssWidth="22" ssHeight="32" anchorX="-14" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="Attack2Start"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="70" ssX="211" ssY="101" ssWidth="22" ssHeight="32" anchorX="-14" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="Attack2Start"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="223" ssX="234" ssY="101" ssWidth="22" ssHeight="32" anchorX="-9" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="ReloadRunStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="249" ssX="257" ssY="101" ssWidth="21" ssHeight="32" anchorX="-14" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="RunMusicStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="262" ssX="279" ssY="101" ssWidth="21" ssHeight="32" anchorX="-14" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="RunMusicStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="238" ssX="462" ssY="100" ssWidth="21" ssHeight="32" anchorX="-14" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="IdleMusicStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="263" ssX="374" ssY="100" ssWidth="21" ssHeight="32" anchorX="-14" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="RunMusicStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="229" ssX="301" ssY="101" ssWidth="21" ssHeight="32" anchorX="-14" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="IdleMusicStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="246" ssX="323" ssY="101" ssWidth="21" ssHeight="32" anchorX="-14" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="RunMusicStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="245" ssX="301" ssY="101" ssWidth="21" ssHeight="32" anchorX="-14" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="IdleMusicEnd"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="237" ssX="301" ssY="101" ssWidth="21" ssHeight="32" anchorX="-14" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="IdleMusicStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="244" ssX="462" ssY="100" ssWidth="21" ssHeight="32" anchorX="-14" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="IdleMusicStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="236" ssX="484" ssY="100" ssWidth="21" ssHeight="32" anchorX="-14" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="IdleMusicStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="251" ssX="345" ssY="101" ssWidth="21" ssHeight="32" anchorX="-14" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="RunMusicStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="234" ssX="396" ssY="100" ssWidth="21" ssHeight="32" anchorX="-14" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="IdleMusicStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="253" ssX="374" ssY="100" ssWidth="21" ssHeight="32" anchorX="-14" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="RunMusicStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="233" ssX="301" ssY="101" ssWidth="21" ssHeight="32" anchorX="-14" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="IdleMusicStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="226" ssX="396" ssY="100" ssWidth="21" ssHeight="32" anchorX="-14" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="IdleMusicStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="232" ssX="462" ssY="100" ssWidth="21" ssHeight="32" anchorX="-14" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="IdleMusicStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="240" ssX="301" ssY="101" ssWidth="21" ssHeight="32" anchorX="-14" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="IdleMusicStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="231" ssX="462" ssY="100" ssWidth="21" ssHeight="32" anchorX="-14" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="IdleMusicStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="265" ssX="418" ssY="100" ssWidth="21" ssHeight="32" anchorX="-14" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="RunMusicEnd"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="261" ssX="345" ssY="101" ssWidth="21" ssHeight="32" anchorX="-14" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="RunMusicStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="15" ssX="440" ssY="100" ssWidth="21" ssHeight="32" anchorX="-14" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="RunStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="230" ssX="462" ssY="100" ssWidth="21" ssHeight="32" anchorX="-14" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="IdleMusicStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="228" ssX="484" ssY="100" ssWidth="21" ssHeight="32" anchorX="-14" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="IdleMusicStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="248" ssX="0" ssY="144" ssWidth="21" ssHeight="32" anchorX="-14" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="RunMusicStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="252" ssX="22" ssY="144" ssWidth="21" ssHeight="32" anchorX="-14" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="RunMusicStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="254" ssX="44" ssY="144" ssWidth="21" ssHeight="32" anchorX="-14" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="RunMusicStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="241" ssX="462" ssY="100" ssWidth="21" ssHeight="32" anchorX="-14" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="IdleMusicStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="256" ssX="66" ssY="144" ssWidth="21" ssHeight="32" anchorX="-14" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="RunMusicStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="264" ssX="88" ssY="139" ssWidth="21" ssHeight="32" anchorX="-14" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="RunMusicStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="257" ssX="110" ssY="135" ssWidth="21" ssHeight="32" anchorX="-14" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="RunMusicStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="243" ssX="301" ssY="101" ssWidth="21" ssHeight="32" anchorX="-14" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="IdleMusicStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="258" ssX="136" ssY="134" ssWidth="21" ssHeight="32" anchorX="-14" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="RunMusicStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="239" ssX="484" ssY="100" ssWidth="21" ssHeight="32" anchorX="-14" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="IdleMusicStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="259" ssX="158" ssY="134" ssWidth="21" ssHeight="32" anchorX="-14" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="RunMusicStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="260" ssX="180" ssY="134" ssWidth="21" ssHeight="32" anchorX="-14" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="RunMusicStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="242" ssX="484" ssY="100" ssWidth="21" ssHeight="32" anchorX="-14" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="IdleMusicStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="250" ssX="202" ssY="134" ssWidth="21" ssHeight="32" anchorX="-14" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="RunMusicStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="35" ssX="224" ssY="134" ssWidth="18" ssHeight="32" anchorX="-14" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="KORisingEnd"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="34" ssX="224" ssY="134" ssWidth="18" ssHeight="32" anchorX="-14" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="KORisingStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="46" ssX="243" ssY="134" ssWidth="31" ssHeight="31" anchorX="-17" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="Attack1Start"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="63" ssX="275" ssY="134" ssWidth="31" ssHeight="31" anchorX="-16" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="Attack2Start"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="210" ssX="307" ssY="134" ssWidth="27" ssHeight="31" anchorX="-8" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="ReloadRunStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="75" ssX="335" ssY="134" ssWidth="27" ssHeight="31" anchorX="-7" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="ReloadStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="213" ssX="367" ssY="133" ssWidth="27" ssHeight="31" anchorX="-7" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="ReloadRunStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="212" ssX="395" ssY="133" ssWidth="27" ssHeight="31" anchorX="-7" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="ReloadRunStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="44" ssX="423" ssY="133" ssWidth="25" ssHeight="31" anchorX="-8" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="KOGetUpEnd"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="12" ssX="449" ssY="133" ssWidth="25" ssHeight="31" anchorX="-8" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="StandStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="215" ssX="475" ssY="133" ssWidth="25" ssHeight="31" anchorX="-7" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="ReloadRunStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="14" ssX="0" ssY="177" ssWidth="25" ssHeight="31" anchorX="-8" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="StandEnd"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="110" ssX="26" ssY="177" ssWidth="25" ssHeight="31" anchorX="-8" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="UseStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="216" ssX="52" ssY="177" ssWidth="25" ssHeight="31" anchorX="-7" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="ReloadRunStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="214" ssX="88" ssY="172" ssWidth="25" ssHeight="31" anchorX="-7" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="ReloadRunStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="13" ssX="114" ssY="168" ssWidth="25" ssHeight="31" anchorX="-8" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="StandStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="83" ssX="140" ssY="167" ssWidth="24" ssHeight="31" anchorX="-7" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="ReloadStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="219" ssX="165" ssY="167" ssWidth="24" ssHeight="31" anchorX="-7" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="ReloadRunStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="85" ssX="190" ssY="167" ssWidth="24" ssHeight="31" anchorX="-7" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="ReloadStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="92" ssX="215" ssY="167" ssWidth="24" ssHeight="31" anchorX="-13" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="Spell1TellEnd"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="33" ssX="243" ssY="166" ssWidth="24" ssHeight="31" anchorX="-9" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="StunEnd"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="82" ssX="268" ssY="166" ssWidth="24" ssHeight="31" anchorX="-7" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="ReloadStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="86" ssX="293" ssY="166" ssWidth="24" ssHeight="31" anchorX="-7" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="ReloadStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="59" ssX="462" ssY="165" ssWidth="23" ssHeight="31" anchorX="-17" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="Attack2TellStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="55" ssX="462" ssY="165" ssWidth="23" ssHeight="31" anchorX="-17" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="Attack2TellStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="73" ssX="318" ssY="166" ssWidth="23" ssHeight="31" anchorX="-15" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="Attack2Start"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="90" ssX="342" ssY="166" ssWidth="23" ssHeight="31" anchorX="-8" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="ReloadEnd"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="54" ssX="462" ssY="165" ssWidth="23" ssHeight="31" anchorX="-17" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="Attack2TellStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="61" ssX="462" ssY="165" ssWidth="23" ssHeight="31" anchorX="-17" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="Attack2TellEnd"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="53" ssX="462" ssY="165" ssWidth="23" ssHeight="31" anchorX="-17" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="Attack1End"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="56" ssX="462" ssY="165" ssWidth="23" ssHeight="31" anchorX="-17" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="Attack2TellStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="50" ssX="462" ssY="165" ssWidth="23" ssHeight="31" anchorX="-17" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="Attack1End"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="57" ssX="462" ssY="165" ssWidth="23" ssHeight="31" anchorX="-17" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="Attack2TellStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="49" ssX="462" ssY="165" ssWidth="23" ssHeight="31" anchorX="-17" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="Attack1Start"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="52" ssX="462" ssY="165" ssWidth="23" ssHeight="31" anchorX="-17" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="Attack1End"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="221" ssX="366" ssY="165" ssWidth="23" ssHeight="31" anchorX="-8" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="ReloadRunStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="225" ssX="390" ssY="165" ssWidth="23" ssHeight="31" anchorX="-9" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="ReloadRunEnd"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="74" ssX="414" ssY="165" ssWidth="23" ssHeight="31" anchorX="-16" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="Attack2End"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="87" ssX="438" ssY="165" ssWidth="23" ssHeight="31" anchorX="-8" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="ReloadStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="51" ssX="462" ssY="165" ssWidth="23" ssHeight="31" anchorX="-17" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="Attack1End"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="62" ssX="462" ssY="165" ssWidth="23" ssHeight="31" anchorX="-17" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="Attack2Start"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="45" ssX="462" ssY="165" ssWidth="23" ssHeight="31" anchorX="-17" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="Attack1Start"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="58" ssX="462" ssY="165" ssWidth="23" ssHeight="31" anchorX="-17" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="Attack2TellStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="60" ssX="462" ssY="165" ssWidth="23" ssHeight="31" anchorX="-17" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="Attack2TellStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="147" ssX="486" ssY="165" ssWidth="22" ssHeight="31" anchorX="-11" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="ReadyStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="16" ssX="0" ssY="209" ssWidth="22" ssHeight="31" anchorX="-13" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="RunStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="222" ssX="23" ssY="209" ssWidth="22" ssHeight="31" anchorX="-9" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="ReloadRunStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="72" ssX="46" ssY="209" ssWidth="22" ssHeight="31" anchorX="-14" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="Attack2Start"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="247" ssX="78" ssY="204" ssWidth="21" ssHeight="31" anchorX="-14" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="RunMusicStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="255" ssX="100" ssY="204" ssWidth="21" ssHeight="31" anchorX="-14" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="RunMusicStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="235" ssX="166" ssY="199" ssWidth="21" ssHeight="31" anchorX="-14" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="IdleMusicStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="20" ssX="122" ssY="200" ssWidth="21" ssHeight="31" anchorX="-14" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="RunStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="32" ssX="144" ssY="199" ssWidth="21" ssHeight="31" anchorX="-12" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="StunStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="227" ssX="166" ssY="199" ssWidth="21" ssHeight="31" anchorX="-14" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="IdleMusicStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="19" ssX="188" ssY="199" ssWidth="20" ssHeight="31" anchorX="-15" anchorY="-12" editorAnchorX="0" editorAnchorY="0" label="RunStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="21" ssX="209" ssY="199" ssWidth="20" ssHeight="31" anchorX="-14" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="RunStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="22" ssX="230" ssY="199" ssWidth="19" ssHeight="31" anchorX="-15" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="RunEnd"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="93" ssX="250" ssY="198" ssWidth="31" ssHeight="30" anchorX="-10" anchorY="-14" editorAnchorX="0" editorAnchorY="0" label="Spell1AttackStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="104" ssX="282" ssY="198" ssWidth="26" ssHeight="30" anchorX="-7" anchorY="-14" editorAnchorX="0" editorAnchorY="0" label="Spell2TellEnd"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="116" ssX="392" ssY="197" ssWidth="25" ssHeight="30" anchorX="-7" anchorY="-14" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="146" ssX="309" ssY="198" ssWidth="25" ssHeight="30" anchorX="-10" anchorY="-14" editorAnchorX="0" editorAnchorY="0" label="ReadyStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="103" ssX="366" ssY="197" ssWidth="25" ssHeight="30" anchorX="-7" anchorY="-14" editorAnchorX="0" editorAnchorY="0" label="Spell2TellStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="164" ssX="335" ssY="198" ssWidth="25" ssHeight="30" anchorX="-7" anchorY="-14" editorAnchorX="0" editorAnchorY="0" label="JumpTellEnd"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="119" ssX="392" ssY="197" ssWidth="25" ssHeight="30" anchorX="-7" anchorY="-14" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="117" ssX="418" ssY="197" ssWidth="25" ssHeight="30" anchorX="-7" anchorY="-14" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="100" ssX="366" ssY="197" ssWidth="25" ssHeight="30" anchorX="-7" anchorY="-14" editorAnchorX="0" editorAnchorY="0" label="Spell2TellStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="101" ssX="392" ssY="197" ssWidth="25" ssHeight="30" anchorX="-7" anchorY="-14" editorAnchorX="0" editorAnchorY="0" label="Spell2TellStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="98" ssX="392" ssY="197" ssWidth="25" ssHeight="30" anchorX="-7" anchorY="-14" editorAnchorX="0" editorAnchorY="0" label="Spell2TellStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="102" ssX="418" ssY="197" ssWidth="25" ssHeight="30" anchorX="-7" anchorY="-14" editorAnchorX="0" editorAnchorY="0" label="Spell2TellStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="99" ssX="418" ssY="197" ssWidth="25" ssHeight="30" anchorX="-7" anchorY="-14" editorAnchorX="0" editorAnchorY="0" label="Spell2TellStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="118" ssX="366" ssY="197" ssWidth="25" ssHeight="30" anchorX="-7" anchorY="-14" editorAnchorX="0" editorAnchorY="0" label="FlavourStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="218" ssX="444" ssY="197" ssWidth="24" ssHeight="30" anchorX="-8" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="ReloadRunStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="217" ssX="469" ssY="197" ssWidth="24" ssHeight="30" anchorX="-8" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="ReloadRunStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="220" ssX="0" ssY="241" ssWidth="23" ssHeight="30" anchorX="-8" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="ReloadRunStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="18" ssX="24" ssY="241" ssWidth="20" ssHeight="30" anchorX="-15" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="RunStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="17" ssX="45" ssY="241" ssWidth="19" ssHeight="30" anchorX="-16" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="RunStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="111" ssX="69" ssY="236" ssWidth="18" ssHeight="30" anchorX="-17" anchorY="-14" editorAnchorX="0" editorAnchorY="0" label="UseStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="96" ssX="88" ssY="236" ssWidth="26" ssHeight="29" anchorX="-9" anchorY="-15" editorAnchorX="0" editorAnchorY="0" label="Spell1ExitEnd"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="94" ssX="88" ssY="236" ssWidth="26" ssHeight="29" anchorX="-9" anchorY="-15" editorAnchorX="0" editorAnchorY="0" label="Spell1AttackEnd"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="95" ssX="88" ssY="236" ssWidth="26" ssHeight="29" anchorX="-9" anchorY="-15" editorAnchorX="0" editorAnchorY="0" label="Spell1ExitStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="163" ssX="122" ssY="232" ssWidth="25" ssHeight="29" anchorX="-7" anchorY="-15" editorAnchorX="0" editorAnchorY="0" label="JumpTellStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="112" ssX="148" ssY="231" ssWidth="18" ssHeight="28" anchorX="-17" anchorY="-16" editorAnchorX="0" editorAnchorY="0" label="UseStart"/>
+  <bitmap spriteName="LargeUI_EngineerBGOutline_Sprite" index="1" ssX="167" ssY="231" ssWidth="144" ssHeight="27" anchorX="-1" anchorY="-8" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="SmallUI_EngineerIcon_Sprite" index="1" ssX="312" ssY="229" ssWidth="27" ssHeight="27" anchorX="13.75" anchorY="13.75" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="113" ssX="340" ssY="229" ssWidth="19" ssHeight="26" anchorX="-17" anchorY="-18" editorAnchorX="0" editorAnchorY="0" label="UseStart"/>
+  <bitmap spriteName="LargeUI_EngineerBG_Sprite" index="1" ssX="361" ssY="228" ssWidth="142" ssHeight="25" anchorX="-3" anchorY="-9" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="55" ssX="0" ssY="272" ssWidth="19" ssHeight="25" anchorX="9" anchorY="17" editorAnchorX="0" editorAnchorY="0" label="ChargedStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="114" ssX="20" ssY="272" ssWidth="19" ssHeight="25" anchorX="-17" anchorY="-19" editorAnchorX="0" editorAnchorY="0" label="UseEnd"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="59" ssX="40" ssY="272" ssWidth="19" ssHeight="24" anchorX="9" anchorY="16" editorAnchorX="0" editorAnchorY="0" label="ActiveStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="23" ssX="65" ssY="267" ssWidth="18" ssHeight="24" anchorX="-14" anchorY="-21" editorAnchorX="0" editorAnchorY="0" label="DodgeStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="27" ssX="88" ssY="266" ssWidth="18" ssHeight="24" anchorX="-16" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="DodgeStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="43" ssX="115" ssY="262" ssWidth="22" ssHeight="23" anchorX="-10" anchorY="-21" editorAnchorX="0" editorAnchorY="0" label="KOGetUpStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="37" ssX="138" ssY="262" ssWidth="21" ssHeight="23" anchorX="-12" anchorY="-14" editorAnchorX="0" editorAnchorY="0" label="KOFallingEnd"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="36" ssX="138" ssY="262" ssWidth="21" ssHeight="23" anchorX="-12" anchorY="-14" editorAnchorX="0" editorAnchorY="0" label="KOFallingStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="56" ssX="167" ssY="259" ssWidth="19" ssHeight="23" anchorX="9" anchorY="15" editorAnchorX="0" editorAnchorY="0" label="ChargedEnd"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="30" ssX="187" ssY="259" ssWidth="19" ssHeight="22" anchorX="-14" anchorY="-23" editorAnchorX="0" editorAnchorY="0" label="DodgeEnd"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="26" ssX="207" ssY="259" ssWidth="19" ssHeight="22" anchorX="-15" anchorY="-24" editorAnchorX="0" editorAnchorY="0" label="DodgeStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="51" ssX="494" ssY="197" ssWidth="17" ssHeight="22" anchorX="8" anchorY="15" editorAnchorX="0" editorAnchorY="0" label="ChargedStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="58" ssX="227" ssY="259" ssWidth="19" ssHeight="21" anchorX="9" anchorY="13" editorAnchorX="0" editorAnchorY="0" label="ActiveStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="57" ssX="247" ssY="259" ssWidth="19" ssHeight="21" anchorX="9" anchorY="13" editorAnchorX="0" editorAnchorY="0" label="ActiveStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="60" ssX="267" ssY="259" ssWidth="19" ssHeight="21" anchorX="9" anchorY="13" editorAnchorX="0" editorAnchorY="0" label="ActiveStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="61" ssX="287" ssY="259" ssWidth="19" ssHeight="21" anchorX="9" anchorY="13" editorAnchorX="0" editorAnchorY="0" label="ActiveStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="30" ssX="312" ssY="257" ssWidth="19" ssHeight="21" anchorX="9" anchorY="13" editorAnchorX="0" editorAnchorY="0" label="OpenStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="78" ssX="312" ssY="257" ssWidth="19" ssHeight="21" anchorX="9" anchorY="13" editorAnchorX="0" editorAnchorY="0" label="CloseStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="171" ssX="340" ssY="256" ssWidth="40" ssHeight="20" anchorX="-2" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="SleepOpenStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="174" ssX="125" ssY="286" ssWidth="40" ssHeight="20" anchorX="-2" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="SleepOpenStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="169" ssX="381" ssY="254" ssWidth="40" ssHeight="20" anchorX="-2" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="SleepOpenStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="170" ssX="422" ssY="254" ssWidth="40" ssHeight="20" anchorX="-2" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="SleepOpenStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="187" ssX="463" ssY="254" ssWidth="40" ssHeight="20" anchorX="-2" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="SleepCloseStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="186" ssX="0" ssY="298" ssWidth="40" ssHeight="20" anchorX="-2" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="SleepCloseStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="181" ssX="125" ssY="286" ssWidth="40" ssHeight="20" anchorX="-2" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="SleepOpenStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="194" ssX="41" ssY="297" ssWidth="40" ssHeight="20" anchorX="-2" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="SleepCloseStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="180" ssX="125" ssY="286" ssWidth="40" ssHeight="20" anchorX="-2" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="SleepOpenStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="195" ssX="41" ssY="297" ssWidth="40" ssHeight="20" anchorX="-2" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="SleepCloseStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="178" ssX="125" ssY="286" ssWidth="40" ssHeight="20" anchorX="-2" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="SleepOpenStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="183" ssX="125" ssY="286" ssWidth="40" ssHeight="20" anchorX="-2" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="SleepOpenStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="176" ssX="125" ssY="286" ssWidth="40" ssHeight="20" anchorX="-2" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="SleepOpenStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="184" ssX="125" ssY="286" ssWidth="40" ssHeight="20" anchorX="-2" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="SleepOpenStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="173" ssX="125" ssY="286" ssWidth="40" ssHeight="20" anchorX="-2" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="SleepOpenStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="185" ssX="125" ssY="286" ssWidth="40" ssHeight="20" anchorX="-2" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="SleepOpenEnd"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="190" ssX="41" ssY="297" ssWidth="40" ssHeight="20" anchorX="-2" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="SleepCloseStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="196" ssX="41" ssY="297" ssWidth="40" ssHeight="20" anchorX="-2" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="SleepCloseStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="192" ssX="41" ssY="297" ssWidth="40" ssHeight="20" anchorX="-2" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="SleepCloseStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="197" ssX="41" ssY="297" ssWidth="40" ssHeight="20" anchorX="-2" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="SleepCloseStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="203" ssX="41" ssY="297" ssWidth="40" ssHeight="20" anchorX="-2" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="SleepCloseEnd"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="198" ssX="41" ssY="297" ssWidth="40" ssHeight="20" anchorX="-2" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="SleepCloseStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="179" ssX="125" ssY="286" ssWidth="40" ssHeight="20" anchorX="-2" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="SleepOpenStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="189" ssX="41" ssY="297" ssWidth="40" ssHeight="20" anchorX="-2" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="SleepCloseStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="175" ssX="125" ssY="286" ssWidth="40" ssHeight="20" anchorX="-2" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="SleepOpenStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="199" ssX="41" ssY="297" ssWidth="40" ssHeight="20" anchorX="-2" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="SleepCloseStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="191" ssX="41" ssY="297" ssWidth="40" ssHeight="20" anchorX="-2" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="SleepCloseStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="200" ssX="41" ssY="297" ssWidth="40" ssHeight="20" anchorX="-2" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="SleepCloseStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="188" ssX="84" ssY="291" ssWidth="40" ssHeight="20" anchorX="-2" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="SleepCloseStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="201" ssX="41" ssY="297" ssWidth="40" ssHeight="20" anchorX="-2" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="SleepCloseStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="172" ssX="125" ssY="286" ssWidth="40" ssHeight="20" anchorX="-2" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="SleepOpenStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="182" ssX="125" ssY="286" ssWidth="40" ssHeight="20" anchorX="-2" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="SleepOpenStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="202" ssX="41" ssY="297" ssWidth="40" ssHeight="20" anchorX="-2" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="SleepCloseStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="177" ssX="125" ssY="286" ssWidth="40" ssHeight="20" anchorX="-2" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="SleepOpenStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="193" ssX="41" ssY="297" ssWidth="40" ssHeight="20" anchorX="-2" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="SleepCloseStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="62" ssX="166" ssY="283" ssWidth="19" ssHeight="20" anchorX="9" anchorY="12" editorAnchorX="0" editorAnchorY="0" label="ActiveStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="71" ssX="207" ssY="282" ssWidth="19" ssHeight="20" anchorX="9" anchorY="12" editorAnchorX="0" editorAnchorY="0" label="ActiveStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="70" ssX="207" ssY="282" ssWidth="19" ssHeight="20" anchorX="9" anchorY="12" editorAnchorX="0" editorAnchorY="0" label="ActiveStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="73" ssX="207" ssY="282" ssWidth="19" ssHeight="20" anchorX="9" anchorY="12" editorAnchorX="0" editorAnchorY="0" label="ActiveStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="69" ssX="207" ssY="282" ssWidth="19" ssHeight="20" anchorX="9" anchorY="12" editorAnchorX="0" editorAnchorY="0" label="ActiveStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="76" ssX="187" ssY="282" ssWidth="19" ssHeight="20" anchorX="9" anchorY="12" editorAnchorX="0" editorAnchorY="0" label="ActiveEnd"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="64" ssX="207" ssY="282" ssWidth="19" ssHeight="20" anchorX="9" anchorY="12" editorAnchorX="0" editorAnchorY="0" label="ActiveStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="74" ssX="207" ssY="282" ssWidth="19" ssHeight="20" anchorX="9" anchorY="12" editorAnchorX="0" editorAnchorY="0" label="ActiveStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="65" ssX="207" ssY="282" ssWidth="19" ssHeight="20" anchorX="9" anchorY="12" editorAnchorX="0" editorAnchorY="0" label="ActiveStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="72" ssX="207" ssY="282" ssWidth="19" ssHeight="20" anchorX="9" anchorY="12" editorAnchorX="0" editorAnchorY="0" label="ActiveStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="63" ssX="207" ssY="282" ssWidth="19" ssHeight="20" anchorX="9" anchorY="12" editorAnchorX="0" editorAnchorY="0" label="ActiveStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="67" ssX="207" ssY="282" ssWidth="19" ssHeight="20" anchorX="9" anchorY="12" editorAnchorX="0" editorAnchorY="0" label="ActiveStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="75" ssX="207" ssY="282" ssWidth="19" ssHeight="20" anchorX="9" anchorY="12" editorAnchorX="0" editorAnchorY="0" label="ActiveStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="68" ssX="207" ssY="282" ssWidth="19" ssHeight="20" anchorX="9" anchorY="12" editorAnchorX="0" editorAnchorY="0" label="ActiveStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="66" ssX="207" ssY="282" ssWidth="19" ssHeight="20" anchorX="9" anchorY="12" editorAnchorX="0" editorAnchorY="0" label="ActiveStart"/>
+  <bitmap spriteName="PlayerEngineer_Drone" index="4" ssX="498" ssY="34" ssWidth="12" ssHeight="20" anchorX="5" anchorY="10" editorAnchorX="0" editorAnchorY="0" label="AttackStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="24" ssX="227" ssY="281" ssWidth="22" ssHeight="19" anchorX="-14" anchorY="-26" editorAnchorX="0" editorAnchorY="0" label="DodgeStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="28" ssX="250" ssY="281" ssWidth="22" ssHeight="19" anchorX="-13" anchorY="-25" editorAnchorX="0" editorAnchorY="0" label="DodgeStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="42" ssX="273" ssY="281" ssWidth="31" ssHeight="18" anchorX="-7" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="KOGetUpStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="208" ssX="307" ssY="279" ssWidth="28" ssHeight="18" anchorX="-9" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="CrawlStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="206" ssX="336" ssY="277" ssWidth="28" ssHeight="18" anchorX="-9" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="CrawlStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="207" ssX="365" ssY="277" ssWidth="28" ssHeight="18" anchorX="-10" anchorY="-28" editorAnchorX="0" editorAnchorY="0" label="CrawlStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="25" ssX="394" ssY="275" ssWidth="24" ssHeight="18" anchorX="-13" anchorY="-26" editorAnchorX="0" editorAnchorY="0" label="DodgeStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="29" ssX="419" ssY="275" ssWidth="24" ssHeight="18" anchorX="-13" anchorY="-29" editorAnchorX="0" editorAnchorY="0" label="DodgeStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="46" ssX="444" ssY="275" ssWidth="19" ssHeight="18" anchorX="9" anchorY="10" editorAnchorX="0" editorAnchorY="0" label="ChargingStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="36" ssX="444" ssY="275" ssWidth="19" ssHeight="18" anchorX="9" anchorY="10" editorAnchorX="0" editorAnchorY="0" label="ChargingStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="35" ssX="444" ssY="275" ssWidth="19" ssHeight="18" anchorX="9" anchorY="10" editorAnchorX="0" editorAnchorY="0" label="ChargingStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="42" ssX="444" ssY="275" ssWidth="19" ssHeight="18" anchorX="9" anchorY="10" editorAnchorX="0" editorAnchorY="0" label="ChargingStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="41" ssX="444" ssY="275" ssWidth="19" ssHeight="18" anchorX="9" anchorY="10" editorAnchorX="0" editorAnchorY="0" label="ChargingStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="43" ssX="444" ssY="275" ssWidth="19" ssHeight="18" anchorX="9" anchorY="10" editorAnchorX="0" editorAnchorY="0" label="ChargingStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="33" ssX="444" ssY="275" ssWidth="19" ssHeight="18" anchorX="9" anchorY="10" editorAnchorX="0" editorAnchorY="0" label="ChargingStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="39" ssX="444" ssY="275" ssWidth="19" ssHeight="18" anchorX="9" anchorY="10" editorAnchorX="0" editorAnchorY="0" label="ChargingStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="34" ssX="464" ssY="275" ssWidth="19" ssHeight="18" anchorX="9" anchorY="10" editorAnchorX="0" editorAnchorY="0" label="ChargingStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="31" ssX="484" ssY="275" ssWidth="19" ssHeight="18" anchorX="9" anchorY="10" editorAnchorX="0" editorAnchorY="0" label="OpenEnd"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="45" ssX="444" ssY="275" ssWidth="19" ssHeight="18" anchorX="9" anchorY="10" editorAnchorX="0" editorAnchorY="0" label="ChargingStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="49" ssX="484" ssY="275" ssWidth="19" ssHeight="18" anchorX="9" anchorY="10" editorAnchorX="0" editorAnchorY="0" label="ChargedStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="44" ssX="444" ssY="275" ssWidth="19" ssHeight="18" anchorX="9" anchorY="10" editorAnchorX="0" editorAnchorY="0" label="ChargingStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="47" ssX="444" ssY="275" ssWidth="19" ssHeight="18" anchorX="9" anchorY="10" editorAnchorX="0" editorAnchorY="0" label="ChargingStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="37" ssX="444" ssY="275" ssWidth="19" ssHeight="18" anchorX="9" anchorY="10" editorAnchorX="0" editorAnchorY="0" label="ChargingStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="52" ssX="0" ssY="319" ssWidth="19" ssHeight="18" anchorX="9" anchorY="13" editorAnchorX="0" editorAnchorY="0" label="ChargedStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="38" ssX="444" ssY="275" ssWidth="19" ssHeight="18" anchorX="9" anchorY="10" editorAnchorX="0" editorAnchorY="0" label="ChargingStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="48" ssX="444" ssY="275" ssWidth="19" ssHeight="18" anchorX="9" anchorY="10" editorAnchorX="0" editorAnchorY="0" label="ChargingEnd"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="54" ssX="0" ssY="319" ssWidth="19" ssHeight="18" anchorX="9" anchorY="10" editorAnchorX="0" editorAnchorY="0" label="ChargedStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="40" ssX="444" ssY="275" ssWidth="19" ssHeight="18" anchorX="9" anchorY="10" editorAnchorX="0" editorAnchorY="0" label="ChargingStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="32" ssX="484" ssY="275" ssWidth="19" ssHeight="18" anchorX="9" anchorY="10" editorAnchorX="0" editorAnchorY="0" label="ChargingStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="77" ssX="484" ssY="275" ssWidth="19" ssHeight="18" anchorX="9" anchorY="10" editorAnchorX="0" editorAnchorY="0" label="CloseStart"/>
+  <bitmap spriteName="PlayerEngineer_Drone" index="5" ssX="20" ssY="319" ssWidth="13" ssHeight="18" anchorX="7" anchorY="9" editorAnchorX="0" editorAnchorY="0" label="AttackStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="204" ssX="41" ssY="318" ssWidth="31" ssHeight="17" anchorX="-7" anchorY="-29" editorAnchorX="0" editorAnchorY="0" label="CrawlStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="209" ssX="82" ssY="312" ssWidth="29" ssHeight="17" anchorX="-8" anchorY="-29" editorAnchorX="0" editorAnchorY="0" label="CrawlEnd"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="205" ssX="125" ssY="307" ssWidth="29" ssHeight="17" anchorX="-8" anchorY="-29" editorAnchorX="0" editorAnchorY="0" label="CrawlStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="79" ssX="155" ssY="307" ssWidth="19" ssHeight="17" anchorX="9" anchorY="9" editorAnchorX="0" editorAnchorY="0" label="CloseStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="29" ssX="155" ssY="307" ssWidth="19" ssHeight="17" anchorX="9" anchorY="9" editorAnchorX="0" editorAnchorY="0" label="OpenStart"/>
+  <bitmap spriteName="LargeUI_EngineerHPBar_Sprite" index="1" ssX="227" ssY="301" ssWidth="132" ssHeight="16" anchorX="0" anchorY="0" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="41" ssX="360" ssY="296" ssWidth="34" ssHeight="16" anchorX="-6" anchorY="-30" editorAnchorX="0" editorAnchorY="0" label="KOGetUpStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="50" ssX="395" ssY="294" ssWidth="21" ssHeight="16" anchorX="10" anchorY="8" editorAnchorX="0" editorAnchorY="0" label="ChargedStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="53" ssX="417" ssY="294" ssWidth="21" ssHeight="16" anchorX="10" anchorY="8" editorAnchorX="0" editorAnchorY="0" label="ChargedStart"/>
+  <bitmap spriteName="PlayerMedic_BulletShot" index="3" ssX="439" ssY="294" ssWidth="16" ssHeight="16" anchorX="8" anchorY="8" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="PlayerEngineer_Drone" index="1" ssX="456" ssY="294" ssWidth="13" ssHeight="16" anchorX="7" anchorY="10" editorAnchorX="0" editorAnchorY="0" label="StandStart"/>
+  <bitmap spriteName="PlayerEngineer_Drone" index="3" ssX="456" ssY="294" ssWidth="13" ssHeight="16" anchorX="7" anchorY="10" editorAnchorX="0" editorAnchorY="0" label="AttackStart"/>
+  <bitmap spriteName="PlayerEngineer_Drone" index="2" ssX="501" ssY="133" ssWidth="8" ssHeight="16" anchorX="4" anchorY="10" editorAnchorX="0" editorAnchorY="0" label="StandEnd"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="40" ssX="470" ssY="294" ssWidth="35" ssHeight="15" anchorX="-6" anchorY="-31" editorAnchorX="0" editorAnchorY="0" label="KOGetUpStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="38" ssX="470" ssY="294" ssWidth="35" ssHeight="15" anchorX="-6" anchorY="-31" editorAnchorX="0" editorAnchorY="0" label="KODownStart"/>
+  <bitmap spriteName="PlayerEngineer_Sprite" index="39" ssX="470" ssY="294" ssWidth="35" ssHeight="15" anchorX="-6" anchorY="-31" editorAnchorX="0" editorAnchorY="0" label="KODownEnd"/>
+  <bitmap spriteName="PlayerEngineer_DroneAntiAir" index="4" ssX="0" ssY="338" ssWidth="20" ssHeight="15" anchorX="10" anchorY="7" editorAnchorX="0" editorAnchorY="0" label="AttackStart"/>
+  <bitmap spriteName="PlayerEngineer_DroneLockDown" index="6" ssX="21" ssY="338" ssWidth="17" ssHeight="15" anchorX="9" anchorY="8" editorAnchorX="0" editorAnchorY="0" label="AttackEnd"/>
+  <bitmap spriteName="PlayerEngineer_DroneLockDown" index="1" ssX="39" ssY="336" ssWidth="15" ssHeight="15" anchorX="8" anchorY="8" editorAnchorX="0" editorAnchorY="0" label="StandStart"/>
+  <bitmap spriteName="LargeUI_EngineerBullet_Sprite" index="1" ssX="55" ssY="336" ssWidth="15" ssHeight="15" anchorX="0" anchorY="0" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="Engineer_Charge_Blue" index="11" ssX="73" ssY="330" ssWidth="15" ssHeight="15" anchorX="8" anchorY="8" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="Engineer_Charge_Red" index="11" ssX="89" ssY="330" ssWidth="15" ssHeight="15" anchorX="8" anchorY="8" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="Engineer_Charge_Yellow" index="11" ssX="105" ssY="330" ssWidth="15" ssHeight="15" anchorX="8" anchorY="8" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="PlayerEngineer_DroneLockDown" index="2" ssX="121" ssY="325" ssWidth="15" ssHeight="15" anchorX="8" anchorY="8" editorAnchorX="0" editorAnchorY="0" label="StandEnd"/>
+  <bitmap spriteName="PlayerEngineer_DroneLockDown" index="3" ssX="39" ssY="336" ssWidth="15" ssHeight="15" anchorX="8" anchorY="8" editorAnchorX="0" editorAnchorY="0" label="AttackStart"/>
+  <bitmap spriteName="PlayerEngineer_Drone" index="6" ssX="137" ssY="325" ssWidth="8" ssHeight="15" anchorX="4" anchorY="9" editorAnchorX="0" editorAnchorY="0" label="AttackEnd"/>
+  <bitmap spriteName="PlayerEngineer_DroneLockDown" index="4" ssX="146" ssY="325" ssWidth="32" ssHeight="14" anchorX="16" anchorY="8" editorAnchorX="0" editorAnchorY="0" label="AttackStart"/>
+  <bitmap spriteName="PlayerEngineer_DroneLockDown" index="5" ssX="179" ssY="318" ssWidth="30" ssHeight="14" anchorX="15" anchorY="8" editorAnchorX="0" editorAnchorY="0" label="AttackStart"/>
+  <bitmap spriteName="PlayerEngineer_DroneAntiAir" index="5" ssX="210" ssY="318" ssWidth="17" ssHeight="14" anchorX="10" anchorY="7" editorAnchorX="0" editorAnchorY="0" label="AttackStart"/>
+  <bitmap spriteName="PlayerEngineer_DroneAntiAir" index="3" ssX="258" ssY="318" ssWidth="14" ssHeight="14" anchorX="9" anchorY="7" editorAnchorX="0" editorAnchorY="0" label="AttackStart"/>
+  <bitmap spriteName="PlayerEngineer_DroneAntiAir" index="6" ssX="228" ssY="318" ssWidth="14" ssHeight="14" anchorX="10" anchorY="7" editorAnchorX="0" editorAnchorY="0" label="AttackEnd"/>
+  <bitmap spriteName="PlayerMedic_BulletShot" index="2" ssX="243" ssY="318" ssWidth="14" ssHeight="14" anchorX="7" anchorY="7" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="PlayerEngineer_DroneAntiAir" index="1" ssX="258" ssY="318" ssWidth="14" ssHeight="14" anchorX="9" anchorY="7" editorAnchorX="0" editorAnchorY="0" label="StandStart"/>
+  <bitmap spriteName="PlayerEngineer_DroneAntiAir" index="2" ssX="273" ssY="318" ssWidth="14" ssHeight="14" anchorX="9" anchorY="7" editorAnchorX="0" editorAnchorY="0" label="StandEnd"/>
+  <bitmap spriteName="Engineer_Charge_Blue" index="10" ssX="288" ssY="318" ssWidth="13" ssHeight="13" anchorX="7" anchorY="7" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="Engineer_Charge_Red" index="10" ssX="302" ssY="318" ssWidth="13" ssHeight="13" anchorX="7" anchorY="7" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="Engineer_Charge_Yellow" index="10" ssX="316" ssY="318" ssWidth="13" ssHeight="13" anchorX="7" anchorY="7" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="PlayerEngineer_DroneMachineGun" index="5" ssX="330" ssY="318" ssWidth="16" ssHeight="12" anchorX="11" anchorY="6" editorAnchorX="0" editorAnchorY="0" label="AttackStart"/>
+  <bitmap spriteName="Engineer_Charge_Red" index="4" ssX="501" ssY="150" ssWidth="8" ssHeight="12" anchorX="1" anchorY="7" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="Engineer_Charge_Yellow" index="4" ssX="347" ssY="318" ssWidth="8" ssHeight="12" anchorX="1" anchorY="7" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="Engineer_Charge_Blue" index="4" ssX="356" ssY="318" ssWidth="8" ssHeight="12" anchorX="1" anchorY="7" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="PlayerEngineer_DroneMachineGun" index="4" ssX="365" ssY="313" ssWidth="20" ssHeight="11" anchorX="11" anchorY="6" editorAnchorX="0" editorAnchorY="0" label="AttackStart"/>
+  <bitmap spriteName="PlayerEngineer_DroneMachineGun" index="6" ssX="386" ssY="313" ssWidth="19" ssHeight="11" anchorX="11" anchorY="6" editorAnchorX="0" editorAnchorY="0" label="AttackEnd"/>
+  <bitmap spriteName="PlayerEngineer_DroneMachineGun" index="1" ssX="406" ssY="311" ssWidth="16" ssHeight="11" anchorX="11" anchorY="6" editorAnchorX="0" editorAnchorY="0" label="StandStart"/>
+  <bitmap spriteName="PlayerEngineer_DroneMachineGun" index="3" ssX="423" ssY="311" ssWidth="16" ssHeight="11" anchorX="11" anchorY="6" editorAnchorX="0" editorAnchorY="0" label="AttackStart"/>
+  <bitmap spriteName="PlayerEngineer_DroneMachineGun" index="2" ssX="440" ssY="311" ssWidth="16" ssHeight="11" anchorX="11" anchorY="6" editorAnchorX="0" editorAnchorY="0" label="StandEnd"/>
+  <bitmap spriteName="Engineer_Charge_Red" index="9" ssX="498" ssY="55" ssWidth="9" ssHeight="9" anchorX="5" anchorY="5" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="Engineer_Charge_Blue" index="9" ssX="498" ssY="55" ssWidth="9" ssHeight="9" anchorX="5" anchorY="5" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="Engineer_Charge_Yellow" index="9" ssX="498" ssY="55" ssWidth="9" ssHeight="9" anchorX="5" anchorY="5" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="SmallUI_EngineerBG_Sprite" index="1" ssX="457" ssY="311" ssWidth="43" ssHeight="8" anchorX="0" anchorY="-5" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="80" ssX="0" ssY="354" ssWidth="21" ssHeight="8" anchorX="10" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="CloseStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="23" ssX="0" ssY="354" ssWidth="21" ssHeight="8" anchorX="10" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="OpenStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="28" ssX="0" ssY="354" ssWidth="21" ssHeight="8" anchorX="10" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="OpenStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="26" ssX="0" ssY="354" ssWidth="21" ssHeight="8" anchorX="10" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="OpenStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="25" ssX="0" ssY="354" ssWidth="21" ssHeight="8" anchorX="10" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="OpenStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="27" ssX="0" ssY="354" ssWidth="21" ssHeight="8" anchorX="10" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="OpenStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="24" ssX="0" ssY="354" ssWidth="21" ssHeight="8" anchorX="10" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="OpenStart"/>
+  <bitmap spriteName="Engineer_Charge_Red" index="3" ssX="22" ssY="354" ssWidth="15" ssHeight="8" anchorX="8" anchorY="3" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="Engineer_Charge_Blue" index="3" ssX="39" ssY="352" ssWidth="15" ssHeight="8" anchorX="8" anchorY="3" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="Engineer_Charge_Yellow" index="3" ssX="55" ssY="352" ssWidth="15" ssHeight="8" anchorX="8" anchorY="3" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="81" ssX="71" ssY="346" ssWidth="13" ssHeight="8" anchorX="6" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="CloseStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="22" ssX="71" ssY="346" ssWidth="13" ssHeight="8" anchorX="6" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="OpenStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="12" ssX="97" ssY="346" ssWidth="11" ssHeight="8" anchorX="5" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="OpenStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="3" ssX="97" ssY="346" ssWidth="11" ssHeight="8" anchorX="5" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="OpenStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="20" ssX="85" ssY="346" ssWidth="11" ssHeight="8" anchorX="5" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="OpenStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="2" ssX="97" ssY="346" ssWidth="11" ssHeight="8" anchorX="5" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="BoxEnd"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="10" ssX="97" ssY="346" ssWidth="11" ssHeight="8" anchorX="5" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="OpenStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="9" ssX="97" ssY="346" ssWidth="11" ssHeight="8" anchorX="5" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="OpenStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="19" ssX="97" ssY="346" ssWidth="11" ssHeight="8" anchorX="5" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="OpenStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="5" ssX="97" ssY="346" ssWidth="11" ssHeight="8" anchorX="5" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="OpenStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="11" ssX="97" ssY="346" ssWidth="11" ssHeight="8" anchorX="5" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="OpenStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="83" ssX="85" ssY="346" ssWidth="11" ssHeight="8" anchorX="5" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="CloseStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="84" ssX="97" ssY="346" ssWidth="11" ssHeight="8" anchorX="5" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="CloseEnd"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="1" ssX="97" ssY="346" ssWidth="11" ssHeight="8" anchorX="5" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="BoxStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="18" ssX="97" ssY="346" ssWidth="11" ssHeight="8" anchorX="5" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="OpenStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="14" ssX="97" ssY="346" ssWidth="11" ssHeight="8" anchorX="5" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="OpenStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="4" ssX="97" ssY="346" ssWidth="11" ssHeight="8" anchorX="5" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="OpenStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="17" ssX="97" ssY="346" ssWidth="11" ssHeight="8" anchorX="5" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="OpenStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="8" ssX="97" ssY="346" ssWidth="11" ssHeight="8" anchorX="5" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="OpenStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="15" ssX="97" ssY="346" ssWidth="11" ssHeight="8" anchorX="5" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="OpenStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="7" ssX="97" ssY="346" ssWidth="11" ssHeight="8" anchorX="5" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="OpenStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="6" ssX="97" ssY="346" ssWidth="11" ssHeight="8" anchorX="5" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="OpenStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="16" ssX="97" ssY="346" ssWidth="11" ssHeight="8" anchorX="5" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="OpenStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="13" ssX="97" ssY="346" ssWidth="11" ssHeight="8" anchorX="5" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="OpenStart"/>
+  <bitmap spriteName="PlayerMedic_BulletShot" index="1" ssX="501" ssY="310" ssWidth="8" ssHeight="8" anchorX="4" anchorY="4" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="Engineer_Charge_Red" index="2" ssX="508" ssY="55" ssWidth="3" ssHeight="8" anchorX="8" anchorY="7" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="Engineer_Charge_Yellow" index="2" ssX="504" ssY="65" ssWidth="3" ssHeight="8" anchorX="8" anchorY="7" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="Engineer_Charge_Blue" index="2" ssX="508" ssY="64" ssWidth="3" ssHeight="8" anchorX="8" anchorY="7" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="Engineer_Charge_Blue" index="5" ssX="494" ssY="220" ssWidth="11" ssHeight="7" anchorX="5" anchorY="6" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="Engineer_Charge_Red" index="5" ssX="179" ssY="333" ssWidth="11" ssHeight="7" anchorX="5" anchorY="6" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="Engineer_Charge_Yellow" index="5" ssX="191" ssY="333" ssWidth="11" ssHeight="7" anchorX="5" anchorY="6" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="21" ssX="203" ssY="333" ssWidth="9" ssHeight="7" anchorX="4" anchorY="-1" editorAnchorX="0" editorAnchorY="0" label="OpenStart"/>
+  <bitmap spriteName="PlayerEngineer_Panel" index="82" ssX="203" ssY="333" ssWidth="9" ssHeight="7" anchorX="4" anchorY="-1" editorAnchorX="0" editorAnchorY="0" label="CloseStart"/>
+  <bitmap spriteName="PlayerMedic_Medkit" index="2" ssX="365" ssY="325" ssWidth="10" ssHeight="6" anchorX="5" anchorY="3" editorAnchorX="0" editorAnchorY="0" label="MedkitThrownStart"/>
+  <bitmap spriteName="PlayerMedic_Medkit" index="4" ssX="376" ssY="325" ssWidth="10" ssHeight="6" anchorX="5" anchorY="3" editorAnchorX="0" editorAnchorY="0" label="MedkitThrownStart"/>
+  <bitmap spriteName="PlayerMedic_Medkit" index="8" ssX="387" ssY="325" ssWidth="10" ssHeight="6" anchorX="5" anchorY="3" editorAnchorX="0" editorAnchorY="0" label="MedkitThrownEnd"/>
+  <bitmap spriteName="PlayerMedic_Medkit" index="6" ssX="398" ssY="325" ssWidth="10" ssHeight="6" anchorX="5" anchorY="3" editorAnchorX="0" editorAnchorY="0" label="MedkitThrownStart"/>
+  <bitmap spriteName="PlayerMedic_Medkit" index="5" ssX="409" ssY="323" ssWidth="8" ssHeight="6" anchorX="4" anchorY="3" editorAnchorX="0" editorAnchorY="0" label="MedkitThrownStart"/>
+  <bitmap spriteName="PlayerMedic_Medkit" index="9" ssX="418" ssY="323" ssWidth="8" ssHeight="6" anchorX="4" anchorY="3" editorAnchorX="0" editorAnchorY="0" label="MedkitIdleStart"/>
+  <bitmap spriteName="PlayerMedic_Medkit" index="1" ssX="418" ssY="323" ssWidth="8" ssHeight="6" anchorX="4" anchorY="3" editorAnchorX="0" editorAnchorY="0" label="MedkitThrownStart"/>
+  <bitmap spriteName="PlayerMedic_Medkit" index="10" ssX="418" ssY="323" ssWidth="8" ssHeight="6" anchorX="4" anchorY="3" editorAnchorX="0" editorAnchorY="0" label="MedkitIdleEnd"/>
+  <bitmap spriteName="Engineer_Charge_Red" index="6" ssX="504" ssY="74" ssWidth="5" ssHeight="6" anchorX="3" anchorY="4" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="Engineer_Charge_Yellow" index="6" ssX="504" ssY="81" ssWidth="5" ssHeight="6" anchorX="3" anchorY="4" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="SmallUI_EngineerBullet_Sprite" index="1" ssX="504" ssY="88" ssWidth="5" ssHeight="6" anchorX="0" anchorY="0" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="Engineer_Charge_Blue" index="6" ssX="506" ssY="95" ssWidth="5" ssHeight="6" anchorX="3" anchorY="4" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="SmallUI_EngineerHPBar_Sprite" index="1" ssX="427" ssY="323" ssWidth="29" ssHeight="5" anchorX="0" anchorY="0" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="SmallUI_EngineerHPBarEndCap_Sprite" index="1" ssX="506" ssY="102" ssWidth="5" ssHeight="5" anchorX="0" anchorY="0" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="PlayerMedic_Medkit" index="3" ssX="457" ssY="320" ssWidth="10" ssHeight="4" anchorX="5" anchorY="2" editorAnchorX="0" editorAnchorY="0" label="MedkitThrownStart"/>
+  <bitmap spriteName="PlayerMedic_Medkit" index="7" ssX="468" ssY="320" ssWidth="10" ssHeight="4" anchorX="5" anchorY="2" editorAnchorX="0" editorAnchorY="0" label="MedkitThrownStart"/>
+  <bitmap spriteName="Engineer_Charge_Yellow" index="7" ssX="506" ssY="108" ssWidth="3" ssHeight="3" anchorX="2" anchorY="2" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="Engineer_Charge_Blue" index="7" ssX="506" ssY="112" ssWidth="3" ssHeight="3" anchorX="2" anchorY="2" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="Engineer_Charge_Red" index="7" ssX="506" ssY="116" ssWidth="3" ssHeight="3" anchorX="2" anchorY="2" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="PlayerEngineer_BulletShell" index="1" ssX="506" ssY="120" ssWidth="4" ssHeight="2" anchorX="2" anchorY="1" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="Engineer_Charge_Blue" index="1" ssX="0" ssY="363" ssWidth="2" ssHeight="2" anchorX="6" anchorY="7" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="Engineer_Charge_Red" index="1" ssX="0" ssY="366" ssWidth="2" ssHeight="2" anchorX="6" anchorY="7" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="Engineer_Charge_Yellow" index="1" ssX="0" ssY="369" ssWidth="2" ssHeight="2" anchorX="6" anchorY="7" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="Engineer_Charge_Blue" index="8" ssX="510" ssY="73" ssWidth="1" ssHeight="1" anchorX="1" anchorY="1" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="Engineer_Charge_Yellow" index="8" ssX="510" ssY="75" ssWidth="1" ssHeight="1" anchorX="1" anchorY="1" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <bitmap spriteName="Engineer_Charge_Red" index="8" ssX="510" ssY="77" ssWidth="1" ssHeight="1" anchorX="1" anchorY="1" editorAnchorX="0" editorAnchorY="0" label=""/>
+  <hitbox spriteName="PlayerEngineer_BulletShell" index="1" x="-2" y="-1" width="4" height="2" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_BulletShell" index="1" x="-2" y="-1" width="4" height="2" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerMedic_Medkit" index="1" x="-4" y="-3" width="8" height="6" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMedic_Medkit" index="1" x="-4" y="-3" width="8" height="6" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerMedic_Medkit" index="2" x="-4" y="-3" width="8" height="6" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMedic_Medkit" index="2" x="-4" y="-3" width="8" height="6" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerMedic_Medkit" index="3" x="-4" y="-3" width="8" height="6" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMedic_Medkit" index="3" x="-4" y="-3" width="8" height="6" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerMedic_Medkit" index="4" x="-4" y="-3" width="8" height="6" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMedic_Medkit" index="4" x="-4" y="-3" width="8" height="6" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerMedic_Medkit" index="5" x="-4" y="-3" width="8" height="6" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMedic_Medkit" index="5" x="-4" y="-3" width="8" height="6" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerMedic_Medkit" index="6" x="-4" y="-3" width="8" height="6" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMedic_Medkit" index="6" x="-4" y="-3" width="8" height="6" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerMedic_Medkit" index="7" x="-4" y="-3" width="8" height="6" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMedic_Medkit" index="7" x="-4" y="-3" width="8" height="6" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerMedic_Medkit" index="8" x="-4" y="-3" width="8" height="6" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMedic_Medkit" index="8" x="-4" y="-3" width="8" height="6" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerMedic_Medkit" index="9" x="-4" y="-3" width="8" height="6" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMedic_Medkit" index="9" x="-4" y="-3" width="8" height="6" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerMedic_Medkit" index="10" x="-4" y="-3" width="8" height="6" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerMedic_Medkit" index="10" x="-4" y="-3" width="8" height="6" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerEngineer_Drone" index="1" x="-7.5" y="-2.1" width="14" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Drone" index="2" x="-7.5" y="-2.1" width="14" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Drone" index="3" x="-7.5" y="-2.1" width="14" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Drone" index="4" x="-7.5" y="-2.1" width="14" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Drone" index="5" x="-7.5" y="-2.1" width="14" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Drone" index="6" x="-7.5" y="-2.1" width="14" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="1" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="2" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="3" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="4" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="5" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="6" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="7" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="8" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="9" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="10" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="11" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="12" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="13" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="14" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="15" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="16" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="17" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="18" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="19" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="20" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="21" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="22" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="23" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="24" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="25" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="26" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="27" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="28" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="29" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="30" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="31" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="32" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="33" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="34" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="35" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="36" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="37" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="38" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="39" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="40" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="41" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="42" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="43" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="44" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="45" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="46" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="47" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="48" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="49" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="50" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="51" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="52" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="53" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="54" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="55" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="56" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="57" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="58" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="59" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="60" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="61" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="62" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="63" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="64" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="65" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="66" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="67" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="68" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="69" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="70" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="71" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="72" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="73" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="74" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="75" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="76" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="77" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="78" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="79" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="80" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="81" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="82" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="83" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Panel" index="84" x="-5.25" y="0.15" width="11" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_DroneAntiAir" index="1" x="-7.5" y="-2.1" width="14" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_DroneAntiAir" index="2" x="-7.5" y="-2.1" width="14" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_DroneAntiAir" index="3" x="-7.5" y="-2.1" width="14" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_DroneAntiAir" index="4" x="-7.5" y="-2.1" width="14" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_DroneAntiAir" index="5" x="-7.5" y="-2.1" width="14" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_DroneAntiAir" index="6" x="-7.5" y="-2.1" width="14" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_DroneLockDown" index="1" x="-7.5" y="-2.1" width="14" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_DroneLockDown" index="2" x="-7.5" y="-2.1" width="14" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_DroneLockDown" index="3" x="-7.5" y="-2.1" width="14" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_DroneLockDown" index="4" x="-7.5" y="-2.1" width="14" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_DroneLockDown" index="5" x="-7.5" y="-2.1" width="14" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_DroneLockDown" index="6" x="-7.5" y="-2.1" width="14" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_DroneMachineGun" index="1" x="-7.5" y="-2.1" width="14" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_DroneMachineGun" index="2" x="-7.5" y="-2.1" width="14" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_DroneMachineGun" index="3" x="-7.5" y="-2.1" width="14" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_DroneMachineGun" index="4" x="-7.5" y="-2.1" width="14" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_DroneMachineGun" index="5" x="-7.5" y="-2.1" width="14" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_DroneMachineGun" index="6" x="-7.5" y="-2.1" width="14" height="8" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="1" x="16" y="24" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="1" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="2" x="16" y="24" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="2" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="3" x="16" y="24" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="3" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="4" x="16" y="24" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="4" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="5" x="16" y="24" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="5" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="6" x="16" y="24" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="6" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="7" x="16" y="24" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="7" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="8" x="16" y="24" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="8" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="9" x="16" y="24" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="9" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="10" x="16" y="24" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="10" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="11" x="16" y="24" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="11" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="12" x="16" y="24" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="12" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="13" x="16" y="24" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="13" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="14" x="16" y="24" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="14" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="15" x="16" y="24" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="15" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="16" x="16" y="24" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="16" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="17" x="16" y="24" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="17" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="18" x="16" y="24" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="18" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="19" x="16" y="24" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="19" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="20" x="16" y="24" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="20" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="21" x="16" y="24" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="21" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="22" x="16" y="24" width="17" height="15" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="22" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="23" x="12" y="20.5" width="27" height="26" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="23" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="24" x="12" y="20.5" width="27" height="26" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="24" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="25" x="12" y="20.5" width="27" height="26" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="25" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="26" x="12" y="20.5" width="27" height="26" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="26" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="27" x="12" y="20.5" width="27" height="26" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="27" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="28" x="12" y="20.5" width="27" height="26" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="28" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="29" x="12" y="20.5" width="27" height="26" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="29" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="30" x="12" y="20.5" width="27" height="26" rotation="0" type="2"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="30" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="31" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="31" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="32" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="32" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="33" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="33" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="34" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="35" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="36" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="37" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="38" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="39" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="40" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="41" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="42" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="43" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="44" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="45" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="45" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="46" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="46" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="47" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="47" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="48" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="48" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="49" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="49" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="50" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="50" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="51" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="51" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="52" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="52" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="53" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="53" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="54" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="54" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="55" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="55" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="56" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="56" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="57" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="57" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="58" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="58" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="59" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="59" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="60" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="60" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="61" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="61" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="62" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="62" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="63" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="63" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="64" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="64" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="65" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="65" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="66" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="66" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="67" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="67" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="68" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="68" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="69" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="69" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="70" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="70" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="71" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="71" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="72" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="72" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="73" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="73" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="74" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="74" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="75" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="75" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="76" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="76" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="77" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="77" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="78" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="78" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="79" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="79" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="80" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="80" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="81" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="81" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="82" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="82" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="83" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="83" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="84" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="84" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="85" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="85" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="86" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="86" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="87" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="87" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="88" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="88" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="89" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="89" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="90" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="90" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="91" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="91" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="92" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="92" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="93" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="93" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="94" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="94" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="95" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="95" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="96" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="96" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="97" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="97" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="98" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="98" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="99" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="99" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="100" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="100" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="101" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="101" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="102" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="102" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="103" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="103" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="104" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="104" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="105" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="105" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="106" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="106" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="107" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="107" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="108" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="108" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="109" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="109" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="110" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="110" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="111" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="111" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="112" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="112" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="113" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="113" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="114" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="114" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="115" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="115" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="116" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="116" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="117" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="117" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="118" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="118" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="119" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="119" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="120" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="120" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="121" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="121" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="122" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="122" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="123" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="123" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="124" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="124" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="125" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="125" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="126" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="126" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="127" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="127" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="128" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="128" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="129" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="129" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="130" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="130" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="131" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="131" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="132" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="132" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="133" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="133" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="134" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="134" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="135" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="135" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="136" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="136" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="137" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="137" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="138" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="138" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="139" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="139" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="140" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="140" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="141" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="141" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="142" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="142" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="143" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="143" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="144" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="144" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="145" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="145" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="146" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="146" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="147" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="147" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="148" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="148" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="149" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="149" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="150" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="150" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="151" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="151" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="152" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="152" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="153" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="153" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="154" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="154" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="155" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="155" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="156" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="156" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="157" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="157" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="158" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="158" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="159" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="159" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="160" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="160" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="161" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="161" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="162" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="162" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="163" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="163" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="164" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="164" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="165" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="165" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="166" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="166" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="167" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="167" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="168" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="168" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="169" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="169" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="170" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="170" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="171" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="171" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="172" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="172" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="173" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="173" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="174" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="174" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="175" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="175" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="176" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="176" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="177" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="177" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="178" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="178" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="179" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="179" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="180" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="180" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="181" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="181" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="182" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="182" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="183" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="183" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="184" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="184" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="185" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="185" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="186" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="186" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="187" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="187" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="188" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="188" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="189" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="189" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="190" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="190" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="191" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="191" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="192" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="192" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="193" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="193" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="194" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="194" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="195" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="195" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="196" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="196" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="197" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="197" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="198" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="198" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="199" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="199" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="200" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="200" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="201" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="201" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="202" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="202" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="203" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="203" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="204" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="204" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="205" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="205" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="206" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="206" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="207" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="207" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="208" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="208" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="209" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="209" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="210" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="210" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="211" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="211" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="212" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="212" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="213" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="213" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="214" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="214" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="215" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="215" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="216" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="216" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="217" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="217" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="218" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="218" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="219" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="219" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="220" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="220" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="221" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="221" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="222" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="222" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="223" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="223" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="224" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="224" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="225" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="225" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="226" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="226" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="227" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="227" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="228" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="228" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="229" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="229" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="230" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="230" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="231" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="231" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="232" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="232" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="233" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="233" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="234" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="234" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="235" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="235" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="236" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="236" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="237" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="237" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="238" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="238" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="239" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="239" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="240" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="240" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="241" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="241" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="242" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="242" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="243" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="243" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="244" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="244" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="245" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="245" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="246" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="246" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="247" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="247" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="248" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="248" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="249" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="249" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="250" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="250" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="251" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="251" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="252" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="252" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="253" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="253" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="254" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="254" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="255" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="255" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="256" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="256" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="257" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="257" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="258" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="258" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="259" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="259" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="260" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="260" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="261" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="261" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="262" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="262" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="263" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="263" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="264" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="264" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="265" x="16" y="21" width="17" height="19" rotation="0" type="3"/>
+  <hitbox spriteName="PlayerEngineer_Sprite" index="265" x="16" y="39" width="16" height="5" rotation="0" type="1"/>
+  <container containerName="PlayerEngineer_Character" spriteName="PlayerEngineer_Sprite" x="-23.9" y="-29.15" scaleX="1" scaleY="1" rotation="0" flipped="false" editorAnchorX="0" editorAnchorY="0"/>
+  <container containerName="LargeUI_Engineer_Container" spriteName="LargeUI_EngineerAvatar_Sprite" x="-74" y="-38.5" scaleX="1" scaleY="1" rotation="0" flipped="false" editorAnchorX="0" editorAnchorY="0"/>
+  <container containerName="LargeUI_Engineer_Container" spriteName="LargeUI_EngineerBG_Sprite" x="-70.25" y="-7" scaleX="1" scaleY="1" rotation="0" flipped="false" editorAnchorX="0" editorAnchorY="0"/>
+  <container containerName="LargeUI_Engineer_Container" spriteName="LargeUI_EngineerHPBar_Sprite" x="-67.35" y="10.8" scaleX="1" scaleY="1" rotation="0" flipped="false" editorAnchorX="0" editorAnchorY="0"/>
+  <container containerName="LargeUI_Engineer_Container" spriteName="LargeUI_EngineerBGOutline_Sprite" x="-70.25" y="-7" scaleX="1" scaleY="1" rotation="0" flipped="false" editorAnchorX="0" editorAnchorY="0"/>
+  <container containerName="SmallUI_Engineer_Container" spriteName="SmallUI_EngineerBG_Sprite" x="-16.35" y="-6.075" scaleX="1" scaleY="1" rotation="0" flipped="false" editorAnchorX="0" editorAnchorY="0"/>
+  <container containerName="SmallUI_Engineer_Container" spriteName="SmallUI_EngineerHPBar_Sprite" x="-10.35" y="0.375" scaleX="1" scaleY="1" rotation="0" flipped="false" editorAnchorX="0" editorAnchorY="0"/>
+  <container containerName="SmallUI_Engineer_Container" spriteName="SmallUI_EngineerHPBarEndCap_Sprite" x="18.625" y="0.375" scaleX="1" scaleY="1" rotation="0" flipped="false" editorAnchorX="0" editorAnchorY="0"/>
+  <container containerName="SmallUI_Engineer_Container" spriteName="SmallUI_EngineerIcon_Sprite" x="-17.75" y="0" scaleX="1" scaleY="1" rotation="0" flipped="false" editorAnchorX="0" editorAnchorY="0"/>
+</xml>

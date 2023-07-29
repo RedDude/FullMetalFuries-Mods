@@ -1,0 +1,9 @@
+{
+    "Name": "Quick Start",
+    "Author": "FMODF",
+    "Version": "1.0",
+    "Description": "Skip the splashscreens to make the game load faster",
+    "UniqueID": "FMFAPI.QuickStart",
+    "EntryDll": "QuickStart.dll",
+    "MinimumApiVersion": "3.12.6"
+}

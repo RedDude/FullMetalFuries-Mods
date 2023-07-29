@@ -1,0 +1,14 @@
+<Window
+	x:Class="BrawlerEditor.CodeDialog" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:my="clr-namespace:BrawlerEditor"
+	Height="900"
+	Width="1200"
+	Title="Script Window"
+	ResizeMode="CanResize">
+	<my:CodeScrollViewer
+		Name="codeScrollViewer">
+		<RichTextBox
+			Name="codeTextBlock"
+			Background="#FFFFFFFF"
+			IsEnabled="False" />
+	</my:CodeScrollViewer>
+</Window>

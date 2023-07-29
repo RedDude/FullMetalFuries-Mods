@@ -1,0 +1,9 @@
+{
+    "Name": "DevTools",
+    "Author": "SMAPI",
+    "Version": "1.0",
+    "Description": "A Cheat menu with many features to help dev and cheaters",
+    "UniqueID": "FMFAPI.DevTools",
+    "EntryDll": "DevTools.dll",
+    "MinimumApiVersion": "3.12.6"
+}

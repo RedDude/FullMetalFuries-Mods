@@ -1,0 +1,9 @@
+{
+    "Name": "No Shields",
+    "Author": "FMODF",
+    "Version": "0.1.0",
+    "Description": "Remove class specific shields",
+    "UniqueID": "FMODF.FriendlyFire",
+    "EntryDll": "FriendlyFire.dll",
+    "MinimumApiVersion": "3.12.6"
+}

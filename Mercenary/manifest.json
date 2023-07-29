@@ -1,0 +1,9 @@
+{
+    "Name": "Mercenary",
+    "Author": "FMODF",
+    "Version": "3.12.6",
+    "Description": "Makes the Shopkeeper playable",
+    "UniqueID": "FMODF.MercenaryClass",
+    "EntryDll": "MercenaryClass.dll",
+    "MinimumApiVersion": "3.12.6"
+}

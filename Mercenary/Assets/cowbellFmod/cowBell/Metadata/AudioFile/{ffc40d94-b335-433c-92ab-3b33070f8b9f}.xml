@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{ffc40d94-b335-433c-92ab-3b33070f8b9f}">
+        <property name="assetPath">
+            <value>VSG cowbell 59.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>0.82222222222222219</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{4c103384-61c8-4ae4-b67c-30a6a1d73d4c}</destination>
+        </relationship>
+    </object>
+</objects>

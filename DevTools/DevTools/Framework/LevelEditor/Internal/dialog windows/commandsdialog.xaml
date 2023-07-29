@@ -1,0 +1,160 @@
+<Window
+	x:Class="BrawlerEditor.CommandsDialog" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	Height="900"
+	Width="1200"
+	Title="Editor Script Commands"
+	ResizeMode="CanMinimize"
+	WindowStartupLocation="CenterScreen"
+	Topmost="True" xmlns:brawlereditor="clr-namespace:BrawlerEditor">
+	<Grid>
+		<StackPanel
+			Grid.Column="0"
+			Grid.Row="0">
+			<Label
+				VerticalAlignment="Center"
+				HorizontalAlignment="Left">
+				<TextBlock
+					TextWrapping="Wrap"
+					Margin="15,15,15,15"
+					Width="{Binding ActualWidth}">
+					<Run
+						FontWeight="Bold"
+						Text="SetEnemyLevel(int enemyLevel);" />
+					<LineBreak />
+					<Run
+						Text="Sets the enemy level. Calling this script at later times will change every subsequent enemy spawned after this line." />
+					<Run
+						Text="  Script must be added to an arena." />
+					<LineBreak />
+					<Run />
+					<LineBreak />
+					<Run
+						FontWeight="Bold"
+						Text="SpawnEnemy(string enemyName, string waypointName);" />
+					<LineBreak />
+					<Run
+						Text="Spawns an enemy at a marker location.  The marker must exist and have the same name as the script.  The enemy name must be the class name of the enemy." />
+					<Run
+						Text="  Script must be added to an arena." />
+					<LineBreak />
+					<Run />
+					<LineBreak />
+					<Run
+						FontWeight="Bold"
+						Text="SpawnEnemy(string enemyName, string waypointName, string enemyReference);" />
+					<LineBreak />
+					<Run
+						Text="Same as previous SpawnEnemy, except the enemyReference string is used to store a reference to the enemy, in case you want call the enemy out specifically in later lines in the script.  Script must be added to an arena." />
+					<LineBreak />
+					<Run />
+					<LineBreak />
+					<Run
+						FontWeight="Bold"
+						Text="KillAllEnemies(bool overrideDeathAnim);" />
+					<LineBreak />
+					<Run
+						Text="Kills all the enemies currently active on the screen.  Setting the overrideDeathAnim bool to true will make them disappear, while false will make them all play their death animations first.  Script must be added to an arena." />
+					<LineBreak />
+					<Run />
+					<LineBreak />
+					<Run
+						FontWeight="Bold"
+						Text="SetRandomInt(int minInt, int maxInt, string intReference);" />
+					<LineBreak />
+					<Run
+						Text="Creates a random int based on the min/max values set, and stores it as a string reference to be called later.  Script must be added to an arena." />
+					<LineBreak />
+					<Run />
+					<LineBreak />
+					<Run
+						FontWeight="Bold"
+						Text="SetRandomFloat(float minFloat, float maxFloat, string floatReference);" />
+					<LineBreak />
+					<Run
+						Text="Same thing as SetRandomInt except for floats.  Script must be added to an arena." />
+					<LineBreak />
+					<Run />
+					<LineBreak />
+					<Run
+						FontWeight="Bold"
+						Text="RunFunction(string functionName);" />
+					<LineBreak />
+					<Run
+						Text="Runs a function with the same name as the functionName parameter.  A few caveats are that the function must be defined in the class file of the arena screen in the game, it must be public, and it cannot accept any arguments.  Script must be added to an arena." />
+					<LineBreak />
+					<Run />
+					<LineBreak />
+					<Run
+						FontWeight="Bold"
+						Text="Wait(float duration);" />
+					<LineBreak />
+					<Run
+						Text="Delays executing the next line of the script for the duration specified.  Script must be added to an arena." />
+					<LineBreak />
+					<Run />
+					<LineBreak />
+					<Run
+						FontWeight="Bold"
+						Text="WrapTexture(string spriteName);" />
+					<LineBreak />
+					<Run
+						Text="Wraps a repeating texture with the sprite name specified.  Script must be added to a collision hull." />
+					<LineBreak />
+					<Run />
+					<LineBreak />
+					<Run
+						FontWeight="Bold"
+						Text="Anchor(string anchorReference);" />
+					<LineBreak />
+					<Run
+						Text="Creates a reference to this line in the script.  Script must be added to an arena." />
+					<LineBreak />
+					<Run />
+					<LineBreak />
+					<Run
+						FontWeight="Bold"
+						Text="GoToAnchor(string anchorReference);" />
+					<LineBreak />
+					<Run
+						Text="Goes to the specified line in the code that was stored earlier via Anchor(string).  Script must be added to an arena." />
+					<LineBreak />
+					<Run />
+					<LineBreak />
+					<Run
+						FontWeight="Bold"
+						Text="StartKillCount();" />
+					<LineBreak />
+					<Run
+						Text="Begins a counter that keeps track of all enemies killed after this line in the script is executed.  Calling this method sets the kill counter to 0.  Script must be added to an arena." />
+					<LineBreak />
+					<Run />
+					<LineBreak />
+					<Run
+						FontWeight="Bold"
+						Text="CheckKillCountReached(int numKilled);" />
+					<LineBreak />
+					<Run
+						Text="Hangs on this script line until the specified kill count is reached.  StartKillCount() must be called first.  Note that there is NO error checking, so if not enough enemies exist to reach this check, it will never progress.  Script must be added to an arena." />
+					<LineBreak />
+					<Run />
+					<LineBreak />
+					<Run
+						FontWeight="Bold"
+						Text="Trace(string traceString);" />
+					<LineBreak />
+					<Run
+						Text="Outputs the value of traceString to the debug output window (assuming you are running the game in debug) the moment it reaches this line.  Script must be added to an arena." />
+					<LineBreak />
+				</TextBlock>
+			</Label>
+		</StackPanel>
+		<Button
+			Content="OK"
+			Width="40"
+			Height="25"
+			HorizontalAlignment="Center"
+			VerticalAlignment="Bottom"
+			Margin="0,0,0,5"
+			Click="Button_Click" />
+	</Grid>
+</Window>

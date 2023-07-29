@@ -1,0 +1,9 @@
+{
+    "Name": "Add support for ImGUI",
+    "Author": "SMAPI",
+    "Version": "1.0",
+    "Description": "ImGUI to control the game",
+    "UniqueID": "FMODF.ImGui",
+    "EntryDll": "ImGuiMod.dll",
+    "MinimumApiVersion": "3.12.6"
+}

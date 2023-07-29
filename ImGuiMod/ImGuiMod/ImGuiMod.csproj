@@ -1,0 +1,48 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net452</TargetFramework>
+        <LangVersion>latest</LangVersion>
+    </PropertyGroup>
+
+    <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+      <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    </PropertyGroup>
+
+    <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+      <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Reference Include="Brawler2D, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Full Metal Furies\Brawler2D.exe</HintPath>
+      </Reference>
+      <Reference Include="CDGCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Full Metal Furies\CDGCore.dll</HintPath>
+      </Reference>
+      <Reference Include="CDGEngine, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Full Metal Furies\CDGEngine.dll</HintPath>
+      </Reference>
+      <Reference Include="FNA, Version=19.6.0.0, Culture=neutral, PublicKeyToken=null">
+        <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Full Metal Furies\FNA.dll</HintPath>
+      </Reference>
+      <Reference Include="ImGuiCS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <HintPath>ImGuiCS.dll</HintPath>
+      </Reference>
+      <Reference Include="InputSystem2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Full Metal Furies\InputSystem2.dll</HintPath>
+      </Reference>
+      <Reference Include="SpriteSystem2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Full Metal Furies\SpriteSystem2.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Remove="Class1.cs" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="RedDude.FullMetalFuries.ModBuildConfig" Version="2.0.1" />
+    </ItemGroup>
+
+</Project>

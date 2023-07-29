@@ -1,0 +1,45 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>FriendlyFire</AssemblyName>
+    <RootNamespace>FullModdedFuriesAPI.Mods.FriendlyFire</RootNamespace>
+    <TargetFramework>net452</TargetFramework>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <EnableHarmony>true</EnableHarmony>
+  </PropertyGroup>
+  <!-- <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup> -->
+
+  <Import Project="..\..\build\common.targets" />
+
+  <ItemGroup>
+    <Reference Include="$(GameExecutableName)" HintPath="$(GamePath)\$(GameExecutableName).exe" Private="False" />
+    <Reference Include="0Harmony" HintPath="$(GamePath)\fmodf-internal\0Harmony.dll">
+      <HintPath>..\..\build\0Harmony.dll</HintPath>
+    </Reference>
+    <Reference Include="CDGEngine" HintPath="$(GamePath)\CDGEngine.dll" />
+    <Reference Include="BlitNet" HintPath="$(GamePath)\BlitNet.dll" />
+    <Reference Include="InputSystem2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Full Metal Furies\InputSystem2.dll</HintPath>
+    </Reference>
+    <Reference Include="SpriteSystem2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Full Metal Furies\SpriteSystem2.dll</HintPath>
+    </Reference>
+    <Reference Include="Tweener2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Full Metal Furies\Tweener2.dll</HintPath>
+    </Reference>
+
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="manifest.json" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="RedDude.FullMetalFuries.ModBuildConfig" Version="2.0.1" />
+  </ItemGroup>
+
+</Project>

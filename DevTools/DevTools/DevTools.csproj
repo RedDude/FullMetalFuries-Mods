@@ -1,0 +1,46 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net452</TargetFramework>
+      <EnableHarmony>true</EnableHarmony>
+      <RootNamespace>QuickStart</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Reference Include="BlitNet, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Full Metal Furies\BlitNet.dll</HintPath>
+      </Reference>
+      <Reference Include="CDGEngine, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Full Metal Furies\CDGEngine.dll</HintPath>
+      </Reference>
+      <Reference Include="FullModdedFuriesAPI, Version=3.12.6.0, Culture=neutral, PublicKeyToken=null">
+        <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Full Metal Furies\FullModdedFuriesAPI.exe</HintPath>
+      </Reference>
+      <Reference Include="ImGuiCS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <HintPath>..\..\ImGuiMod\ImGuiMod\ImGuiCS.dll</HintPath>
+      </Reference>
+      <Reference Include="InputSystem2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Full Metal Furies\InputSystem2.dll</HintPath>
+      </Reference>
+      <Reference Include="SpriteSystem2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Full Metal Furies\SpriteSystem2.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="RedDude.FullMetalFuries.ModBuildConfig" Version="2.0.1" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Remove="Framework\LevelEditor\Internal\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Remove="Framework\LevelEditor\Internal\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="Framework\LevelEditor\Internal\**" />
+    </ItemGroup>
+
+</Project>

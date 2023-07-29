@@ -1,0 +1,22 @@
+{
+    "class.name": "Mercenary",
+    "mercenary.class.name": "Mercenary",
+    "titan.class.name": "Titan",
+    "menu.description": "Remove enemies color shields",
+
+    "equipment.dummy.tris.title": "Bossy Dummy",
+    "equipment.dummy.tris.description": "Pretty beat up already, but can stand a few more.",
+    "equipment.dummy.tris.details": "\n*<255,255,0>Tris</> is now <255,255,0>Dummy</> or the other way around",
+
+    "equipment.dummy.erin.title": "Nerd Dummy",
+    "equipment.dummy.erin.description": "Oh Gods, somebody PLEASE shoot it.",
+    "equipment.dummy.erin.details": "\n*<255,255,0>Dummy</> is <255,255,0>NOT</> dummy anymore, like <255,255,0>Erin</>",
+
+    "equipment.dummy.alex.title": "ADHD Dummy",
+    "equipment.dummy.alex.description": "Such a Dummy Dummy S2. It will hit you hard, tho.",
+    "equipment.dummy.alex.details": "\n*<255,255,0>Dummy</> now can hurt you if it wants to, like <255,255,0>Alex</>",
+
+    "equipment.dummy.meg.title": "Melon Head Dummy",
+    "equipment.dummy.meg.description": "Carefully, pretty explosive even looking this dummy.",
+    "equipment.dummy.meg.details": "\n*<255,255,0>Dummy</> is <255,255,0>EVEN MORE</> dummy, like <255,255,0>Meg</>"
+}

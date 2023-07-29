@@ -1,0 +1,214 @@
+<xml>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="37" ssX="0" ssY="0" ssWidth="57" ssHeight="52" anchorX="-12" anchorY="-4" editorAnchorX="0" editorAnchorY="0" label="Attack1ActionStart"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="38" ssX="58" ssY="0" ssWidth="51" ssHeight="41" anchorX="-18" anchorY="-15" editorAnchorX="0" editorAnchorY="0" label="Attack1ActionStart"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="46" ssX="110" ssY="0" ssWidth="69" ssHeight="36" anchorX="0" anchorY="-20" editorAnchorX="0" editorAnchorY="0" label="Attack2ActionStart"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="58" ssX="180" ssY="0" ssWidth="56" ssHeight="35" anchorX="-9" anchorY="-21" editorAnchorX="0" editorAnchorY="0" label="Attack3ActionStart"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="57" ssX="237" ssY="0" ssWidth="55" ssHeight="35" anchorX="-9" anchorY="-21" editorAnchorX="0" editorAnchorY="0" label="Attack3ActionStart"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="56" ssX="293" ssY="0" ssWidth="45" ssHeight="35" anchorX="-10" anchorY="-21" editorAnchorX="0" editorAnchorY="0" label="Attack3TellEnd"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="59" ssX="293" ssY="0" ssWidth="45" ssHeight="35" anchorX="-10" anchorY="-21" editorAnchorX="0" editorAnchorY="0" label="Attack3ActionEnd"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="55" ssX="339" ssY="0" ssWidth="47" ssHeight="34" anchorX="-9" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="Attack3TellStart"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="60" ssX="339" ssY="0" ssWidth="47" ssHeight="34" anchorX="-9" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="Attack3ExitStart"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="43" ssX="387" ssY="0" ssWidth="28" ssHeight="34" anchorX="-15" anchorY="-22" editorAnchorX="0" editorAnchorY="0" label="Attack2TellStart"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="51" ssX="416" ssY="0" ssWidth="33" ssHeight="33" anchorX="-9" anchorY="-23" editorAnchorX="0" editorAnchorY="0" label="Attack3TellStart"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="50" ssX="450" ssY="0" ssWidth="33" ssHeight="33" anchorX="-12" anchorY="-23" editorAnchorX="0" editorAnchorY="0" label="Attack2ExitEnd"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="32" ssX="0" ssY="53" ssWidth="33" ssHeight="33" anchorX="-10" anchorY="-23" editorAnchorX="0" editorAnchorY="0" label="Attack1TellStart"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="63" ssX="416" ssY="0" ssWidth="33" ssHeight="33" anchorX="-9" anchorY="-23" editorAnchorX="0" editorAnchorY="0" label="Attack3ExitEnd"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="49" ssX="34" ssY="53" ssWidth="33" ssHeight="33" anchorX="-14" anchorY="-23" editorAnchorX="0" editorAnchorY="0" label="Attack2ExitStart"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="44" ssX="68" ssY="42" ssWidth="30" ssHeight="33" anchorX="-14" anchorY="-23" editorAnchorX="0" editorAnchorY="0" label="Attack2TellEnd"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="47" ssX="110" ssY="37" ssWidth="46" ssHeight="32" anchorX="0" anchorY="-23" editorAnchorX="0" editorAnchorY="0" label="Attack2ActionStart"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="48" ssX="157" ssY="37" ssWidth="46" ssHeight="32" anchorX="0" anchorY="-23" editorAnchorX="0" editorAnchorY="0" label="Attack2ActionEnd"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="33" ssX="204" ssY="36" ssWidth="34" ssHeight="32" anchorX="-11" anchorY="-24" editorAnchorX="0" editorAnchorY="0" label="Attack1TellStart"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="52" ssX="239" ssY="36" ssWidth="33" ssHeight="32" anchorX="-8" anchorY="-24" editorAnchorX="0" editorAnchorY="0" label="Attack3TellStart"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="53" ssX="273" ssY="36" ssWidth="33" ssHeight="32" anchorX="-8" anchorY="-24" editorAnchorX="0" editorAnchorY="0" label="Attack3TellStart"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="54" ssX="307" ssY="36" ssWidth="33" ssHeight="32" anchorX="-8" anchorY="-24" editorAnchorX="0" editorAnchorY="0" label="Attack3TellStart"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="62" ssX="273" ssY="36" ssWidth="33" ssHeight="32" anchorX="-8" anchorY="-24" editorAnchorX="0" editorAnchorY="0" label="Attack3ExitStart"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="34" ssX="341" ssY="35" ssWidth="33" ssHeight="32" anchorX="-12" anchorY="-24" editorAnchorX="0" editorAnchorY="0" label="Attack1TellEnd"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="61" ssX="307" ssY="36" ssWidth="33" ssHeight="32" anchorX="-8" anchorY="-24" editorAnchorX="0" editorAnchorY="0" label="Attack3ExitStart"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="35" ssX="375" ssY="35" ssWidth="32" ssHeight="32" anchorX="-11" anchorY="-24" editorAnchorX="0" editorAnchorY="0" label="Attack1ActionStart"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="42" ssX="416" ssY="34" ssWidth="32" ssHeight="32" anchorX="-13" anchorY="-24" editorAnchorX="0" editorAnchorY="0" label="Attack1ExitEnd"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="36" ssX="449" ssY="34" ssWidth="29" ssHeight="32" anchorX="-13" anchorY="-24" editorAnchorX="0" editorAnchorY="0" label="Attack1ActionStart"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="31" ssX="484" ssY="0" ssWidth="24" ssHeight="32" anchorX="-12" anchorY="-10" editorAnchorX="0" editorAnchorY="0" label="KOGetUpEnd"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="1" ssX="484" ssY="33" ssWidth="24" ssHeight="32" anchorX="-13" anchorY="-10" editorAnchorX="0" editorAnchorY="0" label="StandStart"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="4" ssX="0" ssY="87" ssWidth="24" ssHeight="32" anchorX="-13" anchorY="-10" editorAnchorX="0" editorAnchorY="0" label="RunStart"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="3" ssX="484" ssY="33" ssWidth="24" ssHeight="32" anchorX="-13" anchorY="-10" editorAnchorX="0" editorAnchorY="0" label="RunStart"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="23" ssX="25" ssY="87" ssWidth="24" ssHeight="32" anchorX="-14" anchorY="-9" editorAnchorX="0" editorAnchorY="0" label="KORisingEnd"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="22" ssX="25" ssY="87" ssWidth="24" ssHeight="32" anchorX="-14" anchorY="-9" editorAnchorX="0" editorAnchorY="0" label="KORisingStart"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="2" ssX="484" ssY="33" ssWidth="24" ssHeight="32" anchorX="-13" anchorY="-10" editorAnchorX="0" editorAnchorY="0" label="StandEnd"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="7" ssX="50" ssY="87" ssWidth="24" ssHeight="32" anchorX="-13" anchorY="-9" editorAnchorX="0" editorAnchorY="0" label="RunStart"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="20" ssX="75" ssY="76" ssWidth="24" ssHeight="32" anchorX="-11" anchorY="-10" editorAnchorX="0" editorAnchorY="0" label="StunStart"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="13" ssX="100" ssY="70" ssWidth="24" ssHeight="32" anchorX="-16" anchorY="-32" editorAnchorX="0" editorAnchorY="0" label="DodgeStart"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="21" ssX="125" ssY="70" ssWidth="24" ssHeight="32" anchorX="-12" anchorY="-10" editorAnchorX="0" editorAnchorY="0" label="StunEnd"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="17" ssX="150" ssY="70" ssWidth="24" ssHeight="32" anchorX="-17" anchorY="-30" editorAnchorX="0" editorAnchorY="0" label="DodgeStart"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="41" ssX="175" ssY="70" ssWidth="32" ssHeight="31" anchorX="-16" anchorY="-25" editorAnchorX="0" editorAnchorY="0" label="Attack1ExitStart"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="45" ssX="208" ssY="69" ssWidth="30" ssHeight="31" anchorX="-16" anchorY="-25" editorAnchorX="0" editorAnchorY="0" label="Attack2ActionStart"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="5" ssX="239" ssY="69" ssWidth="26" ssHeight="31" anchorX="-12" anchorY="-11" editorAnchorX="0" editorAnchorY="0" label="RunStart"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="9" ssX="266" ssY="69" ssWidth="24" ssHeight="31" anchorX="-13" anchorY="-9" editorAnchorX="0" editorAnchorY="0" label="RunStart"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="8" ssX="291" ssY="69" ssWidth="24" ssHeight="31" anchorX="-13" anchorY="-8" editorAnchorX="0" editorAnchorY="0" label="RunStart"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="19" ssX="316" ssY="69" ssWidth="24" ssHeight="31" anchorX="-10" anchorY="-11" editorAnchorX="0" editorAnchorY="0" label="StunStart"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="10" ssX="341" ssY="68" ssWidth="24" ssHeight="31" anchorX="-13" anchorY="-11" editorAnchorX="0" editorAnchorY="0" label="RunEnd"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="40" ssX="366" ssY="68" ssWidth="42" ssHeight="30" anchorX="-18" anchorY="-26" editorAnchorX="0" editorAnchorY="0" label="Attack1ExitStart"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="39" ssX="409" ssY="67" ssWidth="45" ssHeight="29" anchorX="-18" anchorY="-27" editorAnchorX="0" editorAnchorY="0" label="Attack1ActionEnd"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="6" ssX="455" ssY="67" ssWidth="26" ssHeight="29" anchorX="-12" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="RunStart"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="30" ssX="482" ssY="66" ssWidth="24" ssHeight="29" anchorX="-9" anchorY="-13" editorAnchorX="0" editorAnchorY="0" label="KOGetUpStart"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="12" ssX="0" ssY="120" ssWidth="25" ssHeight="27" anchorX="-18" anchorY="-33" editorAnchorX="0" editorAnchorY="0" label="DodgeStart"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="16" ssX="26" ssY="120" ssWidth="25" ssHeight="27" anchorX="-17" anchorY="-33" editorAnchorX="0" editorAnchorY="0" label="DodgeStart"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="18" ssX="52" ssY="120" ssWidth="27" ssHeight="25" anchorX="-16" anchorY="-33" editorAnchorX="0" editorAnchorY="0" label="DodgeEnd"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="14" ssX="80" ssY="109" ssWidth="27" ssHeight="25" anchorX="-15" anchorY="-34" editorAnchorX="0" editorAnchorY="0" label="DodgeStart"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="15" ssX="108" ssY="103" ssWidth="32" ssHeight="24" anchorX="-13" anchorY="-34" editorAnchorX="0" editorAnchorY="0" label="DodgeStart"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="11" ssX="141" ssY="103" ssWidth="32" ssHeight="24" anchorX="-14" anchorY="-32" editorAnchorX="0" editorAnchorY="0" label="DodgeStart"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="24" ssX="175" ssY="102" ssWidth="25" ssHeight="16" anchorX="-12" anchorY="-17" editorAnchorX="0" editorAnchorY="0" label="KOFallingStart"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="25" ssX="175" ssY="102" ssWidth="25" ssHeight="16" anchorX="-12" anchorY="-17" editorAnchorX="0" editorAnchorY="0" label="KOFallingEnd"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="29" ssX="208" ssY="101" ssWidth="23" ssHeight="13" anchorX="-13" anchorY="-29" editorAnchorX="0" editorAnchorY="0" label="KOGetUpStart"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="27" ssX="232" ssY="101" ssWidth="25" ssHeight="10" anchorX="-12" anchorY="-32" editorAnchorX="0" editorAnchorY="0" label="KODownEnd"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="26" ssX="232" ssY="101" ssWidth="25" ssHeight="10" anchorX="-12" anchorY="-32" editorAnchorX="0" editorAnchorY="0" label="KODownStart"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="28" ssX="258" ssY="101" ssWidth="23" ssHeight="10" anchorX="-13" anchorY="-31" editorAnchorX="0" editorAnchorY="0" label="KOGetUpStart"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="64" ssX="0" ssY="0" ssWidth="0" ssHeight="0" anchorX="0" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="Attack3ExitEnd"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="71" ssX="0" ssY="0" ssWidth="0" ssHeight="0" anchorX="0" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="Attack3ExitEnd"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="65" ssX="0" ssY="0" ssWidth="0" ssHeight="0" anchorX="0" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="Attack3ExitEnd"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="72" ssX="0" ssY="0" ssWidth="0" ssHeight="0" anchorX="0" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="Attack3ExitEnd"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="67" ssX="0" ssY="0" ssWidth="0" ssHeight="0" anchorX="0" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="Attack3ExitEnd"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="73" ssX="0" ssY="0" ssWidth="0" ssHeight="0" anchorX="0" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="Attack3ExitEnd"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="69" ssX="0" ssY="0" ssWidth="0" ssHeight="0" anchorX="0" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="Attack3ExitEnd"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="74" ssX="0" ssY="0" ssWidth="0" ssHeight="0" anchorX="0" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="Attack3ExitEnd"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="66" ssX="0" ssY="0" ssWidth="0" ssHeight="0" anchorX="0" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="Attack3ExitEnd"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="75" ssX="0" ssY="0" ssWidth="0" ssHeight="0" anchorX="0" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="Attack3ExitEnd"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="76" ssX="0" ssY="0" ssWidth="0" ssHeight="0" anchorX="0" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="Attack3ExitEnd"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="70" ssX="0" ssY="0" ssWidth="0" ssHeight="0" anchorX="0" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="Attack3ExitEnd"/>
+  <bitmap spriteName="Mercenary_Alex_Dummy_Sprite" index="68" ssX="0" ssY="0" ssWidth="0" ssHeight="0" anchorX="0" anchorY="0" editorAnchorX="0" editorAnchorY="0" label="Attack3ExitEnd"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="1" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="1" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="2" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="2" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="3" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="3" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="4" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="4" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="5" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="5" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="6" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="6" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="7" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="7" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="8" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="8" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="9" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="9" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="10" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="10" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="11" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="11" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="12" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="12" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="13" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="13" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="14" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="14" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="15" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="15" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="16" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="16" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="17" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="17" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="18" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="18" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="19" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="19" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="20" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="20" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="21" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="21" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="22" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="22" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="23" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="23" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="24" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="24" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="25" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="25" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="26" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="26" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="27" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="27" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="28" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="28" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="29" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="29" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="30" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="30" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="31" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="31" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="32" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="32" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="33" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="33" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="34" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="34" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="35" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="35" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="36" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="36" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="37" x="26.1" y="-0.95" width="36" height="43" rotation="0" type="2"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="37" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="37" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="38" x="26.1" y="-0.95" width="36" height="43" rotation="0" type="2"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="38" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="38" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="39" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="39" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="40" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="40" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="41" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="41" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="42" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="42" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="43" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="43" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="44" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="44" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="45" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="45" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="46" x="16" y="20.1" width="45" height="39" rotation="0" type="2"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="46" x="4.8" y="27.25" width="61" height="24" rotation="0" type="2"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="46" x="18.55" y="30.55" width="23" height="26" rotation="0" type="2"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="46" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="46" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="47" x="4.8" y="27.25" width="38" height="24" rotation="0" type="2"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="47" x="18.55" y="30.55" width="23" height="26" rotation="0" type="2"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="47" x="16" y="20.1" width="39" height="39" rotation="0" type="2"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="47" x="4.8" y="27.25" width="56" height="24" rotation="0" type="2"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="47" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="47" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="48" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="48" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="49" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="49" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="50" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="50" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="51" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="51" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="52" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="52" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="53" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="53" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="54" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="54" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="55" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="55" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="56" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="56" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="57" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="57" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="58" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="58" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="59" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="59" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="60" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="60" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="61" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="61" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="62" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="62" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="63" x="12.75" y="35" width="22" height="5" rotation="0" type="1"/>
+  <hitbox spriteName="Mercenary_Alex_Dummy_Sprite" index="63" x="13.75" y="13" width="21" height="30" rotation="0" type="3"/>
+  <container containerName="Mercenary_Alex_Dummy" spriteName="Mercenary_Alex_Dummy_Sprite" x="-25" y="-29" scaleX="1" scaleY="1" rotation="0" flipped="false" editorAnchorX="0" editorAnchorY="0"/>
+</xml>

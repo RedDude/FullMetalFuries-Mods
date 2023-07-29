@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{F0056AA5-70CF-4EF0-BB44-DCB0B4CF537E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BrawlerEditor</RootNamespace>
+    <AssemblyName>BrawlerEditor</AssemblyName>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60DC8134-EBA5-43B8-BCC9-BB4BC16C2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <StartupObject>BrawlerEditor.App</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Brawler2D">
+      <HintPath>..\..\fmfapi\Tools\Brawler2DEditor\Brawler2D.exe</HintPath>
+    </Reference>
+    <Reference Include="CDGCore">
+      <HintPath>..\..\fmfapi\Tools\Brawler2DEditor\CDGCore.dll</HintPath>
+    </Reference>
+    <Reference Include="CDGEngine">
+      <HintPath>..\..\fmfapi\Tools\Brawler2DEditor\CDGEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework" />
+    <Reference Include="Microsoft.Xna.Framework.Game" />
+    <Reference Include="Microsoft.Xna.Framework.Graphics" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="SpriteSystem2">
+      <HintPath>..\..\fmfapi\Tools\Brawler2DEditor\SpriteSystem2.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <HintPath>D:\SteamLibrary\steamapps\common\King of the Hat\KingOfTheHat_Data\Managed\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core">
+      <HintPath>D:\SteamLibrary\steamapps\common\King of the Hat\KingOfTheHat_Data\Managed\System.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <HintPath>D:\SteamLibrary\steamapps\common\King of the Hat\KingOfTheHat_Data\Managed\System.Drawing.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml">
+      <HintPath>D:\SteamLibrary\steamapps\common\Praey for the Gods\Praey For the Gods_Data\Managed\System.Xml.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationFramework.Aero" />
+  </ItemGroup>
+  <ItemGroup>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddLayerUndoAction.cs" />
+    <Compile Include="AddObjUndoAction.cs" />
+    <Compile Include="AddPlayerStartUndoAction.cs" />
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ChangeLayerNameDialog.cs" />
+    <Compile Include="CodeDialog.cs" />
+    <Compile Include="CodeScrollViewer.cs" />
+    <Compile Include="CollHullToolObj.cs" />
+    <Compile Include="CommandsDialog.cs" />
+    <Compile Include="ConfigFile.cs" />
+    <Compile Include="DeleteObjUndoAction.cs" />
+    <Compile Include="DragDropListBox\DragDropHelper.cs" />
+    <Compile Include="DragDropListBox\DraggedAdorner.cs" />
+    <Compile Include="DragDropListBox\InsertionAdorner.cs" />
+    <Compile Include="DragDropListBox\Utilities.cs" />
+    <Compile Include="EditorCollHullObj.cs" />
+    <Compile Include="EditorContainerObj.cs" />
+    <Compile Include="EditorEnemyObj.cs" />
+    <Compile Include="EditorEV.cs" />
+    <Compile Include="EditorSpriteObj.cs" />
+    <Compile Include="EnemyScreenControl.cs" />
+    <Compile Include="GameScreenControl.cs" />
+    <Compile Include="GraphicsDeviceControl.cs" />
+    <Compile Include="GraphicsDeviceEventArgs.cs" />
+    <Compile Include="GraphicsDeviceService.cs" />
+    <Compile Include="HwndMouseEventArgs.cs" />
+    <Compile Include="HwndMouseState.cs" />
+    <Compile Include="IAddPhysicsObj.cs" />
+    <Compile Include="ICodeObj.cs" />
+    <Compile Include="IControl.cs" />
+    <Compile Include="IEditorAnchorObj.cs" />
+    <Compile Include="IEditorDrawableObj.cs" />
+    <Compile Include="IJumpOverObj.cs" />
+    <Compile Include="InnerZonePos.cs" />
+    <Compile Include="IOpacityObj.cs" />
+    <Compile Include="IPropertiesObj.cs" />
+    <Compile Include="IScaleableObj.cs" />
+    <Compile Include="LayerPropertiesPage2StackPanel.cs" />
+    <Compile Include="LayerPropertiesStackPanel.cs" />
+    <Compile Include="LayerPropertyObj.cs" />
+    <Compile Include="LayerTabControl.cs" />
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MarkerObj.cs" />
+    <Compile Include="MarkerToolObj.cs" />
+    <Compile Include="MoveLayerUndoAction.cs" />
+    <Compile Include="MoveObjsUndoAction.cs" />
+    <Compile Include="NativeMethods.cs" />
+    <Compile Include="OutputScrollViewer.cs" />
+    <Compile Include="PlayerStartObj.cs" />
+    <Compile Include="PlayerStartToolObj.cs" />
+    <Compile Include="PropertiesStackPanel.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <DependentUpon>Settings.settings</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="RemoveLayerUndoAction.cs" />
+    <Compile Include="RoomObj.cs" />
+    <Compile Include="RoomToolObj.cs" />
+    <Compile Include="RotateObjUndoAction.cs" />
+    <Compile Include="RotationToolObj.cs" />
+    <Compile Include="SaveHelper.cs" />
+    <Compile Include="ScaleAllObjsUndoAction.cs" />
+    <Compile Include="ScaleToolObj.cs" />
+    <Compile Include="ScaleUndoAction.cs" />
+    <Compile Include="SelectionToolObj.cs" />
+    <Compile Include="ShiftObjectsDownUndoAction.cs" />
+    <Compile Include="ShiftObjectsUpUndoAction.cs" />
+    <Compile Include="SpriteListBox.cs" />
+    <Compile Include="SpriteListBoxItem.cs" />
+    <Compile Include="SpriteScreenControl.cs" />
+    <Compile Include="StaticTexture.cs" />
+    <Compile Include="ToolObj.cs" />
+    <Compile Include="ToolType.cs" />
+    <Compile Include="TransitionZoneType.cs" />
+    <Compile Include="TriggerType.cs" />
+    <Compile Include="UndoAction.cs" />
+    <Compile Include="UndoManager.cs" />
+    <Compile Include="XnaControl.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resources" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="dialog windows\changelayernamedialog.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="dialog windows\codedialog.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="dialog windows\commandsdialog.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\cameratool.jpg" />
+    <Resource Include="images\markertool.jpg" />
+    <Resource Include="images\orbtool.jpg" />
+    <Resource Include="images\playerstartdebugtool.jpg" />
+    <Resource Include="images\playerstarttool.jpg" />
+    <Resource Include="images\rectangleselection.jpg" />
+    <Resource Include="images\resetzoomtool.jpg" />
+    <Resource Include="images\roomtool.jpg" />
+    <Resource Include="images\rotationtool.jpg" />
+    <Resource Include="images\scaletool.jpg" />
+    <Resource Include="images\selectiontool.jpg" />
+    <Resource Include="images\triggerplacementtool.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

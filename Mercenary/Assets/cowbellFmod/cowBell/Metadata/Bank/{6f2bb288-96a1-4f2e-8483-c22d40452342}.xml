@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="MasterBank" id="{6f2bb288-96a1-4f2e-8483-c22d40452342}">
+        <property name="name">
+            <value>cowbell</value>
+        </property>
+        <relationship name="folder">
+            <destination>{491cc66e-2e98-44ab-a2fc-1ef44984836c}</destination>
+        </relationship>
+    </object>
+</objects>
