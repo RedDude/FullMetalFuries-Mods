@@ -18,7 +18,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <PackageReference Include="RedDude.FullMetalFuries.ModBuildConfig" Version="2.0.0" />
+      <PackageReference Include="RedDude.FullMetalFuries.ModBuildConfig" Version="2.0.3" />
     </ItemGroup>
 
 </Project>
